@@ -709,7 +709,8 @@
           "negative_penalty": 0.0
         }
       },
-      "best_question": "q_短进气道_短舱气动设计与优化"
+      "best_question": "q_短进气道_短舱气动设计与优化",
+      "promoted": true
     },
     {
       "id": "W4414200806",
@@ -796,7 +797,8 @@
           "negative_penalty": 0.0
         }
       },
-      "best_question": "q_短进气道_短舱气动设计与优化"
+      "best_question": "q_短进气道_短舱气动设计与优化",
+      "promoted": true
     },
     {
       "id": "W4407413523",
@@ -834,7 +836,8 @@
           "negative_penalty": 0.0
         }
       },
-      "best_question": "q_短进气道_短舱气动设计与优化"
+      "best_question": "q_短进气道_短舱气动设计与优化",
+      "promoted": true
     },
     {
       "id": "W4410020124",
@@ -879,7 +882,8 @@
           "negative_penalty": 0.0
         }
       },
-      "best_question": "q_短进气道_短舱气动设计与优化"
+      "best_question": "q_短进气道_短舱气动设计与优化",
+      "promoted": true
     },
     {
       "id": "W4414242849",
@@ -920,7 +924,8 @@
           "negative_penalty": 0.0
         }
       },
-      "best_question": "q_短进气道_短舱气动设计与优化"
+      "best_question": "q_短进气道_短舱气动设计与优化",
+      "promoted": true
     },
     {
       "id": "W4415517363",
@@ -21238,5 +21243,5 @@
       "best_question": ""
     }
   ],
-  "last_updated": "2026-05-18T12:00:14.148009+00:00"
+  "last_updated": "2026-05-18T12:21:22.802334+00:00"
 }

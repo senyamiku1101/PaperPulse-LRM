@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-18T12:00:48.576974+00:00",
-  "total_count": 45,
+  "last_updated": "2026-05-18T12:21:44.210315+00:00",
+  "total_count": 50,
   "papers": [
     {
       "id": "W4407393370",
@@ -3433,6 +3433,222 @@
         }
       },
       "analysis": null
+    },
+    {
+      "id": "W4411966333",
+      "doi": "10.1016/j.csite.2025.106616",
+      "title": "Cooling tests of the core compartment of a high bypass ratio turbofan engine for civil aircraft",
+      "year": 2025,
+      "abstract": "This paper analyzes the convective heat transfer characteristics of the core compartment engine casing of a high bypass ratio turbofan engine for civil aircraft through full-scale model experiments. The study focused on a triple spool engine ventilation cooling layout. The impact of cooling air inlet layout and compartment subsystems on the convective heat transfer of the engine case surface and the temperature field inside the compartment were studied through the test. The experimental results show that the inlet orifice layout has a significant effect on the heat transfer coefficient of the engine casing surface in IP compartment and aft core compartment, and the influence on the circumferential temperature uniformity becomes insignificant with the flow rate increases. Exhaust flow from IP compartment entering aft core compartment can enhance the convective heat transfer of the aft core compartment engine casing surface, but the effect is not as good as directly increasing the corresponding cooling flow through the aft core compartment inlet. Based on the experimental results, some suggestions were given for how to consider the convective heat transfer coefficient and temperature uniformity in low-order modeling (LOM) for ventilation and cooling system design.",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_短进气道_短舱气动设计与优化"
+      ],
+      "claim_ids": [
+        "claim_W4411966333_1",
+        "claim_W4411966333_2"
+      ],
+      "discovery_reason": "via citing_seed, connections: 4",
+      "scores": {
+        "total": 5.85,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": {
+        "claims_summary": {
+          "claims": [
+            {
+              "statement": "进气孔布局对IP舱和后核心舱的发动机机匣表面换热系数有显著影响，且随着流量增加，对周向温度均匀性的影响减弱",
+              "method": "全尺寸模型实验",
+              "evidence_type": "experiment",
+              "geometry": "三转子发动机通风冷却布局，包括核心舱、IP舱和后核心舱",
+              "condition": "不同冷却进气口布局和流量条件",
+              "outcome": "进气孔布局显著影响换热系数，流量增大时温度均匀性受布局影响减小",
+              "limitation": "作者未明确声明局限性"
+            },
+            {
+              "statement": "从IP舱进入后核心舱的排气可增强后核心舱机匣表面对流换热，但效果不如直接增加后核心舱入口冷却流量",
+              "method": "全尺寸模型实验",
+              "evidence_type": "experiment",
+              "geometry": "三转子发动机通风冷却布局",
+              "condition": "IP舱排气进入后核心舱 vs 直接增加后核心舱冷却流量",
+              "outcome": "IP舱排气能增强换热，但直接增加冷却流量效果更佳",
+              "limitation": "作者未明确声明局限性"
+            }
+          ],
+          "relevance_to_question": 5,
+          "novelty": "incremental",
+          "question_affinity": []
+        },
+        "relevance_to_question": 5,
+        "novelty": "incremental",
+        "analyzed_at": "2026-05-18T12:21:40.867793+00:00"
+      }
+    },
+    {
+      "id": "W4417165552",
+      "doi": "10.1016/j.ast.2025.111488",
+      "title": "Sensitivity analysis and ANN-based surrogate optimization for transonic fan rotor: Multi-condition aerodynamic design incorporating fan-intake interaction",
+      "year": 2025,
+      "abstract": "",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_短进气道_短舱气动设计与优化"
+      ],
+      "claim_ids": [],
+      "discovery_reason": "via citing_seed, connections: 7",
+      "scores": {
+        "total": 5.85,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": null
+    },
+    {
+      "id": "W4407413523",
+      "doi": "10.2514/6.2025-2111",
+      "title": "Use of Non-intrusive Flow Diagnostics for Aero-Engine Inlet Flow Distortion Measurements in an Industrial Wind-tunnel",
+      "year": 2025,
+      "abstract": "In crosswind conditions, aero-engine intakes experience unsteady flow distortions at the fan face, typically caused by the ingestion of ground vortices and flow separation. These distortions can negatively impact both intake performance and the compatibility of the downstream propulsion system. Understanding the aerodynamics of these flows is crucial for developing next-generation aircrafts with propulsion systems integrated more closely with the airframe. Optical measurement techniques provide detailed datasets in both space and time to support this understanding, but several challenges limit their widespread use in propulsion integration testing. This study demonstrates a novel application of non-intrusive flow diagnostics in an industrial setting for propulsion integration testing. Optical measurements were conducted within an aspirated intake configuration and, later, within a fully coupled fan-intake propulsion system representative of a modern high-bypass aero-engine. Several innovative solutions were developed to improve the integration of optical systems into industrial settings and enhance data acquisition efficiency. The analysis of the results yielded significant contributions about the unsteady interactions within civil intakes at crosswind and high incidence conditions, which are expected to have a notable impact on the development of future, closely integrated propulsion systems architectures able to meet the specified NetZero targets.",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_短进气道_短舱气动设计与优化"
+      ],
+      "claim_ids": [
+        "claim_W4407413523_1"
+      ],
+      "discovery_reason": "via citing_seed, connections: 5",
+      "scores": {
+        "total": 5.85,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": {
+        "claims_summary": {
+          "claims": [
+            {
+              "statement": "非侵入式光学测量技术在工业风洞中成功应用于进气道流动畸变测量，揭示了侧风和高迎角条件下的非定常流动相互作用。",
+              "method": "非侵入式光学测量（如PIV等）结合创新集成方案",
+              "evidence_type": "experiment",
+              "geometry": "抽吸进气道及全耦合风扇-进气道推进系统（现代高涵道比涡扇发动机代表）",
+              "condition": "侧风和高迎角工况",
+              "outcome": "获得了高时空分辨率流动数据，明确了非定常畸变特征，对紧密集成推进系统设计有指导意义。",
+              "limitation": "光学系统集成到工业环境存在挑战，数据采集效率需进一步优化。"
+            }
+          ],
+          "relevance_to_question": 6,
+          "novelty": "novel",
+          "question_affinity": []
+        },
+        "relevance_to_question": 6,
+        "novelty": "novel",
+        "analyzed_at": "2026-05-18T12:21:44.209167+00:00"
+      }
+    },
+    {
+      "id": "W4410020124",
+      "doi": "10.2139/ssrn.5239645",
+      "title": "Epistemic Uncertainty Due to Turbulence Closure on Intakes Under Strong Crosswinds",
+      "year": 2025,
+      "abstract": "",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_短进气道_短舱气动设计与优化"
+      ],
+      "claim_ids": [],
+      "discovery_reason": "via citing_seed, connections: 10",
+      "scores": {
+        "total": 5.85,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": null
+    },
+    {
+      "id": "W4414242849",
+      "doi": "10.1115/1.4069810",
+      "title": "Performance and Secondary Flow Structures Characterization in a Highly Loaded Low-Pressure Compressor Under Distorted Inflow Conditions",
+      "year": 2025,
+      "abstract": "Abstract A highly loaded 1.5-stage axial compressor representative of the first stage of a modern booster was tested in the von Karman Institute (VKI)-R4 facility with an inlet total pressure distortion replicating realistic engine installation effects. Given the significant impact of the distortion on the stage operability, the flow features responsible for the observed performance loss were identified and characterized. To this end, time-averaged and time-resolved measurements were employed to gain a comprehensive understanding of the involved physical phenomena. Additionally, full-annulus URANS (unsteady Reynolds-averaged Navier–Stokes) simulations were performed to characterize the distortion transfer mechanisms and the flow reorganization. Unlike typical cases where the intensification of secondary flows leads to a reduction of stability and performance, the present stage responded unexpectedly to the inlet distortion, exhibiting an increased stall margin compared to the clean machine. Beyond the clean stall boundary, a significant performance reduction was observed in distorted conditions, yet without the onset of rotating stall. This behavior was attributed to the propagation of critical flow structures within the distorted region and to a severe flow redistribution taking place after the distortion screen.",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_短进气道_短舱气动设计与优化"
+      ],
+      "claim_ids": [
+        "claim_W4414242849_1"
+      ],
+      "discovery_reason": "via citing_seed, connections: 5",
+      "scores": {
+        "total": 5.85,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": {
+        "claims_summary": {
+          "claims": [
+            {
+              "statement": "在进口总压畸变条件下，高负荷低压压气机级表现出比清洁进口更大的失速裕度，但性能显著下降且未发生旋转失速，这归因于畸变区域内关键流动结构的传播和严重的流动再分布。",
+              "method": "实验测量（时均和时变）与全环URANS数值模拟",
+              "evidence_type": "experiment",
+              "geometry": "1.5级轴流压气机，代表现代增压器第一级",
+              "condition": "进口总压畸变模拟实际发动机安装效应",
+              "outcome": "畸变条件下失速裕度增加，但性能降低；无旋转失速发生；流动结构传播和再分布是主要原因",
+              "limitation": "未明确声明，但结果可能限于特定几何和畸变模式"
+            }
+          ],
+          "relevance_to_question": 6,
+          "novelty": "incremental",
+          "question_affinity": []
+        },
+        "relevance_to_question": 6,
+        "novelty": "incremental",
+        "analyzed_at": "2026-05-18T12:21:39.286252+00:00"
+      }
     }
   ]
 }

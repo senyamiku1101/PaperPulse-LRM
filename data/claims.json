@@ -458,7 +458,75 @@
       "contradicting_papers": [],
       "confidence": "moderate",
       "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4414242849_1",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "在进口总压畸变条件下，高负荷低压压气机级表现出比清洁进口更大的失速裕度，但性能显著下降且未发生旋转失速，这归因于畸变区域内关键流动结构的传播和严重的流动再分布。",
+      "method": "实验测量（时均和时变）与全环URANS数值模拟",
+      "evidence_type": "experiment",
+      "geometry": "1.5级轴流压气机，代表现代增压器第一级",
+      "condition": "进口总压畸变模拟实际发动机安装效应",
+      "outcome": "畸变条件下失速裕度增加，但性能降低；无旋转失速发生；流动结构传播和再分布是主要原因",
+      "limitation": "未明确声明，但结果可能限于特定几何和畸变模式",
+      "supporting_papers": [
+        "W4414242849"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4411966333_1",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "进气孔布局对IP舱和后核心舱的发动机机匣表面换热系数有显著影响，且随着流量增加，对周向温度均匀性的影响减弱",
+      "method": "全尺寸模型实验",
+      "evidence_type": "experiment",
+      "geometry": "三转子发动机通风冷却布局，包括核心舱、IP舱和后核心舱",
+      "condition": "不同冷却进气口布局和流量条件",
+      "outcome": "进气孔布局显著影响换热系数，流量增大时温度均匀性受布局影响减小",
+      "limitation": "作者未明确声明局限性",
+      "supporting_papers": [
+        "W4411966333"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4411966333_2",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "从IP舱进入后核心舱的排气可增强后核心舱机匣表面对流换热，但效果不如直接增加后核心舱入口冷却流量",
+      "method": "全尺寸模型实验",
+      "evidence_type": "experiment",
+      "geometry": "三转子发动机通风冷却布局",
+      "condition": "IP舱排气进入后核心舱 vs 直接增加后核心舱冷却流量",
+      "outcome": "IP舱排气能增强换热，但直接增加冷却流量效果更佳",
+      "limitation": "作者未明确声明局限性",
+      "supporting_papers": [
+        "W4411966333"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4407413523_1",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "非侵入式光学测量技术在工业风洞中成功应用于进气道流动畸变测量，揭示了侧风和高迎角条件下的非定常流动相互作用。",
+      "method": "非侵入式光学测量（如PIV等）结合创新集成方案",
+      "evidence_type": "experiment",
+      "geometry": "抽吸进气道及全耦合风扇-进气道推进系统（现代高涵道比涡扇发动机代表）",
+      "condition": "侧风和高迎角工况",
+      "outcome": "获得了高时空分辨率流动数据，明确了非定常畸变特征，对紧密集成推进系统设计有指导意义。",
+      "limitation": "光学系统集成到工业环境存在挑战，数据采集效率需进一步优化。",
+      "supporting_papers": [
+        "W4407413523"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
     }
   ],
-  "last_updated": "2026-05-18T12:00:48.574395+00:00"
+  "last_updated": "2026-05-18T12:21:44.209543+00:00"
 }
