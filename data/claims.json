@@ -1,0 +1,464 @@
+{
+  "claims": [
+    {
+      "id": "claim_W4414394993_1",
+      "question_id": "q_进口畸变对压气机性能的影响",
+      "statement": "进口畸变会导致轴流压气机性能下降和运行范围缩小，数值和实验方法是分析畸变影响的有效工具，综述提供了增强压气机性能的潜在解决方案。",
+      "method": "综述",
+      "evidence_type": "review",
+      "geometry": "轴流压气机",
+      "condition": "进口畸变及其他流动不稳定条件",
+      "outcome": "总结了数值和实验方法在分析进口畸变影响方面的应用，并提出了提升性能的解决方案。",
+      "limitation": "未明确声明局限性",
+      "supporting_papers": [
+        "W4414394993"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W7152635645_1",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "提出的多目标优化方法能够协调多个工况实现短舱气动性能提升，包括巡航阻力降低0.933%和燃油消耗降低0.628%，侧风下总压恢复提高2.76%。",
+      "method": "基于Kriging代理模型和NSGA-II遗传算法的混合优化，结合参数化三维非轴对称短舱建模和CFD验证",
+      "evidence_type": "numerical",
+      "geometry": "三维非轴对称短舱进气道",
+      "condition": "巡航、侧风、最大升力系数工况",
+      "outcome": "巡航阻力系数降低0.933%，块燃油消耗降低0.628%；侧风下总压恢复系数提高2.76%，流动分离显著减小；最大升力系数下总压恢复>99%。",
+      "limitation": "未明确声明",
+      "supporting_papers": [
+        "W7152635645"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4410603956_1",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "整合实验、数值和理论方法可显著改善飞机机翼和发动机的空气动力学性能，包括增加升力、减少阻力和提高效率。",
+      "method": "综述现有文献",
+      "evidence_type": "review",
+      "geometry": "机翼、发动机、进气道（超音速/高音速）、S形进气道、短舱",
+      "condition": "未指定特定工况",
+      "outcome": "集成方法提供了改善未来飞机设计的稳健框架",
+      "limitation": "未明确声明",
+      "supporting_papers": [
+        "W4410603956"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W7129079259_1",
+      "question_id": "q_风扇_压气机噪声产生与传播",
+      "statement": "提出了一种部分跨度近似方法，用于航空发动机进气道内线性音调噪声传播的数值预测，可显著降低计算成本而保持可接受的精度。",
+      "method": "通过四个阶段（模态表示、管内传播、远场辐射、真实几何应用）进行数值实验和误差分析",
+      "evidence_type": "numerical",
+      "geometry": "圆柱形管道和轴对称真实进气道几何",
+      "condition": "风扇转子音调噪声及转子-静子相互作用音调噪声源，考虑稳态流畸变",
+      "outcome": "多数情况下管内和远场预测误差可忽略；低方位角谐波和高轮毂比管道误差较高；可显著减少网格尺寸",
+      "limitation": "未明确声明局限性，但文中指出低方位角谐波和高轮毂比管道会导致较高误差",
+      "supporting_papers": [
+        "W7129079259"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4408297773_1",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "缩短进气道长度可提高稳定性，特别是收缩比方面，且短进气道在巡航时压力恢复提高0.08%但阻力增加87.05 drag counts",
+      "method": "多目标优化框架，结合实验验证、CFD、设计试验和代理模型",
+      "evidence_type": "experiment",
+      "geometry": "三种长度与风扇直径比（0.65, 0.50, 0.35）的进气道",
+      "condition": "低速（高迎角、侧风、静态启动）和巡航（机翼上方短舱）",
+      "outcome": "短进气道在所有低速工况下无分离，巡航压力恢复提高0.08%，阻力增加87.05 drag counts",
+      "limitation": "未明确声明",
+      "supporting_papers": [
+        "W4408297773"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4408297773_2",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "巡航时扩散锥角是影响进气道压力恢复的最关键参数",
+      "method": "参数敏感性分析（基于设计试验数据）",
+      "evidence_type": "analytical",
+      "geometry": "超高超涵道比发动机进气道",
+      "condition": "巡航",
+      "outcome": "扩散锥角为最关键的几何参数",
+      "limitation": "未明确声明",
+      "supporting_papers": [
+        "W4408297773"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4408297773_3",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "开发了超高超涵道比发动机进气道的多目标优化框架，能同时优化低速和巡航性能",
+      "method": "多目标优化框架，使用CFD和代理模型进行折衷分析",
+      "evidence_type": "numerical",
+      "geometry": "三维进气道（长度与风扇直径比0.35-0.65）",
+      "condition": "低速（高迎角、侧风、静态启动）和巡航",
+      "outcome": "找到了低速和巡航性能之间的最优折衷方案",
+      "limitation": "未明确声明",
+      "supporting_papers": [
+        "W4408297773"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4415966137_1",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "体激波模型能够准确再现短进气道与风扇之间的流场耦合，尽管无法完全复制叶尖附近特定流动特征，但能重构叶片对进气畸变的响应并捕捉主要流动结构。",
+      "method": "采用贝叶斯求解器进行多目标优化，并通过体激波模型模拟风扇，使用全环滑动网格进行非定常验证",
+      "evidence_type": "numerical",
+      "geometry": "短进气道（short aero-intake）与跨音速风扇",
+      "condition": "巡航和起飞工况，高攻角（high angle of attack）",
+      "outcome": "Pareto前沿揭示了高攻角与高速性能之间的冲突，简化方法适用于模拟风扇与进气道相互作用，为短进气道设计提供高效优化方法",
+      "limitation": "体激波模型无法完全复制叶尖附近的特定流动特征",
+      "supporting_papers": [
+        "W4415966137"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4407136132_1",
+      "question_id": "q_压气机失速起始与稳定性",
+      "statement": "旋转进气畸变中，畸变转速强烈影响压气机稳定性，存在危险畸变转速带，其左边界与旋转失速传播速度一致，右边界与畸变角相关。",
+      "method": "实验研究",
+      "evidence_type": "experiment",
+      "geometry": "轴流压气机",
+      "condition": "旋转进气畸变",
+      "outcome": "在危险畸变转速带内，压气机稳定裕度急剧下降。",
+      "limitation": "未明确声明",
+      "supporting_papers": [
+        "W4407136132"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4407136132_2",
+      "question_id": "q_压气机失速起始与稳定性",
+      "statement": "旋转进气畸变引入后，高负荷区域易发生流动分离，从而诱发失速扰动。",
+      "method": "实验研究",
+      "evidence_type": "experiment",
+      "geometry": "轴流压气机",
+      "condition": "旋转进气畸变",
+      "outcome": "高负荷区流动分离导致失速扰动产生。",
+      "limitation": "未明确声明",
+      "supporting_papers": [
+        "W4407136132"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4407136132_3",
+      "question_id": "q_压气机失速起始与稳定性",
+      "statement": "危险畸变转速带内，畸变区对失速扰动的加剧作用加速了失速扰动发展为旋转失速。",
+      "method": "实验研究",
+      "evidence_type": "experiment",
+      "geometry": "轴流压气机",
+      "condition": "旋转进气畸变",
+      "outcome": "畸变区加速失速扰动演变为旋转失速。",
+      "limitation": "未明确声明",
+      "supporting_papers": [
+        "W4407136132"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4407136132_4",
+      "question_id": "q_压气机失速起始与稳定性",
+      "statement": "提出模型解释畸变转速和畸变角对压气机失速的影响。",
+      "method": "实验与建模",
+      "evidence_type": "experiment",
+      "geometry": "轴流压气机",
+      "condition": "旋转进气畸变",
+      "outcome": "模型可以解释畸变转速和角度对失速的影响。",
+      "limitation": "未明确声明",
+      "supporting_papers": [
+        "W4407136132"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4414200806_1",
+      "question_id": "q_压气机失速起始与稳定性",
+      "statement": "临界失速畸变角仅存在于尖峰型失速前兆中，而在模态型失速前兆中不存在。",
+      "method": "通过泡沫金属机匣处理（FMCT）在同一风扇中分别产生模态和尖峰失速前兆，并改变轴向位置来调节畸变角。",
+      "evidence_type": "experiment",
+      "geometry": "低转速风扇，带有周向畸变",
+      "condition": "不同畸变角度下的失速前兆类型（模态或尖峰）",
+      "outcome": "发现临界畸变角在尖峰失速前兆中存在，在模态失速前兆中消失。",
+      "limitation": "模型是定性的，未进行定量验证。",
+      "supporting_papers": [
+        "W4414200806"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4414200806_2",
+      "question_id": "q_压气机失速起始与稳定性",
+      "statement": "失速前扰动的演化速率取决于当地负载，而不是畸变区的面积。",
+      "method": "使用不同畸变角度下的平均小波谱分析预失速扰动。",
+      "evidence_type": "experiment",
+      "geometry": "低转速风扇，带有周向畸变",
+      "condition": "不同畸变角度的预失速阶段",
+      "outcome": "证明了扰动演化速率与当地负载相关，与畸变区面积无关。",
+      "limitation": "未声明",
+      "supporting_papers": [
+        "W4414200806"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4414200806_3",
+      "question_id": "q_压气机失速起始与稳定性",
+      "statement": "通过一阶空间模态分析，在失速前一个转圈内观察到相同的不可逆区域，与畸变角度无关。",
+      "method": "时间域分析和一阶空间模态分析。",
+      "evidence_type": "experiment",
+      "geometry": "低转速风扇，带有周向畸变",
+      "condition": "失速前一个转圈内",
+      "outcome": "发现了与畸变角度无关的不可逆区域。",
+      "limitation": "未声明",
+      "supporting_papers": [
+        "W4414200806"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4414200806_4",
+      "question_id": "q_压气机失速起始与稳定性",
+      "statement": "提出了一个关于临界畸变角的简单定性模型，建立短尺度扰动发展与稳定性极限之间的直接关联。",
+      "method": "基于实验观察和理论分析提出的定性模型。",
+      "evidence_type": "analytical",
+      "geometry": "低转速风扇，周向畸变",
+      "condition": "临界畸变角条件下",
+      "outcome": "模型直接关联了短尺度扰动发展（如尖峰）与稳定性极限。",
+      "limitation": "模型是定性的，需要进一步定量验证。",
+      "supporting_papers": [
+        "W4414200806"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W7129672929_1",
+      "question_id": "q_压气机失速起始与稳定性",
+      "statement": "旋转失速和喘振是航空发动机压气机中复杂的不稳定流动现象，严重威胁压气机和发动机的安全与可靠性",
+      "method": "文献综述",
+      "evidence_type": "review",
+      "geometry": "轴流压气机",
+      "condition": "多种工况",
+      "outcome": "确认了失速和喘振的危害性",
+      "limitation": "未明确声明",
+      "supporting_papers": [
+        "W7129672929"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W7129672929_2",
+      "question_id": "q_压气机失速起始与稳定性",
+      "statement": "现代轴流压气机失速起始与叶尖区域流动动力学密切相关，理论认识随时间演变",
+      "method": "文献综述",
+      "evidence_type": "review",
+      "geometry": "轴流压气机",
+      "condition": "多种工况",
+      "outcome": "建立了失速起始与叶尖流动动力学的关系框架",
+      "limitation": "未明确声明",
+      "supporting_papers": [
+        "W7129672929"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W7129672929_3",
+      "question_id": "q_压气机失速起始与稳定性",
+      "statement": "槽式机匣处理能够增强压气机稳定性，其机理已被广泛研究",
+      "method": "文献综述",
+      "evidence_type": "review",
+      "geometry": "槽式机匣处理的轴流压气机",
+      "condition": "多种工况",
+      "outcome": "总结了槽式机匣处理的稳定性增强机制",
+      "limitation": "未明确声明",
+      "supporting_papers": [
+        "W7129672929"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4409867386_1",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "在紧凑型短舱设计中，几何参数与阻力系数的映射关系通过代理模型建立，其中比值L/R_h（长度与最大半径之比）对阻力的Sobol一阶和总效应指数均超过85%，是主导参数",
+      "method": "Sobol序列采样与方差敏感性分析结合代理模型",
+      "evidence_type": "numerical",
+      "geometry": "紧凑型航空发动机短舱（nacelle）",
+      "condition": "巡航工况（mid-cruise等）",
+      "outcome": "比值L/R_h是影响阻力系数的最敏感几何参数，其总效应Sobol指数>85%",
+      "limitation": "未明确说明，但可能受限于代理模型精度和特定设计空间",
+      "supporting_papers": [
+        "W4409867386"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4409867386_2",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "经过多目标鲁棒优化后的紧凑型短舱设计，在巡航阻力系数上的绝对变化从0.0017降至0.0004，表明优化设计对几何参数变化更不敏感，具有更强的鲁棒性",
+      "method": "多目标鲁棒设计优化结合敏感性分析",
+      "evidence_type": "numerical",
+      "geometry": "紧凑型航空发动机短舱",
+      "condition": "巡航工况",
+      "outcome": "优化后阻力系数变化范围显著减小，鲁棒性提升",
+      "limitation": "优化结果可能依赖于确定的工况范围",
+      "supporting_papers": [
+        "W4409867386"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4416092657_1",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "在Mach 0.85时，使用k-epsilon湍流模型和1.64百万网格的CRM短舱模型，阻力系数Cd为0.00245，验证误差为1.24%。",
+      "method": "网格独立性测试、不同湍流模型对比、马赫数变化分析",
+      "evidence_type": "numerical",
+      "geometry": "CRM短舱带风扇",
+      "condition": "马赫数0.85，使用ANSYS Fluent k-epsilon模型，网格量1.64百万",
+      "outcome": "Cd=0.00245，误差1.24%",
+      "limitation": "未明确声明",
+      "supporting_papers": [
+        "W4416092657"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4416092657_2",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "优化后的CRM短舱在添加核心锥体且锥角为13.7°时，在Mach 0.82下升力系数Cl提升至0.011035，优于基线模型。",
+      "method": "几何优化（添加核心锥体并改变锥角），数值模拟",
+      "evidence_type": "numerical",
+      "geometry": "CRM短舱带核心锥体",
+      "condition": "马赫数0.82，Spalart-Allmaras湍流模型，网格量2.55百万",
+      "outcome": "Cl=0.011035，验证误差8.54%",
+      "limitation": "未明确声明",
+      "supporting_papers": [
+        "W4416092657"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W4408378222_1",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "紧凑型短舱相比传统短舱在巡航马赫数0.85时减阻8.5%（实验）和8.8%（CFD）",
+      "method": "风洞实验和CFD模拟",
+      "evidence_type": "experiment",
+      "geometry": "高涵道比发动机短舱（传统和紧凑设计）",
+      "condition": "巡航条件，马赫数0.85，不同飞行马赫数、质量流捕获比和迎角",
+      "outcome": "紧凑短舱减阻8.5%（实验）和8.8%（CFD）",
+      "limitation": "未明确声明局限性",
+      "supporting_papers": [
+        "W4408378222"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W7127448055_1",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "在分离流动条件下，风扇面旋流畸变程度远高于附着流动条件，时间平均强度高出3倍，峰值强度高出4倍",
+      "method": "立体粒子图像测速 (S-PIV)",
+      "evidence_type": "experiment",
+      "geometry": "航空发动机进气道-风扇耦合系统，包含地面和共旋地面涡",
+      "condition": "侧风条件下，低风扇转速和低质量流捕获比（分离流动），高风扇转速和高质量流捕获比（附着流动），侧风速度恒定",
+      "outcome": "分离情况平均旋流强度为附着情况的3倍，峰值强度为4倍",
+      "limitation": "",
+      "supporting_papers": [
+        "W7127448055"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W7127448055_2",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "靠近叶尖径向位置的峰值旋流畸变与全局面积平均指标存在显著差异",
+      "method": "立体粒子图像测速 (S-PIV)",
+      "evidence_type": "experiment",
+      "geometry": "航空发动机进气道-风扇耦合系统，包含地面和共旋地面涡",
+      "condition": "侧风条件下，分析靠近叶尖位置",
+      "outcome": "靠近叶尖的峰值旋流畸变与全局面积平均指标差异大",
+      "limitation": "",
+      "supporting_papers": [
+        "W7127448055"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W7127448055_3",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "极值理论可用于从实验数据中预测峰值旋流强度",
+      "method": "极值理论基于实验数据",
+      "evidence_type": "experiment",
+      "geometry": "航空发动机进气道-风扇耦合系统",
+      "condition": "使用实验数据建立模型",
+      "outcome": "实现了峰值旋流强度的预测",
+      "limitation": "",
+      "supporting_papers": [
+        "W7127448055"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-18"
+    }
+  ],
+  "last_updated": "2026-05-18T12:00:48.574395+00:00"
+}

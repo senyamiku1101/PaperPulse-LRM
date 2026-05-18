@@ -1,0 +1,3438 @@
+{
+  "last_updated": "2026-05-18T12:00:48.576974+00:00",
+  "total_count": 45,
+  "papers": [
+    {
+      "id": "W4407393370",
+      "doi": "https://doi.org/10.2514/1.j064898",
+      "title": "Improved Generalized Eigenvalue Method for Compressor Stall Prediction",
+      "authors": [
+        {
+          "name": "Zhenyu Li",
+          "id": "A5101805400",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Jiahao Hu",
+          "id": "A5037554168",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Dakun Sun",
+          "id": "A5063686427",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Xu Dong",
+          "id": "A5077950741",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Dengke Xu",
+          "id": "A5053335658",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Xiaofeng Sun",
+          "id": "A5046713307",
+          "institution": "Beihang University"
+        }
+      ],
+      "year": 2025,
+      "citation_count": 1,
+      "abstract": "",
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Computational Fluid Dynamics and Aerodynamics",
+        "Combustion and flame dynamics"
+      ],
+      "source": {
+        "name": "AIAA Journal",
+        "id": "S53336109",
+        "type": "journal",
+        "issn": [
+          "0001-1452",
+          "1081-0102",
+          "1533-385X"
+        ]
+      },
+      "open_access_url": "",
+      "is_oa": false,
+      "referenced_works": [
+        "W1525188152",
+        "W1967752142",
+        "W1972748372",
+        "W1987902628",
+        "W2031234276",
+        "W2044522659",
+        "W2067433675",
+        "W2069849438",
+        "W2077976684",
+        "W2094281791",
+        "W2164646884",
+        "W2790645712",
+        "W2998487994",
+        "W2999584807",
+        "W3113106358",
+        "W3142206579",
+        "W3199751226",
+        "W4200526222",
+        "W4378389771",
+        "W4385486959",
+        "W4388766618",
+        "W4389311933",
+        "W4390411043",
+        "W4391554800",
+        "W4393410926",
+        "W4397028048"
+      ],
+      "discovery_origin": "seed",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": null
+    },
+    {
+      "id": "W4416541463",
+      "doi": "https://doi.org/10.2514/1.j066254",
+      "title": "Modeling of Impedance Boundary-Controlled Casing Treatment on Compressor Flow Stability Enhancement",
+      "authors": [
+        {
+          "name": "Xu Dong",
+          "id": "A5100650104",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Yuqing Wang",
+          "id": "A5100461334",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Jia Li",
+          "id": "A5100784962",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Zihan Shen",
+          "id": "A5033811206",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Jiahao Hu",
+          "id": "A5037554168",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Mengyu Yang",
+          "id": "A5104463716",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Zhenyu Li",
+          "id": "",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Dakun Sun",
+          "id": "A5002422557",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Xiaofeng Sun",
+          "id": "A5101937684",
+          "institution": "Beihang University"
+        }
+      ],
+      "year": 2025,
+      "citation_count": 0,
+      "abstract": "",
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Plasma and Flow Control in Aerodynamics",
+        "High-Temperature Coating Behaviors"
+      ],
+      "source": {
+        "name": "AIAA Journal",
+        "id": "S53336109",
+        "type": "journal",
+        "issn": [
+          "0001-1452",
+          "1081-0102",
+          "1533-385X"
+        ]
+      },
+      "open_access_url": "",
+      "is_oa": false,
+      "referenced_works": [
+        "W1969576908",
+        "W1989418984",
+        "W1997681249",
+        "W1999782850",
+        "W2027254953",
+        "W2028693425",
+        "W2049205751",
+        "W2052184823",
+        "W2076583044",
+        "W2081303165",
+        "W2103098147",
+        "W2316652642",
+        "W2323099052",
+        "W2464589757",
+        "W2511381026",
+        "W2903921806",
+        "W3198843520",
+        "W4245959650",
+        "W4304208526",
+        "W4378389771",
+        "W4390411043",
+        "W4404313094",
+        "W4407393370"
+      ],
+      "discovery_origin": "citing",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": null
+    },
+    {
+      "id": "W4397028048",
+      "doi": "https://doi.org/10.1063/5.0206385",
+      "title": "Tip-leakage-flow excited unsteadiness and associated control",
+      "authors": [
+        {
+          "name": "Yabin Liu",
+          "id": "A5039906022",
+          "institution": "University of Edinburgh"
+        },
+        {
+          "name": "Zhong-Nan Wang",
+          "id": "A5014981862",
+          "institution": "University of Birmingham"
+        },
+        {
+          "name": "Lei Tan",
+          "id": "A5053950985",
+          "institution": "Tsinghua University"
+        },
+        {
+          "name": "Paul G. Tucker",
+          "id": "A5049261046",
+          "institution": "University of Cambridge"
+        },
+        {
+          "name": "Felix M. Möller",
+          "id": "A5101486733",
+          "institution": "Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)"
+        }
+      ],
+      "year": 2024,
+      "citation_count": 13,
+      "abstract": "Tip leakage flow in turbomachinery inherently generates intense unsteady features, named self-excited unsteadiness, which significantly affects the operating stability, aerodynamic efficiency, and noise but has not been well understood. A zonalized large eddy simulation is employed for a linear cascade, with wall-modeled large eddy simulation active only in the tip region. The simulation is well validated with advantages demonstrated for effectively reducing the computational cost while maintaining an equivalent prediction accuracy in the region of interest. The time-averaged and spatial-spectral characteristics of tip leakage vortex (TLV) structures are systematically discussed. The self-excited unsteady processes of TLV include the tip gap separation, the tip leakage and jet-mainstream interaction, the primary tip leakage vortex (PTLV) wandering motion, and the induced separation near end wall. The Spectral Proper Orthogonal Decomposition (SPOD) is used to examine the dominant frequencies and their coherent structures. It is found that these unsteady features change from a single high frequency to multiple lower frequencies due to the PTLV breakdown. The SPOD and correlation analyses reveal that the self-excited unsteadiness originates initially from unsteady vortex separation in the tip gap and is then fed by the interactions between the tip leakage jet and mainstream. The associated unsteady fluctuations are convected along the tip leakage jet trajectory, causing the wandering motion of PTLV core. Based on the revealed unsteadiness sources, a micro-offset tip design is proposed and shown to be an effective solution to reducing the tip flow unsteadiness. This work improves the understanding of tip-leakage-flow dynamics and informs the control of the associated unsteady fluid oscillation and noise.",
+      "topics": [
+        "Fluid Dynamics and Turbulent Flows",
+        "Aerodynamics and Acoustics in Jet Flows",
+        "Combustion and flame dynamics"
+      ],
+      "source": {
+        "name": "Physics of Fluids",
+        "id": "S22862804",
+        "type": "journal",
+        "issn": [
+          "1070-6631",
+          "1089-7666",
+          "1527-2435"
+        ]
+      },
+      "open_access_url": "https://doi.org/10.1063/5.0206385",
+      "is_oa": true,
+      "referenced_works": [
+        "W1965164525",
+        "W1966763784",
+        "W1971131081",
+        "W1971849811",
+        "W1974692600",
+        "W1974731008",
+        "W1976659397",
+        "W1982351273",
+        "W1991225330",
+        "W1995261793",
+        "W2007812216",
+        "W2052824539",
+        "W2058888858",
+        "W2062712788",
+        "W2065990849",
+        "W2073779386",
+        "W2074447412",
+        "W2083826846",
+        "W2101859243",
+        "W2109678411",
+        "W2136082174",
+        "W2141581735",
+        "W2153002807",
+        "W2156871387",
+        "W2327231152",
+        "W2344609934",
+        "W2522447677",
+        "W2618673281",
+        "W2746980346",
+        "W2757909788",
+        "W2770184040",
+        "W2903921806",
+        "W2909326618",
+        "W2911576004",
+        "W2978584985",
+        "W3037008487",
+        "W3092474425",
+        "W3099005905",
+        "W3099211663",
+        "W3160533442",
+        "W3204329610",
+        "W4282052983",
+        "W4379618760"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "本文研究了叶轮机械中由叶尖泄漏流引起的自激非定常现象，该现象显著影响运行稳定性、气动效率和噪声。采用分区大涡模拟方法，仅在叶尖区域激活壁面模化大涡模拟，有效降低了计算成本并保持了预测精度。系统分析了叶尖泄漏涡的时间平均和空间谱特性，揭示了自激非定常过程包括叶尖间隙分离、泄漏射流与主流相互作用、主叶尖泄漏涡的漂移运动以及端壁附近诱导分离。通过谱本征正交分解识别了主导频率及其相干结构，发现非定常特征从单一高频转变为多个低频，源于主叶尖泄漏涡的破裂。相关分析表明，自激非定常起源于叶尖间隙内的非定常涡分离，并由泄漏射流与主流相互作用维持。基于此，提出了一种微偏叶尖设计，有效降低了叶尖流动非定常性。该工作加深了对叶尖泄漏流动力学的理解，并为控制相关非定常流体振荡和噪声提供了指导。",
+        "methods": "采用分区大涡模拟方法，仅在叶尖区域使用壁面模化大涡模拟，其余区域使用常规大涡模拟，以降低计算成本。使用谱本征正交分解分析主导频率和相干结构。通过相关分析揭示非定常起源和传播机制。",
+        "innovations": [
+          "提出分区大涡模拟方法，在叶尖区域使用壁面模化大涡模拟，有效降低计算成本并保持精度。",
+          "系统揭示了叶尖泄漏涡自激非定常过程的完整机制，包括间隙分离、射流-主流相互作用、涡漂移和端壁分离。",
+          "通过谱本征正交分解和相关分析，明确了非定常起源于叶尖间隙内的涡分离，并由泄漏射流与主流相互作用维持。",
+          "提出微偏叶尖设计，有效抑制叶尖流动非定常性，为噪声控制提供新思路。"
+        ],
+        "conclusions": "叶尖泄漏流自激非定常起源于叶尖间隙内的非定常涡分离，并通过泄漏射流与主流相互作用传播，导致主叶尖泄漏涡漂移。微偏叶尖设计能有效降低流动非定常性，有助于控制噪声。",
+        "relevance_score": 9,
+        "keywords": [
+          "tip leakage flow",
+          "self-excited unsteadiness",
+          "large eddy simulation",
+          "spectral proper orthogonal decomposition",
+          "noise control"
+        ],
+        "analyzed_at": "2026-05-06T01:31:30.813753+00:00"
+      }
+    },
+    {
+      "id": "W4391554800",
+      "doi": "https://doi.org/10.1016/j.cja.2024.01.036",
+      "title": "Effect of fore/aft-loaded rotor on compressor stability under inlet circumferential distortion",
+      "authors": [
+        {
+          "name": "Dakun SUN",
+          "id": "A5002327121",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Benhao Gu",
+          "id": "A5063666695",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Fangfei Ning",
+          "id": "A5053239639",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Dengke Xu",
+          "id": "A5053335658",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Xiaofeng Sun",
+          "id": "A5046713307",
+          "institution": "Beihang University"
+        }
+      ],
+      "year": 2024,
+      "citation_count": 7,
+      "abstract": "A modified small perturbation stability prediction model for axial compressors with circumferential inlet distortions is established and applied to investigate the effect of fore/aft-loaded rotor on compressor stability under circumferentially distorted inlet conditions. The inlet total pressure distribution downstream of the distortion screen is measured in experiments and employed for simulations which are implemented via time-space spectral method. The stall inception prediction results via the stability model indicate that the compressor with aft-loaded rotor not only performs better in terms of stability under uniform inlet, but also maintains a larger stability margin under circumferentially distorted inlet. The experiments for compressors with fore-loaded and aft-loaded rotor are respectively carried out. The results validate the reliability of numerical simulations and the predicted conclusion that the aft-loaded rotor is beneficial for compressor stability. Besides, the ability of the developed theoretical model for compressor stability prediction under circumferential distortions is confirmed. In addition, dynamic pressure signals at rotor tip measured in experiments illustrate that the circumferential distortion has little effect on the compressor stall pattern.",
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Refrigeration and Air Conditioning Technologies",
+        "Heat Transfer Mechanisms"
+      ],
+      "source": {
+        "name": "Chinese Journal of Aeronautics",
+        "id": "S42274841",
+        "type": "journal",
+        "issn": [
+          "1000-9361",
+          "2588-9230"
+        ]
+      },
+      "open_access_url": "https://doi.org/10.1016/j.cja.2024.01.036",
+      "is_oa": true,
+      "referenced_works": [
+        "W1972058468",
+        "W1972495490",
+        "W1974318498",
+        "W1981717790",
+        "W1990701413",
+        "W1996876339",
+        "W2010175388",
+        "W2014345680",
+        "W2056852300",
+        "W2065582253",
+        "W2081068463",
+        "W2107636249",
+        "W2116892176",
+        "W2127622806",
+        "W2316652642",
+        "W2605985607",
+        "W2790645712",
+        "W2971808844",
+        "W2972091587",
+        "W2990338465",
+        "W2998487994",
+        "W3213159161",
+        "W4210258107",
+        "W4235422509",
+        "W4239434644",
+        "W4252345539",
+        "W4281638211",
+        "W4312208417",
+        "W4319868646",
+        "W4385813842"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "本文建立了适用于周向进气畸变的轴流压气机稳定性预测模型，并研究了前/后加载转子对压气机稳定性的影响。通过实验测量畸变筛下游总压分布，采用时空谱方法进行数值模拟。稳定性模型预测表明，后加载转子在均匀进气下具有更好的稳定性，且在周向畸变下保持更大的稳定裕度。实验验证了数值模拟的可靠性和后加载转子有利于稳定性的结论，同时确认了理论模型的预测能力。此外，转子叶尖动态压力信号表明周向畸变对压气机失速模式影响较小。",
+        "methods": "采用小扰动稳定性预测模型，结合实验测量的畸变筛下游总压分布，通过时空谱方法进行数值模拟。实验对比了前加载和后加载转子的压气机性能。",
+        "innovations": [
+          "建立了适用于周向进气畸变的改进小扰动稳定性预测模型",
+          "揭示了后加载转子在周向畸变下具有更大稳定裕度的特性",
+          "通过实验验证了理论模型的预测能力"
+        ],
+        "conclusions": "后加载转子在均匀和周向畸变进气条件下均能提升压气机稳定性；周向畸变对压气机失速模式影响较小；所建立的稳定性预测模型可有效评估畸变下的压气机稳定性。",
+        "relevance_score": 6,
+        "keywords": [
+          "axial compressor",
+          "circumferential distortion",
+          "fore/aft-loaded rotor",
+          "stability prediction",
+          "stall inception"
+        ],
+        "analyzed_at": "2026-05-06T01:31:28.109130+00:00"
+      }
+    },
+    {
+      "id": "W4393410926",
+      "doi": "https://doi.org/10.1115/1.4065238",
+      "title": "An Improved Body Force Model to Simulate Blade Loading Variation Under Various Operating Conditions in Transonic Axial Flow Compressor",
+      "authors": [
+        {
+          "name": "Shijie Liu",
+          "id": "A5100424839",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Tianyu Pan",
+          "id": "A5069129596",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Qiushi Li",
+          "id": "A5101572886",
+          "institution": "Beihang University"
+        }
+      ],
+      "year": 2024,
+      "citation_count": 6,
+      "abstract": "Abstract In order to analyze the unsteady aerodynamic response of compressors with limited computational resources, the development of the body force (BF) model has been pursued for decades. This model can simulate the effects of the compressor blade on the flow by applying a three-dimensional (3D) force field. Indeed, the accuracy of the BF model simulation highly depends on the construction strategy of BF field. However, for a transonic compressor, the influence of shock waves on the spatial distribution of blade loading is significant, which makes the construction of an appropriate BF field challenging. To solve this issue, an accurate BF model is proposed to describe the effects of the blade on the flow with high spatial fidelity in transonic compressors. For verification, a typical transonic fan rotor, NASA-Rotor 67, is selected. The numerical results calculated by the new BF model are compared with those obtained by the Reynolds-averaged Navier–Stokes (RANS) solver. According to the results, the new model can accurately capture the distribution of blade loading in the transonic blade channel at various operating conditions, eventually leading to a good prediction of compressor performance and the radial distribution of flow parameters downstream of the rotor. Moreover, this study discusses the causes of modeling errors and presents the application of the model in inlet distortion simulation at the end.",
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Advanced Aircraft Design and Technologies",
+        "Refrigeration and Air Conditioning Technologies"
+      ],
+      "source": {
+        "name": "Journal of Turbomachinery",
+        "id": "S4210171160",
+        "type": "journal",
+        "issn": [
+          "0889-504X",
+          "1528-8900"
+        ]
+      },
+      "open_access_url": "",
+      "is_oa": false,
+      "referenced_works": [
+        "W1500274728",
+        "W1510789496",
+        "W1516955994",
+        "W1517663881",
+        "W1529395963",
+        "W1558028350",
+        "W1562928797",
+        "W1563635935",
+        "W2004333647",
+        "W2023963178",
+        "W2036173095",
+        "W2065879339",
+        "W2079914990",
+        "W2107636249",
+        "W2141893291",
+        "W2175514720",
+        "W2570899310",
+        "W2895771664",
+        "W2998602771",
+        "W3213596439",
+        "W4200526222",
+        "W4249864435",
+        "W6645251157",
+        "W6803926741"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "该论文提出了一种改进的体积力模型，用于模拟跨音速轴流压气机在不同工况下的叶片载荷变化。传统体积力模型在跨音速条件下难以准确捕捉激波对叶片载荷空间分布的影响。新模型通过高空间保真度的力场构建，能够精确描述叶片对流动的作用。以NASA-Rotor 67为验证对象，与RANS求解器结果对比表明，新模型能准确捕捉跨音速叶栅通道内的载荷分布，并良好预测压气机性能和下游流场参数径向分布。研究还讨论了建模误差原因，并展示了模型在进口畸变模拟中的应用。",
+        "methods": "采用改进的体积力模型，通过三维力场模拟叶片对流动的影响。模型构建考虑了跨音速条件下激波对叶片载荷空间分布的影响，提高了空间保真度。验证采用NASA-Rotor 67跨音速风扇转子，与RANS求解器结果进行对比分析。",
+        "innovations": [
+          "提出了一种高空间保真度的体积力模型，能够准确模拟跨音速压气机中激波对叶片载荷分布的影响",
+          "模型在不同工况下均能精确捕捉叶片载荷变化，优于传统体积力模型",
+          "讨论了建模误差来源，并展示了模型在进口畸变模拟中的应用潜力"
+        ],
+        "conclusions": "改进的体积力模型能够准确模拟跨音速轴流压气机在不同工况下的叶片载荷分布，有效预测压气机性能和下游流场参数。模型在进口畸变模拟中具有应用前景，为压气机非定常气动响应分析提供了高效工具。",
+        "relevance_score": 8,
+        "keywords": [
+          "body force model",
+          "transonic axial flow compressor",
+          "blade loading",
+          "NASA-Rotor 67",
+          "inlet distortion"
+        ],
+        "analyzed_at": "2026-05-06T01:31:28.727257+00:00"
+      }
+    },
+    {
+      "id": "W4378389771",
+      "doi": "https://doi.org/10.2514/1.j062482",
+      "title": "Rapid Prediction of Compressor Rotating Stall Inception Using Arnoldi Eigenvalue Algorithm",
+      "authors": [
+        {
+          "name": "Yibo Fang",
+          "id": "A5031003755",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Dakun Sun",
+          "id": "A5063686427",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Dengke Xu",
+          "id": "A5053335658",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Chen He",
+          "id": "A5100745883",
+          "institution": "China Aerodynamics Research and Development Center"
+        },
+        {
+          "name": "Xiaofeng Sun",
+          "id": "A5046713307",
+          "institution": "Beihang University"
+        }
+      ],
+      "year": 2023,
+      "citation_count": 15,
+      "abstract": "This paper presents a stability model that can make a rapid prediction of the rotating stall inception in turbomachinery and provide the spatial distribution of the corresponding instability mode. In addition, this model can take the three-dimensional geometry of blades and complex flow details in the compressor into consideration, and the solution of the development process of small perturbations can be converted to a nonlinear eigenvalue problem. We propose a solution method by converting the nonlinear eigenvalue problem into a generalized one; then, it can be solved by the Arnoldi algorithm. The proposed method can shorten the elapsed time from hundreds of hours to a few minutes, as compared with the methods adopted in previous works, substantially reducing the computational cost. Furthermore, the spatial distribution of eigenvectors can be obtained to investigate the characteristics of the perturbation mode, which can be applied as a foundation to set the inlet/outlet boundary conditions and select the eigenvalue representing the rotating stall inception. In the cases of a transonic isolated rotor and a subsonic one-stage compressor, the results are in accordance with those measured in experiments, verifying the accuracy and effectiveness of the stability model. Therefore, the model can be applied to evaluate the flow stability in the design stage of compressors with low computational cost.",
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Heat Transfer Mechanisms",
+        "Combustion and flame dynamics"
+      ],
+      "source": {
+        "name": "AIAA Journal",
+        "id": "S53336109",
+        "type": "journal",
+        "issn": [
+          "0001-1452",
+          "1081-0102",
+          "1533-385X"
+        ]
+      },
+      "open_access_url": "",
+      "is_oa": false,
+      "referenced_works": [
+        "W278334882",
+        "W321789317",
+        "W567610689",
+        "W1506690472",
+        "W1528557967",
+        "W1967862827",
+        "W1968452503",
+        "W1971227642",
+        "W1972748372",
+        "W1980411718",
+        "W2004333647",
+        "W2016215406",
+        "W2021121593",
+        "W2028693425",
+        "W2029498818",
+        "W2036173095",
+        "W2044522659",
+        "W2052646977",
+        "W2056852300",
+        "W2076189598",
+        "W2094281791",
+        "W2103098147",
+        "W2104102786",
+        "W2105004894",
+        "W2396752896",
+        "W2789665314",
+        "W2790645712",
+        "W3149645912"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "本文提出了一种基于Arnoldi特征值算法的快速预测压气机旋转失速起始的稳定性模型。该模型能够考虑叶片的三维几何结构和复杂流动细节，将小扰动发展过程转化为非线性特征值问题，并通过转换为广义特征值问题后使用Arnoldi算法求解。相比传统方法，计算时间从数百小时缩短至几分钟，大幅降低了计算成本。同时，通过特征向量空间分布可分析扰动模态特性，为设置边界条件和选择失速起始特征值提供依据。在跨声速孤立转子和亚声速单级压气机案例中，预测结果与实验吻合，验证了模型的准确性和有效性。该模型可用于压气机设计阶段的流动稳定性评估。",
+        "methods": "采用稳定性模型将压气机旋转失速起始预测转化为非线性特征值问题，通过数学变换将其转换为广义特征值问题，并利用Arnoldi算法高效求解。模型结合了三维叶片几何和复杂流动细节，通过特征向量空间分布分析扰动模态。",
+        "innovations": [
+          "将非线性特征值问题转换为广义特征值问题，并采用Arnoldi算法求解，显著降低计算时间",
+          "模型能够考虑三维叶片几何和复杂流动细节，提高预测精度",
+          "通过特征向量空间分布分析扰动模态特性，为边界条件设置和失速起始特征值选择提供依据"
+        ],
+        "conclusions": "提出的稳定性模型能够快速、准确地预测压气机旋转失速起始，计算成本低，与实验结果吻合良好，适用于压气机设计阶段的流动稳定性评估。",
+        "relevance_score": 7,
+        "keywords": [
+          "rotating stall",
+          "compressor",
+          "Arnoldi eigenvalue algorithm",
+          "stability model",
+          "turbomachinery"
+        ],
+        "analyzed_at": "2026-05-06T01:31:28.866618+00:00"
+      }
+    },
+    {
+      "id": "W4390411043",
+      "doi": "https://doi.org/10.2514/1.j063397",
+      "title": "Stall Inception Prediction of Transonic Compressor with Wire Mesh Casing Treatment",
+      "authors": [
+        {
+          "name": "Dakun Sun",
+          "id": "A5063686427",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Jiahao Hu",
+          "id": "A5037554168",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Dengke Xu",
+          "id": "A5053335658",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Yibo Fang",
+          "id": "A5031003755",
+          "institution": ""
+        },
+        {
+          "name": "Xu Dong",
+          "id": "A5100650104",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Ming Zhang",
+          "id": "A5100447306",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Xiaofeng Sun",
+          "id": "A5046713307",
+          "institution": "Beihang University"
+        }
+      ],
+      "year": 2023,
+      "citation_count": 10,
+      "abstract": "A wire mesh casing treatment is proposed and numerically tested on the transonic axial compressor (Rotor 37). A theoretical stall inception prediction model was developed to account for the wire mesh casing treatment, which was modeled as an impedance boundary condition. This model was validated on a low-speed compressor, replicating the experimental trend with reliable precision. The impedance boundary condition effectively attenuates disturbances and confines the distribution range of perturbations compared to the solid wall boundary condition. Furthermore, the installation of the wire mesh casing treatment induced a downstream shift in the passage shock wave and enhanced the flow capacity in the blade tip region. The effects of the casing treatment on different installation locations were investigated, and the results indicated that the maximum stall margin improvement occurred when the casing treatment was positioned at the midchord location. The integrated design of the casing treatment and blade profile, along with the established prediction model, is also discussed. This model demonstrates reliable precision when compared to the experimental results and addresses the need for rapid design iteration during the initial design phase.",
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Heat Transfer Mechanisms",
+        "Fluid Dynamics and Turbulent Flows"
+      ],
+      "source": {
+        "name": "AIAA Journal",
+        "id": "S53336109",
+        "type": "journal",
+        "issn": [
+          "0001-1452",
+          "1081-0102",
+          "1533-385X"
+        ]
+      },
+      "open_access_url": "",
+      "is_oa": false,
+      "referenced_works": [
+        "W241446717",
+        "W278334882",
+        "W280278849",
+        "W567610689",
+        "W1967517754",
+        "W1974605384",
+        "W1980372150",
+        "W1981717790",
+        "W1989418984",
+        "W1995088171",
+        "W2005799258",
+        "W2028693425",
+        "W2038875225",
+        "W2058299008",
+        "W2067433675",
+        "W2077976684",
+        "W2082866820",
+        "W2103098147",
+        "W2104120525",
+        "W2105004894",
+        "W2127622806",
+        "W2396752896",
+        "W2402289303",
+        "W2431409189",
+        "W2765554938",
+        "W2771864073",
+        "W2790645712",
+        "W2896135413",
+        "W2903921806",
+        "W2977140140",
+        "W3016944316",
+        "W3023427743",
+        "W4238165965",
+        "W4241728013",
+        "W4242698491",
+        "W4283158169",
+        "W4300941565",
+        "W4378389771"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "本文提出了一种丝网机匣处理方案，并在跨声速轴流压气机（Rotor 37）上进行了数值测试。建立了考虑丝网机匣处理的理论失速起始预测模型，该模型将机匣处理建模为阻抗边界条件。模型在低速压气机上得到了验证，能够以可靠的精度复现实验趋势。与固壁边界条件相比，阻抗边界条件能有效衰减扰动并限制扰动的分布范围。此外，丝网机匣处理的安装导致通道激波向下游移动，并增强了叶尖区域的流通能力。研究了机匣处理在不同安装位置的影响，结果表明当机匣处理位于弦中位置时，失速裕度改善最大。还讨论了机匣处理与叶片型线的集成设计以及所建立的预测模型。该模型与实验结果相比具有可靠的精度，满足了初始设计阶段快速设计迭代的需求。",
+        "methods": "采用数值模拟方法，在跨声速轴流压气机Rotor 37上测试丝网机匣处理。建立了理论失速起始预测模型，将机匣处理建模为阻抗边界条件。模型在低速压气机上进行了验证，并与实验趋势对比。通过分析扰动衰减、激波位置和叶尖流动，评估了机匣处理的效果。研究了不同安装位置（前缘、弦中、尾缘）对失速裕度的影响。",
+        "innovations": [
+          "提出了一种丝网机匣处理方案，并建立了考虑该机匣处理的理论失速起始预测模型。",
+          "将机匣处理建模为阻抗边界条件，有效衰减扰动并限制其分布范围。",
+          "发现丝网机匣处理使通道激波向下游移动，增强叶尖区域流通能力。",
+          "确定了机匣处理的最佳安装位置为弦中位置，此时失速裕度改善最大。",
+          "讨论了机匣处理与叶片型线的集成设计，模型满足快速设计迭代需求。"
+        ],
+        "conclusions": "丝网机匣处理通过阻抗边界条件有效衰减扰动，改善跨声速压气机的失速裕度。最佳安装位置为弦中位置。所建立的预测模型具有可靠的精度，适用于初始设计阶段的快速迭代。",
+        "relevance_score": 9,
+        "keywords": [
+          "stall inception prediction",
+          "wire mesh casing treatment",
+          "transonic compressor",
+          "impedance boundary condition",
+          "rotating stall"
+        ],
+        "analyzed_at": "2026-05-06T01:31:30.701391+00:00"
+      }
+    },
+    {
+      "id": "W4385486959",
+      "doi": "https://doi.org/10.1016/j.cja.2023.07.034",
+      "title": "Role of unsteady tip leakage flow in acoustic resonance inception of a multistage compressor",
+      "authors": [
+        {
+          "name": "Xiaohua Liu",
+          "id": "A5100370779",
+          "institution": "Xihua University"
+        },
+        {
+          "name": "Zihao Wu",
+          "id": "A5100738671",
+          "institution": "China Three Gorges Corporation (China)"
+        },
+        {
+          "name": "Changxin Si",
+          "id": "A5103159723",
+          "institution": "Shanghai Jiao Tong University"
+        },
+        {
+          "name": "Jun Yang",
+          "id": "A5102076459",
+          "institution": "University of Shanghai for Science and Technology"
+        },
+        {
+          "name": "Xiaofeng Sun",
+          "id": "A5046713307",
+          "institution": "Beihang University"
+        }
+      ],
+      "year": 2023,
+      "citation_count": 8,
+      "abstract": "In previous studies, a theoretical model was developed after Acoustic Resonance (AR) was experimentally detected in a four-stage compressor, and AR inception was proposed to be triggered by an unknown sound source, which is a pressure perturbation of a specific frequency with a suitable circumferential propagation speed. The present paper, which is not dedicated to the simulation of acoustic field, aims to identify the specific sound source generated by the unsteady tip leakage flow using the unsteady Computational Fluid Mechanics (CFD) approach. After a comprehensive analysis of an Unsteady Reynolds Averaged Navier-Stokes (URANS) simulation, a pressure perturbation of non-integer multiple of rotor frequency is found at the blade tip. Since the essence of the tip leakage flow is a jet flow driven by the pressure difference between two sides of blade, a simplified tip leakage flow model is adopted using Large Eddy Simulation (LES) in order to simulate the jet flow through a tip clearance. It is found that the convection velocity of shedding vortices fits the expected propagation speed of the sound source, the frequency is also close to one of the dominating frequencies in the URANS simulation, and the resultant combination frequency coincides with the experimentally measured AR frequency. Since such a simplified model successfully captures the key physical mechanisms, it is concluded that this paper provides a piece of unambiguous evidence on the role of unsteady tip leakage vortex in triggering the AR inception of the multistage compressor.",
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Combustion and flame dynamics",
+        "Aerodynamics and Acoustics in Jet Flows"
+      ],
+      "source": {
+        "name": "Chinese Journal of Aeronautics",
+        "id": "S42274841",
+        "type": "journal",
+        "issn": [
+          "1000-9361",
+          "2588-9230"
+        ]
+      },
+      "open_access_url": "https://doi.org/10.1016/j.cja.2023.07.034",
+      "is_oa": true,
+      "referenced_works": [
+        "W1904937771",
+        "W1967084546",
+        "W1968898940",
+        "W1972748372",
+        "W1978723712",
+        "W1982490230",
+        "W1984586361",
+        "W1995479776",
+        "W2013913072",
+        "W2014356541",
+        "W2023963178",
+        "W2026230194",
+        "W2032732569",
+        "W2060917087",
+        "W2073841341",
+        "W2083968813",
+        "W2098971379",
+        "W2124400963",
+        "W2133020385",
+        "W2799945426",
+        "W2883750659",
+        "W2901327205",
+        "W2909911952",
+        "W2910043543",
+        "W2980827842",
+        "W2995929808",
+        "W3033275865",
+        "W3117389018",
+        "W4247514103",
+        "W4311134606",
+        "W4315607491",
+        "W6633213272",
+        "W6702612761"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "本文通过非定常计算流体力学方法，研究了多级压缩机中非定常叶尖泄漏流在声共振起始中的作用。基于四级压缩机实验检测到的声共振现象，采用URANS模拟发现叶片尖端存在非整数倍转子频率的压力扰动。进一步采用大涡模拟简化叶尖泄漏流模型，发现脱落涡的对流速度与声源传播速度匹配，频率与URANS主导频率接近，组合频率与实验测量的声共振频率一致，从而证实非定常叶尖泄漏涡是触发声共振的关键声源。",
+        "methods": "使用非定常雷诺平均Navier-Stokes（URANS）模拟分析四级压缩机中的压力扰动；采用大涡模拟（LES）建立简化叶尖泄漏流模型，模拟通过叶尖间隙的射流，分析脱落涡的对流速度和频率特性。",
+        "innovations": [
+          "首次通过非定常CFD方法明确识别叶尖泄漏流产生的非整数倍转子频率压力扰动作为声共振的声源",
+          "采用简化LES模型成功捕捉叶尖泄漏涡的关键物理机制，验证了其与声共振起始的因果关系"
+        ],
+        "conclusions": "非定常叶尖泄漏涡产生的压力扰动具有特定的频率和传播速度，是触发多级压缩机声共振起始的直接原因，简化模型提供了明确的证据。",
+        "relevance_score": 9,
+        "keywords": [
+          "tip leakage flow",
+          "acoustic resonance",
+          "multistage compressor",
+          "unsteady CFD",
+          "large eddy simulation"
+        ],
+        "analyzed_at": "2026-05-06T01:31:33.156128+00:00"
+      }
+    },
+    {
+      "id": "W4388766618",
+      "doi": "https://doi.org/10.1016/j.ast.2023.108733",
+      "title": "Three-dimensional global instability analysis for high-speed boundary layer flow",
+      "authors": [
+        {
+          "name": "Yuhan Lu",
+          "id": "A5032500922",
+          "institution": "National University of Defense Technology"
+        },
+        {
+          "name": "Jianhan Liang",
+          "id": "A5061864670",
+          "institution": "National University of Defense Technology"
+        },
+        {
+          "name": "Zaijie Liu",
+          "id": "A5075263866",
+          "institution": "Nanjing University of Aeronautics and Astronautics"
+        },
+        {
+          "name": "Hongkang Liu",
+          "id": "A5064021024",
+          "institution": "Central South University"
+        },
+        {
+          "name": "Chao Yan",
+          "id": "",
+          "institution": "Beihang University"
+        }
+      ],
+      "year": 2023,
+      "citation_count": 4,
+      "abstract": "",
+      "topics": [
+        "Fluid Dynamics and Turbulent Flows",
+        "Computational Fluid Dynamics and Aerodynamics",
+        "Aerodynamics and Fluid Dynamics Research"
+      ],
+      "source": {
+        "name": "Aerospace Science and Technology",
+        "id": "S61564791",
+        "type": "journal",
+        "issn": [
+          "1270-9638",
+          "1626-3219"
+        ]
+      },
+      "open_access_url": "",
+      "is_oa": false,
+      "referenced_works": [
+        "W19277838",
+        "W101236918",
+        "W105972517",
+        "W1542243431",
+        "W1627606643",
+        "W1648827592",
+        "W1973166496",
+        "W1975464357",
+        "W1997654684",
+        "W2011655084",
+        "W2013559776",
+        "W2021127833",
+        "W2021810545",
+        "W2037212603",
+        "W2039150507",
+        "W2040298674",
+        "W2041703057",
+        "W2051003680",
+        "W2062988356",
+        "W2072221988",
+        "W2073955633",
+        "W2097897435",
+        "W2111868314",
+        "W2131621473",
+        "W2132245168",
+        "W2132988493",
+        "W2133379988",
+        "W2140153041",
+        "W2141077768",
+        "W2147648535",
+        "W2149286979",
+        "W2155216327",
+        "W2165378871",
+        "W2166389060",
+        "W2189000259",
+        "W2279865562",
+        "W2323742180",
+        "W2472860053",
+        "W2539553730",
+        "W2588789440",
+        "W2589412563",
+        "W2624590544",
+        "W2792454231",
+        "W2923586788",
+        "W2954327155",
+        "W2999584807",
+        "W3010591302",
+        "W3016813841",
+        "W3045460089",
+        "W3160637305"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": null
+    },
+    {
+      "id": "W4389311933",
+      "doi": "https://doi.org/10.15632/jtam-pl/174960",
+      "title": "Unsteady body force model for rotating stall in axial compressor with various inlet conditions",
+      "authors": [
+        {
+          "name": "Jin Guo",
+          "id": "A5100756154",
+          "institution": "Commercial Aircraft Corporation of China (China)"
+        }
+      ],
+      "year": 2023,
+      "citation_count": 4,
+      "abstract": "1. Cao T., Hield P., Tucker P.G., 2017, Hierarchical immersed boundary method with smeared geometry, Journal of Propulsion and Power, 33, 5, 1151-1163. CrossRef Google Scholar",
+      "topics": [
+        "Lattice Boltzmann Simulation Studies",
+        "Fluid Dynamics and Turbulent Flows",
+        "Fluid Dynamics and Vibration Analysis"
+      ],
+      "source": {
+        "name": "Journal of Theoretical and Applied Mechanics/Mechanika Teoretyczna i Stosowana",
+        "id": "S159088426",
+        "type": "journal",
+        "issn": [
+          "0079-3701",
+          "1429-2955",
+          "2543-6309"
+        ]
+      },
+      "open_access_url": "http://jtam.pl/pdf-174960-97191?filename=Unsteady body force model.pdf",
+      "is_oa": true,
+      "referenced_works": [
+        "W1605992224",
+        "W1904937771",
+        "W1970075621",
+        "W1993679176",
+        "W1996440463",
+        "W2007958490",
+        "W2064248671",
+        "W2067433675",
+        "W2316752818",
+        "W2321442269",
+        "W2607332261",
+        "W2773341710",
+        "W2781068442",
+        "W2800383476",
+        "W2941977212",
+        "W2943731784",
+        "W2973338890",
+        "W2990338465",
+        "W3045416308",
+        "W3082617706",
+        "W3123589175"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "该论文提出了一种非定常体积力模型，用于预测轴流压气机在不同进口条件下的旋转失速现象。模型通过将叶片力分布为时间和空间的函数，模拟失速团的产生和传播。研究验证了模型在均匀进口、畸变进口及非定常进口条件下的有效性，并分析了失速起始和演化机制。",
+        "methods": "采用非定常体积力方法，将叶片对气流的作用简化为体积力源项，结合雷诺平均Navier-Stokes方程求解。通过调整体积力分布函数模拟不同进口条件，并与实验数据对比验证模型精度。",
+        "innovations": [
+          "提出适用于多种进口条件的非定常体积力模型",
+          "能够捕捉旋转失速的瞬态演化过程",
+          "计算效率高，适合工程应用"
+        ],
+        "conclusions": "该模型能准确预测轴流压气机在不同进口条件下的旋转失速特性，包括失速起始点、失速团传播速度及失速后性能。模型为压气机稳定性分析提供了高效工具。",
+        "relevance_score": 6,
+        "keywords": [
+          "rotating stall",
+          "body force model",
+          "axial compressor",
+          "inlet distortion",
+          "unsteady flow"
+        ],
+        "analyzed_at": "2026-05-06T01:31:32.940367+00:00"
+      }
+    },
+    {
+      "id": "W3199751226",
+      "doi": "https://doi.org/10.1017/jfm.2021.678",
+      "title": "Triglobal infinite-wing shock-buffet study",
+      "authors": [
+        {
+          "name": "Wei He",
+          "id": "A5005580745",
+          "institution": "University of Liverpool"
+        },
+        {
+          "name": "Sebastian Timme",
+          "id": "A5017008663",
+          "institution": "University of Liverpool"
+        }
+      ],
+      "year": 2021,
+      "citation_count": 25,
+      "abstract": "This article uses triglobal stability analysis to address the question of shock-buffet unsteadiness, and associated modal dominance, on infinite wings at high Reynolds number, expanding upon recent biglobal work, aspiring to elucidate the flow phenomenon's origin and characteristics. Infinite wings are modelled by extruding an aerofoil to finite aspect ratios and imposing a periodic boundary condition without assumptions on spanwise homogeneity. Two distinct steady base flows, spanwise uniform and non-uniform, are analysed herein on straight and swept wings. Stability analysis of straight-wing uniform flow identifies both the oscillatory aerofoil mode, linked to the chordwise shock motion synchronised with a pulsation of its downstream shear layer, and several monotone (non-oscillatory), spatially periodic shock-distortion modes. Those monotone modes become outboard travelling on the swept wing with their respective frequencies and phase speeds correlated with the sweep angle. In the limiting case of very small wavenumbers approaching zero, the effect of sweep creates branches of outboard and inboard travelling modes. Overall, triglobal results for such quasi-three-dimensional base flows agree with previous biglobal studies. On the contrary, cellular patterns form in proper three-dimensional base flow on straight wings, and we present the first triglobal study of such an equilibrium solution to the governing equations. Spanwise-irregular modes are found to be sensitive to the chosen aspect ratio. Nonlinear time-marching simulations reveal the flow evolution and distinct events to confirm the insights gained through dominant modes from routine triglobal stability analysis.",
+      "topics": [
+        "Fluid Dynamics and Turbulent Flows",
+        "Computational Fluid Dynamics and Aerodynamics",
+        "Fluid Dynamics and Vibration Analysis"
+      ],
+      "source": {
+        "name": "Journal of Fluid Mechanics",
+        "id": "S152000018",
+        "type": "journal",
+        "issn": [
+          "0022-1120",
+          "1469-7645"
+        ]
+      },
+      "open_access_url": "https://doi.org/10.1017/jfm.2021.678",
+      "is_oa": true,
+      "referenced_works": [
+        "W85309833",
+        "W109517382",
+        "W1506690472",
+        "W1829737394",
+        "W1956762705",
+        "W1967374729",
+        "W1972361310",
+        "W1972496178",
+        "W1974783630",
+        "W1975652969",
+        "W1975714268",
+        "W1982915310",
+        "W1987895567",
+        "W2016215406",
+        "W2021482067",
+        "W2046268981",
+        "W2050267587",
+        "W2055297022",
+        "W2060393863",
+        "W2069262775",
+        "W2069707193",
+        "W2074419653",
+        "W2076092987",
+        "W2089088664",
+        "W2132245168",
+        "W2322267167",
+        "W2418555483",
+        "W2532325317",
+        "W2546156667",
+        "W2562049958",
+        "W2775418984",
+        "W2795310468",
+        "W2795547865",
+        "W2800209849",
+        "W2867322238",
+        "W2906769225",
+        "W2974728063",
+        "W2981486609",
+        "W2981525577",
+        "W2993347372",
+        "W2993373040",
+        "W2999584807",
+        "W3005939102",
+        "W3011885352",
+        "W3040158271",
+        "W3081434688",
+        "W3111556899"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "本文采用三全局稳定性分析方法，研究高雷诺数下无限机翼的激波抖振非定常性及相关模态主导性，扩展了近期双全局工作，旨在阐明该流动现象的起源和特征。无限机翼通过将翼型拉伸至有限展弦比并施加周期性边界条件建模，不假设展向均匀性。分析了直机翼和后掠机翼上的两种不同稳态基流：展向均匀和非均匀。稳定性分析识别出振荡翼型模态（与弦向激波运动及其下游剪切层脉动同步）和多个单调（非振荡）、空间周期性的激波畸变模态。后掠机翼上单调模态变为向外传播，频率和相速度与后掠角相关。在波数趋近零的极限情况下，后掠效应产生向外和向内传播的模态分支。总体而言，准三维基流的三全局结果与先前双全局研究一致。相反，直机翼上适当的三维基流形成细胞状图案，本文首次对此类平衡解进行三全局研究。展向不规则模态对所选展弦比敏感。非线性时间推进模拟揭示了流动演化及不同事件，验证了常规三全局稳定性分析中主导模态的见解。",
+        "methods": "本文使用三全局稳定性分析方法，对高雷诺数下无限机翼的激波抖振现象进行研究。通过将翼型拉伸至有限展弦比并施加周期性边界条件来建模无限机翼，不假设展向均匀性。分析了直机翼和后掠机翼上的展向均匀和非均匀两种稳态基流。采用线性稳定性分析识别主导模态，并通过非线性时间推进模拟验证结果。",
+        "innovations": [
+          "首次对无限机翼激波抖振进行三全局稳定性分析，扩展了双全局方法。",
+          "揭示了直机翼上展向均匀和非均匀基流下的不同模态特征，包括振荡翼型模态和单调激波畸变模态。",
+          "发现了后掠机翼上单调模态的传播特性与后掠角的关系。",
+          "首次对直机翼上三维基流形成的细胞状图案进行三全局稳定性研究。",
+          "通过非线性模拟验证了稳定性分析中主导模态的物理意义。"
+        ],
+        "conclusions": "三全局稳定性分析成功识别了无限机翼激波抖振中的关键模态，包括振荡翼型模态和单调激波畸变模态。后掠效应导致模态传播方向变化。展向非均匀基流产生细胞状图案，且模态对展弦比敏感。非线性模拟证实了稳定性分析的预测。",
+        "relevance_score": 7,
+        "keywords": [
+          "shock buffet",
+          "triglobal stability analysis",
+          "infinite wing",
+          "swept wing",
+          "flow instability"
+        ],
+        "analyzed_at": "2026-05-06T01:31:36.810269+00:00"
+      }
+    },
+    {
+      "id": "W3142206579",
+      "doi": "https://doi.org/10.1016/j.jcp.2021.110332",
+      "title": "Matrix-free TriGlobal adjoint stability analysis of compressible Navier–Stokes equations",
+      "authors": [
+        {
+          "name": "Yuya Ohmichi",
+          "id": "A5006066276",
+          "institution": "Japan Aerospace Exploration Agency"
+        },
+        {
+          "name": "K. Yamada",
+          "id": "A5100708214",
+          "institution": "Japan Aerospace Exploration Agency"
+        }
+      ],
+      "year": 2021,
+      "citation_count": 13,
+      "abstract": "",
+      "topics": [
+        "Fluid Dynamics and Vibration Analysis",
+        "Aerodynamics and Fluid Dynamics Research",
+        "Wind and Air Flow Studies"
+      ],
+      "source": {
+        "name": "Journal of Computational Physics",
+        "id": "S148709879",
+        "type": "journal",
+        "issn": [
+          "0021-9991",
+          "1090-2716"
+        ]
+      },
+      "open_access_url": "",
+      "is_oa": false,
+      "referenced_works": [
+        "W33769358",
+        "W101236918",
+        "W1506690472",
+        "W1966303177",
+        "W1967374729",
+        "W1973481688",
+        "W1984577213",
+        "W1993142060",
+        "W1996579580",
+        "W2007771057",
+        "W2016215406",
+        "W2032990529",
+        "W2036795785",
+        "W2037536095",
+        "W2048659456",
+        "W2062988356",
+        "W2069563463",
+        "W2073955633",
+        "W2078644903",
+        "W2101786105",
+        "W2103606462",
+        "W2132245168",
+        "W2132355037",
+        "W2134387111",
+        "W2146538728",
+        "W2155638978",
+        "W2160240786",
+        "W2163379896",
+        "W2164033023",
+        "W2225101156",
+        "W2263390994",
+        "W2341842954",
+        "W2398344627",
+        "W2548162616",
+        "W2565836258",
+        "W2614442898",
+        "W2621193498",
+        "W2892503045",
+        "W2949205732",
+        "W2962997897",
+        "W2967030861",
+        "W2981525577",
+        "W3010292040",
+        "W3105110415",
+        "W3106209899",
+        "W4230197012",
+        "W4236435054",
+        "W6648968601",
+        "W6689186217",
+        "W6712667448"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": null
+    },
+    {
+      "id": "W4200526222",
+      "doi": "https://doi.org/10.1115/1.4053231",
+      "title": "A New Loss Generation Body Force Model for Fan/Compressor Blade Rows: Application to Uniform and Non-Uniform Inflow in Rotor 67",
+      "authors": [
+        {
+          "name": "Syamak Pazireh",
+          "id": "A5045988200",
+          "institution": "University of Windsor"
+        },
+        {
+          "name": "Jeff Defoe",
+          "id": "A5077241560",
+          "institution": "University of Windsor"
+        }
+      ],
+      "year": 2021,
+      "citation_count": 9,
+      "abstract": "Abstract Despite advances in computational power, the cost of time-accurate flows in axial compressor and fan stages with spatially non-uniform inflow is still too high for design-stage use in industry. Body force modeling reduces the computation time to practical levels, mainly by reducing the problem to a steady one. These computations are important to determine efficiency penalties associated with non-uniform inflows. Previous studies of body force methods have, in most cases, relied on computations with the presence of the blades to calibrate loss models. In some recent studies, uncalibrated models have been used, but such models can drop off in accuracy at conditions where separation would occur on the blade surfaces. In this paper, a neural-network-based loss model introduced in a recent paper by the authors is implemented for NASA rotor 67 for both uniform and non-uniform inflow conditions. For uniform inflow, the spanwise trend of entropy variation is generally captured with the new body force model. Although there are discrepancies at some span fractions, the present model generally predicts the compressor’s isentropic efficiency to within 3% compared to bladed Reynolds-averaged Navier–Stokes simulations. For non-uniform inflow, we consider a stagnation pressure profile representative of boundary layer ingestion. The results show that the region of maximum entropy generation is captured by the present model and the prediction of isentropic efficiency penalty due to the non-uniform inflow is only 0.2 points less than that determined from bladed computations.",
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Fluid Dynamics and Turbulent Flows",
+        "Heat Transfer Mechanisms"
+      ],
+      "source": {
+        "name": "Journal of Turbomachinery",
+        "id": "S4210171160",
+        "type": "journal",
+        "issn": [
+          "0889-504X",
+          "1528-8900"
+        ]
+      },
+      "open_access_url": "https://scholar.uwindsor.ca/mechanicalengpub/325",
+      "is_oa": true,
+      "referenced_works": [
+        "W1978774091",
+        "W2014345680",
+        "W2046945753",
+        "W2067433675",
+        "W2171595452",
+        "W2497976201",
+        "W2521187982",
+        "W2522586254",
+        "W2570899310",
+        "W2782744909",
+        "W2895771664",
+        "W2955505082",
+        "W2983576060",
+        "W2984020627",
+        "W2986943843",
+        "W2994706164",
+        "W3034959859",
+        "W3045416308",
+        "W3072063688",
+        "W3119381410",
+        "W3123367513",
+        "W3134899931",
+        "W3135004833",
+        "W6723829492"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "本文提出了一种基于神经网络的新型损失生成体积力模型，用于风扇/压气机叶片排的均匀和非均匀入流模拟。该模型通过将时间精确问题简化为稳态问题，大幅降低了计算成本，适用于设计阶段。针对NASA转子67的均匀入流测试表明，模型能捕捉熵变的展向趋势，等熵效率预测与叶片RANS模拟的误差在3%以内。对于非均匀入流（如边界层吸入），模型准确捕捉了最大熵增区域，非均匀入流导致的等熵效率损失预测仅比叶片计算低0.2个百分点。该模型无需叶片存在进行校准，在分离条件下仍保持精度。",
+        "methods": "采用神经网络构建损失模型，替代传统基于叶片存在的校准方法。将体积力模型与RANS方程耦合，通过稳态求解减少计算时间。针对NASA转子67，分别进行均匀入流和非均匀入流（边界层吸入）的数值模拟，并与全叶片RANS结果对比验证。",
+        "innovations": [
+          "提出基于神经网络的损失生成体积力模型，无需叶片校准即可预测损失",
+          "模型在均匀和非均匀入流条件下均能准确预测熵增和效率损失",
+          "显著降低计算成本，适用于设计阶段的非均匀入流分析"
+        ],
+        "conclusions": "新体积力模型能有效预测风扇/压气机叶片排的损失，均匀入流下等熵效率误差小于3%，非均匀入流下效率损失预测误差仅0.2个百分点。模型在分离条件下仍保持良好精度，为设计阶段评估非均匀入流影响提供了高效工具。",
+        "relevance_score": 9,
+        "keywords": [
+          "body force model",
+          "neural network",
+          "fan noise",
+          "non-uniform inflow",
+          "loss generation"
+        ],
+        "analyzed_at": "2026-05-06T01:31:36.460542+00:00"
+      }
+    },
+    {
+      "id": "W2999584807",
+      "doi": "https://doi.org/10.1017/jfm.2019.1001",
+      "title": "Global instability of wing shock-buffet onset",
+      "authors": [
+        {
+          "name": "Sebastian Timme",
+          "id": "A5017008663",
+          "institution": "University of Liverpool"
+        }
+      ],
+      "year": 2020,
+      "citation_count": 85,
+      "abstract": "",
+      "topics": [
+        "Computational Fluid Dynamics and Aerodynamics",
+        "Fluid Dynamics and Turbulent Flows",
+        "Plasma and Flow Control in Aerodynamics"
+      ],
+      "source": {
+        "name": "Journal of Fluid Mechanics",
+        "id": "S152000018",
+        "type": "journal",
+        "issn": [
+          "0022-1120",
+          "1469-7645"
+        ]
+      },
+      "open_access_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3155D36D0EEB52F6C6D7378EE56FD1B2/S0022112019010012a.pdf/div-class-title-global-instability-of-wing-shock-buffet-onset-div.pdf",
+      "is_oa": true,
+      "referenced_works": [
+        "W14000046",
+        "W109517382",
+        "W606049515",
+        "W1206585118",
+        "W1506690472",
+        "W1528564619",
+        "W1829737394",
+        "W1956762705",
+        "W1966321824",
+        "W1969870848",
+        "W1972496178",
+        "W1975652969",
+        "W1975714268",
+        "W1982915310",
+        "W1990893212",
+        "W1992629282",
+        "W2001078480",
+        "W2005294510",
+        "W2007771057",
+        "W2016215406",
+        "W2021482067",
+        "W2022374891",
+        "W2024438228",
+        "W2038516800",
+        "W2041979270",
+        "W2050267587",
+        "W2055297022",
+        "W2055305912",
+        "W2057149378",
+        "W2060720591",
+        "W2062988356",
+        "W2066346208",
+        "W2069262775",
+        "W2077714198",
+        "W2079805018",
+        "W2114533090",
+        "W2132245168",
+        "W2140153041",
+        "W2142548199",
+        "W2146623332",
+        "W2230150295",
+        "W2320621261",
+        "W2325280942",
+        "W2331719273",
+        "W2418555483",
+        "W2418817401",
+        "W2460583200",
+        "W2532325317",
+        "W2613791195",
+        "W2613911440"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": null
+    },
+    {
+      "id": "W2998487994",
+      "doi": "https://doi.org/10.1016/j.ast.2019.105668",
+      "title": "Influence of the inlet distortion on fan stall margin at different rotational speeds",
+      "authors": [
+        {
+          "name": "Wenqiang Zhang",
+          "id": "A5100669250",
+          "institution": "Imperial College London"
+        },
+        {
+          "name": "Sina Stapelfeldt",
+          "id": "A5017258331",
+          "institution": "Imperial College London"
+        },
+        {
+          "name": "Mehdi Vahdati",
+          "id": "A5057390502",
+          "institution": "Imperial College London"
+        }
+      ],
+      "year": 2020,
+      "citation_count": 66,
+      "abstract": "",
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Fluid Dynamics and Turbulent Flows",
+        "Heat Transfer Mechanisms"
+      ],
+      "source": {
+        "name": "Aerospace Science and Technology",
+        "id": "S61564791",
+        "type": "journal",
+        "issn": [
+          "1270-9638",
+          "1626-3219"
+        ]
+      },
+      "open_access_url": "",
+      "is_oa": false,
+      "referenced_works": [
+        "W8057520",
+        "W155394919",
+        "W1585950003",
+        "W1613539982",
+        "W1963734634",
+        "W1967752142",
+        "W1978588694",
+        "W1996440463",
+        "W2014345680",
+        "W2052738963",
+        "W2074695696",
+        "W2086305703",
+        "W2102938148",
+        "W2112899326",
+        "W2122942791",
+        "W2145124592",
+        "W2180897989",
+        "W2338578078",
+        "W2522759975",
+        "W2604804086",
+        "W2783402452",
+        "W2892239855",
+        "W2943731784",
+        "W4233518859",
+        "W4235896117",
+        "W4242694048",
+        "W4246939220",
+        "W4285719527",
+        "W6642360914",
+        "W6649489799",
+        "W6675734257",
+        "W6747804393",
+        "W6817532969"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": null
+    },
+    {
+      "id": "W3113106358",
+      "doi": "https://doi.org/10.1016/j.ast.2020.106433",
+      "title": "Stall inception prediction of axial compressors with radial inlet distortions",
+      "authors": [
+        {
+          "name": "Dengke Xu",
+          "id": "A5053335658",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Chen He",
+          "id": "A5070133630",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Dakun Sun",
+          "id": "A5063686427",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Xiaofeng Sun",
+          "id": "A5046713307",
+          "institution": "Beihang University"
+        }
+      ],
+      "year": 2020,
+      "citation_count": 43,
+      "abstract": "",
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Refrigeration and Air Conditioning Technologies",
+        "Heat Transfer Mechanisms"
+      ],
+      "source": {
+        "name": "Aerospace Science and Technology",
+        "id": "S61564791",
+        "type": "journal",
+        "issn": [
+          "1270-9638",
+          "1626-3219"
+        ]
+      },
+      "open_access_url": "",
+      "is_oa": false,
+      "referenced_works": [
+        "W1525188152",
+        "W1547640549",
+        "W1589702657",
+        "W1966855324",
+        "W1967862827",
+        "W1972748372",
+        "W1981717790",
+        "W1991362880",
+        "W1993669652",
+        "W1995088171",
+        "W2001816900",
+        "W2006557938",
+        "W2019375765",
+        "W2028264304",
+        "W2046824982",
+        "W2052552702",
+        "W2057190726",
+        "W2067433675",
+        "W2073669440",
+        "W2076189598",
+        "W2077976684",
+        "W2107636249",
+        "W2108757391",
+        "W2141343631",
+        "W2147622024",
+        "W2156009083",
+        "W2164646884",
+        "W2169983281",
+        "W2172708591",
+        "W2312459419",
+        "W2316652642",
+        "W2564166507",
+        "W2771864073",
+        "W2790645712",
+        "W2800162047",
+        "W2810902919",
+        "W2949665704",
+        "W2990911687",
+        "W2998487994",
+        "W3035966764",
+        "W3045416308",
+        "W4230527674",
+        "W4236448241",
+        "W4240207419",
+        "W4248715180",
+        "W4251314093",
+        "W4300941565",
+        "W6699206807"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": null
+    },
+    {
+      "id": "W2790645712",
+      "doi": "https://doi.org/10.2514/1.j056053",
+      "title": "Aerodynamic Instabilities of Swept Airfoil Design in Transonic Axial-Flow Compressors",
+      "authors": [
+        {
+          "name": "Chen He",
+          "id": "A5070133630",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Yunfei Ma",
+          "id": "A5104468909",
+          "institution": "University of Cambridge"
+        },
+        {
+          "name": "Xiaohua Liu",
+          "id": "A5100370779",
+          "institution": "Shanghai Jiao Tong University"
+        },
+        {
+          "name": "Dakun Sun",
+          "id": "A5063686427",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Xiaofeng Sun",
+          "id": "A5046713307",
+          "institution": "Beihang University"
+        }
+      ],
+      "year": 2018,
+      "citation_count": 37,
+      "abstract": "This paper investigates the effect of a swept airfoil design on the aerodynamic instabilities of transonic axial-flow compressors based on global stability analysis. An approach aimed at predicting the stall inception point is developed by integrating an improved blade force model and a new mathematical treatment method for steady flow. This approach takes both the concrete blade geometry and complicated base flow into consideration, which promises to provide a highly efficient assessment of the stall margin of a compressor in the design phase. Specifically, the relevant validation is conducted through a typical transonic axial-flow compressor, which shows that the predicted stall inception point agrees well with the experimental result. Furthermore, the compressor is also adopted as a prototype, from which a series of forward- and backward-swept rotors are modeled. Aerodynamic instabilities in the form of eigenvalues for each swept rotor, along with the throttling process, are predicted by solving the developed stall inception model. The comparison of the predicted results for these rotors shows that the backward sweep deteriorates the stall margin; the larger the backward-swept degree, the poorer the compressor stability becomes. However, the forward sweep does not exhibit remarkable and regular influence on the stall margin of the compressor in the present research. A discussion of the predicted results is made from the perspectives of blade loading and passage shock location.",
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Fluid Dynamics and Turbulent Flows",
+        "Computational Fluid Dynamics and Aerodynamics"
+      ],
+      "source": {
+        "name": "AIAA Journal",
+        "id": "S53336109",
+        "type": "journal",
+        "issn": [
+          "0001-1452",
+          "1081-0102",
+          "1533-385X"
+        ]
+      },
+      "open_access_url": "",
+      "is_oa": false,
+      "referenced_works": [
+        "W172714188",
+        "W277426360",
+        "W278334882",
+        "W430361908",
+        "W565460793",
+        "W1488997789",
+        "W1525188152",
+        "W1528557967",
+        "W1552548571",
+        "W1583872979",
+        "W1904937771",
+        "W1967862827",
+        "W1972748372",
+        "W1974318498",
+        "W1979528063",
+        "W1980648122",
+        "W1981717790",
+        "W1995088171",
+        "W2001816900",
+        "W2003133402",
+        "W2004333647",
+        "W2011794890",
+        "W2013806163",
+        "W2017006531",
+        "W2021120256",
+        "W2027815709",
+        "W2028693425",
+        "W2028928557",
+        "W2029498818",
+        "W2058299008",
+        "W2062988356",
+        "W2064779296",
+        "W2065182747",
+        "W2067433675",
+        "W2069256666",
+        "W2073123545",
+        "W2082613595",
+        "W2097410403",
+        "W2101292715",
+        "W2103098147",
+        "W2104102786",
+        "W2104120525",
+        "W2105004894",
+        "W2124579925",
+        "W2132245168",
+        "W2142548199",
+        "W2150538144",
+        "W2151857271",
+        "W2164646884",
+        "W2178078035"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "",
+        "methods": "",
+        "innovations": "",
+        "conclusions": "",
+        "relevance_score": 0,
+        "keywords": [],
+        "skipped": true,
+        "reason": "2018年论文，仅统计不逐篇分析"
+      }
+    },
+    {
+      "id": "W1972748372",
+      "doi": "https://doi.org/10.2514/1.j052186",
+      "title": "A General Theory of Flow-Instability Inception in Turbomachinery",
+      "authors": [
+        {
+          "name": "Xiaofeng Sun",
+          "id": "A5046713307",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Xiaohua Liu",
+          "id": "A5100370779",
+          "institution": "Beihang University"
+        },
+        {
+          "name": "Ruiwei Hou",
+          "id": "A5010178378",
+          "institution": "Shenyang Aerospace University"
+        },
+        {
+          "name": "Dakun Sun",
+          "id": "A5063686427",
+          "institution": "Beihang University"
+        }
+      ],
+      "year": 2013,
+      "citation_count": 65,
+      "abstract": "A general eigenvalue theory on flow stability in turbomachinery is proposed with the emphasis on flow-instability onset. Based on this theory, a stall-inception model including the effects of complex solid geometry is developed for a multistage fan/compressors system. The capacity of the present model to predict the stall-inception point is assessed against experimental data of both a low-speed and transonic single rotor. Comparisons with a simplified two-dimensional model are performed to identify the nonnegligible effects of spanwise distribution of flowfield in a general configuration on the unstable mode of the concerned fan/compressors. It is verified that this model is capable of predicting mass flow at the stall-onset point of both subsonic and transonic flow with a reasonable accuracy, and it is sustainable in terms of computation cost for industrial application.",
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Fluid Dynamics and Turbulent Flows",
+        "Heat Transfer Mechanisms"
+      ],
+      "source": {
+        "name": "AIAA Journal",
+        "id": "S53336109",
+        "type": "journal",
+        "issn": [
+          "0001-1452",
+          "1081-0102",
+          "1533-385X"
+        ]
+      },
+      "open_access_url": "",
+      "is_oa": false,
+      "referenced_works": [
+        "W56568670",
+        "W1487169877",
+        "W1488997789",
+        "W1518537820",
+        "W1528557967",
+        "W1608869592",
+        "W1670324562",
+        "W1967862827",
+        "W1974318498",
+        "W1978982401",
+        "W1984426476",
+        "W1995088171",
+        "W2001440086",
+        "W2001816900",
+        "W2004333647",
+        "W2005239934",
+        "W2010613323",
+        "W2024829178",
+        "W2029498818",
+        "W2060056372",
+        "W2063701273",
+        "W2067433675",
+        "W2077976684",
+        "W2080491905",
+        "W2088587834",
+        "W2101292715",
+        "W2107054959",
+        "W2117598810",
+        "W2124579925",
+        "W2140829823",
+        "W2150538144",
+        "W2164646884",
+        "W2168928276",
+        "W2175654685",
+        "W2313673092",
+        "W2315206154",
+        "W2316652642",
+        "W2325219351",
+        "W2326315092",
+        "W2331264741",
+        "W2333689151",
+        "W2396752896",
+        "W2480232105",
+        "W2800010605",
+        "W3151554679",
+        "W4235246263",
+        "W4242698491",
+        "W4245384383"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "",
+        "methods": "",
+        "innovations": "",
+        "conclusions": "",
+        "relevance_score": 0,
+        "keywords": [],
+        "skipped": true,
+        "reason": "2013年论文，仅统计不逐篇分析"
+      }
+    },
+    {
+      "id": "W2094281791",
+      "doi": "https://doi.org/10.1016/j.ast.2013.10.006",
+      "title": "On three-dimensional global linear instability analysis of flows with standard aerodynamics codes",
+      "authors": [
+        {
+          "name": "Francisco Gómez",
+          "id": "A5082474290",
+          "institution": "Instituto Nacional de Técnica Aeroespacial"
+        },
+        {
+          "name": "Raquel Gomez",
+          "id": "A5057972200",
+          "institution": "Instituto Nacional de Técnica Aeroespacial"
+        },
+        {
+          "name": "Vassilios Theofilis",
+          "id": "A5070593741",
+          "institution": "Universidad Politécnica de Madrid"
+        }
+      ],
+      "year": 2013,
+      "citation_count": 56,
+      "abstract": "",
+      "topics": [
+        "Computational Fluid Dynamics and Aerodynamics",
+        "Fluid Dynamics and Turbulent Flows",
+        "Fluid Dynamics and Vibration Analysis"
+      ],
+      "source": {
+        "name": "Aerospace Science and Technology",
+        "id": "S61564791",
+        "type": "journal",
+        "issn": [
+          "1270-9638",
+          "1626-3219"
+        ]
+      },
+      "open_access_url": "",
+      "is_oa": false,
+      "referenced_works": [
+        "W101236918",
+        "W146908444",
+        "W199296041",
+        "W422427558",
+        "W601041187",
+        "W1651782825",
+        "W1680615164",
+        "W1966303177",
+        "W1969870848",
+        "W1974025710",
+        "W1984284293",
+        "W1992002280",
+        "W1992550774",
+        "W1997552129",
+        "W2000517237",
+        "W2000852308",
+        "W2002335991",
+        "W2006421369",
+        "W2007771057",
+        "W2012059041",
+        "W2013648935",
+        "W2016844160",
+        "W2017944985",
+        "W2019308150",
+        "W2031954969",
+        "W2038010996",
+        "W2038785086",
+        "W2048500548",
+        "W2048659456",
+        "W2049194218",
+        "W2051003680",
+        "W2054938505",
+        "W2055857105",
+        "W2056068292",
+        "W2060000159",
+        "W2060606306",
+        "W2062988356",
+        "W2073003260",
+        "W2076154032",
+        "W2080641281",
+        "W2082923923",
+        "W2083370085",
+        "W2083517485",
+        "W2085271606",
+        "W2090907305",
+        "W2092491423",
+        "W2094752888",
+        "W2095626383",
+        "W2097973976",
+        "W2099550700"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "",
+        "methods": "",
+        "innovations": "",
+        "conclusions": "",
+        "relevance_score": 0,
+        "keywords": [],
+        "skipped": true,
+        "reason": "2013年论文，仅统计不逐篇分析"
+      }
+    },
+    {
+      "id": "W2031234276",
+      "doi": "https://doi.org/10.1016/j.paerosci.2011.06.004",
+      "title": "Computation of unsteady turbomachinery flows: Part 1—Progress and challenges",
+      "authors": [
+        {
+          "name": "Paul G. Tucker",
+          "id": "A5049261046",
+          "institution": "University of Cambridge"
+        }
+      ],
+      "year": 2011,
+      "citation_count": 133,
+      "abstract": "",
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Computational Fluid Dynamics and Aerodynamics",
+        "Fluid Dynamics and Turbulent Flows"
+      ],
+      "source": {
+        "name": "Progress in Aerospace Sciences",
+        "id": "S166193747",
+        "type": "journal",
+        "issn": [
+          "0376-0421",
+          "1873-1724"
+        ]
+      },
+      "open_access_url": "",
+      "is_oa": false,
+      "referenced_works": [
+        "W159814980",
+        "W164344990",
+        "W292699263",
+        "W561098584",
+        "W1481042478",
+        "W1485630731",
+        "W1488997789",
+        "W1558028350",
+        "W1614480257",
+        "W1673756544",
+        "W1675283237",
+        "W1964255172",
+        "W1967752142",
+        "W1968268129",
+        "W1969498829",
+        "W1970108905",
+        "W1970136906",
+        "W1972248787",
+        "W1974679778",
+        "W1974975423",
+        "W1975976807",
+        "W1976323302",
+        "W1976388572",
+        "W1976414822",
+        "W1977917057",
+        "W1979107628",
+        "W1979502356",
+        "W1980736405",
+        "W1981075577",
+        "W1981524462",
+        "W1982386146",
+        "W1982498942",
+        "W1983095505",
+        "W1985868063",
+        "W1988075634",
+        "W1988502883",
+        "W1991173836",
+        "W1991271013",
+        "W1995261793",
+        "W1996571236",
+        "W2000814863",
+        "W2001967025",
+        "W2002057083",
+        "W2007077624",
+        "W2007540454",
+        "W2007682947",
+        "W2007900234",
+        "W2008406203",
+        "W2008613289",
+        "W2008941053"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "",
+        "methods": "",
+        "innovations": "",
+        "conclusions": "",
+        "relevance_score": 0,
+        "keywords": [],
+        "skipped": true,
+        "reason": "2011年论文，仅统计不逐篇分析"
+      }
+    },
+    {
+      "id": "W1967752142",
+      "doi": "https://doi.org/10.1115/1.3148478",
+      "title": "High-Fidelity Numerical Analysis of Per-Rev-Type Inlet Distortion Transfer in Multistage Fans—Part I: Simulations With Selected Blade Rows",
+      "authors": [
+        {
+          "name": "Jixian Yao",
+          "id": "A5061011092",
+          "institution": "GE Global Research (United States)"
+        },
+        {
+          "name": "Steven E. Gorrell",
+          "id": "A5111466064",
+          "institution": "Brigham Young University"
+        },
+        {
+          "name": "A. R. Wadia",
+          "id": "A5084081264",
+          "institution": ""
+        }
+      ],
+      "year": 2010,
+      "citation_count": 62,
+      "abstract": "Demands for improved performance and operability of advanced propulsion systems require an understanding of the physics of inlet flow distortion transfer and generation and the subsequent engine response. This also includes developing a high-fidelity characterization capability and suitable tools/rules for the design of distortion tolerant engines. This paper describes efforts to establish a high-fidelity prediction capability of distortion transfer and fan response via high-performance computing. The current CFD capability was evaluated with a focus of predicting the transfer of prescribed inlet flow distortions. Numerical simulations, comparison to experimental data, and analysis of two selected three-stage fans are presented. The unsteady Reynolds-Averaged Navier-Stokes (RANS) code PTURBO demonstrated remarkable agreement with data, accurately capturing both the magnitude and profile of total pressure and total temperature measurements. Part I of this paper describes the establishment of the required numerical simulation procedures. The computational domains are limited to the first three blade rows for the first multistage fan and the last three blade rows for the second fan. This paper presents initial validation and analysis of the total pressure distortion transfer and the total temperature distortion generation. Based on the established ground work of Part I, the entire two multistage fans were simulated with inlet distortion at normal operating condition and near stall condition, which is Part II of this paper. Part II presents the full range validation against engine test data and in-depth analysis of distortion transfer and generation mechanisms throughout the two fans.",
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Computational Fluid Dynamics and Aerodynamics",
+        "Combustion and flame dynamics"
+      ],
+      "source": {
+        "name": "Journal of Turbomachinery",
+        "id": "S4210171160",
+        "type": "journal",
+        "issn": [
+          "0889-504X",
+          "1528-8900"
+        ]
+      },
+      "open_access_url": "",
+      "is_oa": false,
+      "referenced_works": [
+        "W1558028350",
+        "W2011382122",
+        "W2012472915",
+        "W2030564862",
+        "W2039034220",
+        "W2046584406",
+        "W2046824982",
+        "W2062073777",
+        "W2102938148",
+        "W2104651692",
+        "W2107636249",
+        "W2134723531",
+        "W2164646884",
+        "W2176646361",
+        "W2315477884",
+        "W2321182823",
+        "W2328343708",
+        "W2329536430",
+        "W2516398933",
+        "W6600314030"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "",
+        "methods": "",
+        "innovations": "",
+        "conclusions": "",
+        "relevance_score": 0,
+        "keywords": [],
+        "skipped": true,
+        "reason": "2010年论文，仅统计不逐篇分析"
+      }
+    },
+    {
+      "id": "W2164646884",
+      "doi": "https://doi.org/10.1115/gt2006-90040",
+      "title": "A Three-Dimensional Unsteady CFD Model of Compressor Stability",
+      "authors": [
+        {
+          "name": "Rodrick V. Chima",
+          "id": "A5057819317",
+          "institution": "Glenn Research Center"
+        }
+      ],
+      "year": 2006,
+      "citation_count": 77,
+      "abstract": "A three-dimensional unsteady CFD code called CSTALL has been developed and used to investigate compressor stability. The code solved the Euler equations through the entire annulus and all blade rows. Blade row turning, losses, and deviation were modeled using body force terms which required input data at stations between blade rows. The input data was calculated using a separate Navier-Stokes turbomachinery analysis code run at one operating point near stall, and was scaled to other operating points using overall characteristic maps. No information about the stalled characteristic was used. CSTALL was run in a 2-D throughflow mode for very fast calculations of operating maps and estimation of stall points. Calculated pressure ratio characteristics for NASA stage 35 agreed well with experimental data, and results with inlet radial distortion showed the expected loss of range. CSTALL was also run in a 3-D mode to investigate inlet circumferential distortion. Calculated operating maps for stage 35 with 120 degree distortion screens showed a loss in range and pressure rise. Unsteady calculations showed rotating stall with two part-span stall cells. The paper describes the body force formulation in detail, examines the computed results, and concludes with observations about the code.",
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Computational Fluid Dynamics and Aerodynamics",
+        "Fluid Dynamics and Turbulent Flows"
+      ],
+      "source": {
+        "name": "",
+        "id": "",
+        "type": "",
+        "issn": []
+      },
+      "open_access_url": "https://ntrs.nasa.gov/api/citations/20060008696/downloads/20060008696.pdf",
+      "is_oa": true,
+      "referenced_works": [
+        "W1487169877",
+        "W1558028350",
+        "W1995955048",
+        "W1997789963",
+        "W2022551362",
+        "W2029513699",
+        "W2065654699",
+        "W2083429215",
+        "W2085437814",
+        "W2104651692",
+        "W2163044937",
+        "W2165061801",
+        "W2174243525",
+        "W2326315092",
+        "W2327268894"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "",
+        "methods": "",
+        "innovations": "",
+        "conclusions": "",
+        "relevance_score": 0,
+        "keywords": [],
+        "skipped": true,
+        "reason": "2006年论文，仅统计不逐篇分析"
+      }
+    },
+    {
+      "id": "W1987902628",
+      "doi": "https://doi.org/10.1145/992200.992205",
+      "title": "A column pre-ordering strategy for the unsymmetric-pattern multifrontal method",
+      "authors": [
+        {
+          "name": "Timothy A. Davis",
+          "id": "A5069178025",
+          "institution": "University of Florida"
+        }
+      ],
+      "year": 2004,
+      "citation_count": 420,
+      "abstract": "A new method for sparse LU factorization is presented that combines a column pre-ordering strategy with a right-looking unsymmetric-pattern multifrontal numerical factorization. The column ordering is selected to give a good a priori upper bound on fill-in and then refined during numerical factorization (while preserving the bound). Pivot rows are selected to maintain numerical stability and to preserve sparsity. The method analyzes the matrix and automatically selects one of three pre-ordering and pivoting strategies. The number of nonzeros in the LU factors computed by the method is typically less than or equal to those found by a wide range of unsymmetric sparse LU factorization methods, including left-looking methods and prior multifrontal methods.",
+      "topics": [
+        "Matrix Theory and Algorithms",
+        "Advanced Optimization Algorithms Research",
+        "Numerical methods for differential equations"
+      ],
+      "source": {
+        "name": "ACM Transactions on Mathematical Software",
+        "id": "S163326656",
+        "type": "journal",
+        "issn": [
+          "0098-3500",
+          "1557-7295"
+        ]
+      },
+      "open_access_url": "",
+      "is_oa": false,
+      "referenced_works": [
+        "W89281171",
+        "W1509994495",
+        "W1510491715",
+        "W1585892185",
+        "W1966561868",
+        "W1969277007",
+        "W1972859808",
+        "W1981885118",
+        "W1984921897",
+        "W1990474090",
+        "W1995393679",
+        "W1998276913",
+        "W2001076170",
+        "W2002257715",
+        "W2005684035",
+        "W2007259720",
+        "W2014730252",
+        "W2016441057",
+        "W2020561008",
+        "W2021108117",
+        "W2027566319",
+        "W2028495395",
+        "W2029635056",
+        "W2031990962",
+        "W2038205735",
+        "W2043839703",
+        "W2050324476",
+        "W2051917325",
+        "W2052602889",
+        "W2058331587",
+        "W2063675347",
+        "W2065600791",
+        "W2068543948",
+        "W2068683191",
+        "W2069849438",
+        "W2070232376",
+        "W2070299075",
+        "W2072197890",
+        "W2074093855",
+        "W2077309453",
+        "W2082222857",
+        "W2088160222",
+        "W2090336893",
+        "W2096559782",
+        "W2100657871",
+        "W2129256515",
+        "W2141025928",
+        "W2154610433",
+        "W2159856118",
+        "W2167797964"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "",
+        "methods": "",
+        "innovations": "",
+        "conclusions": "",
+        "relevance_score": 0,
+        "keywords": [],
+        "skipped": true,
+        "reason": "2004年论文，仅统计不逐篇分析"
+      }
+    },
+    {
+      "id": "W2069849438",
+      "doi": "https://doi.org/10.1137/s0895479899358443",
+      "title": "On Algorithms For Permuting Large Entries to the Diagonal of a Sparse Matrix",
+      "authors": [
+        {
+          "name": "Iain Duff",
+          "id": "A5111633713",
+          "institution": ""
+        },
+        {
+          "name": "Jacko Koster",
+          "id": "A5052601679",
+          "institution": ""
+        }
+      ],
+      "year": 2001,
+      "citation_count": 349,
+      "abstract": "We consider bipartite matching algorithms for computing permutations of a sparse matrix so that the diagonal of the permuted matrix has entries of large absolute value. We discuss various strategies for this and consider their implementation as computer codes. We also consider scaling techniques to further increase the relative values of the diagonal entries. Numerical experiments show the effect of the reorderings and the scaling on the solution of sparse equations by a direct method and by preconditioned iterative techniques.",
+      "topics": [
+        "Matrix Theory and Algorithms",
+        "Graph Theory and Algorithms",
+        "Complexity and Algorithms in Graphs"
+      ],
+      "source": {
+        "name": "SIAM Journal on Matrix Analysis and Applications",
+        "id": "S16958353",
+        "type": "journal",
+        "issn": [
+          "0895-4798",
+          "1095-7162"
+        ]
+      },
+      "open_access_url": "",
+      "is_oa": false,
+      "referenced_works": [
+        "W1513400187",
+        "W1560792291",
+        "W1886151773",
+        "W1965394225",
+        "W1968360394",
+        "W1976013620",
+        "W1977631509",
+        "W1984958506",
+        "W2017431061",
+        "W2038205735",
+        "W2040298674",
+        "W2041785146",
+        "W2046140068",
+        "W2063675347",
+        "W2065600791",
+        "W2084224084",
+        "W2095226349",
+        "W2132612821",
+        "W2139559590",
+        "W2139688603",
+        "W2140153041",
+        "W2155216327",
+        "W2157529519",
+        "W2169528473",
+        "W2222512263",
+        "W2762935521",
+        "W2888871578"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "",
+        "methods": "",
+        "innovations": "",
+        "conclusions": "",
+        "relevance_score": 0,
+        "keywords": [],
+        "skipped": true,
+        "reason": "2001年论文，仅统计不逐篇分析"
+      }
+    },
+    {
+      "id": "W2067433675",
+      "doi": "https://doi.org/10.1115/1.2836726",
+      "title": "A Computational Model for Short-Wavelength Stall Inception and Development in Multistage Compressors",
+      "authors": [
+        {
+          "name": "Yu Gong",
+          "id": "A5019952863",
+          "institution": "Massachusetts Institute of Technology"
+        },
+        {
+          "name": "C. S. Tan",
+          "id": "A5112064844",
+          "institution": "Massachusetts Institute of Technology"
+        },
+        {
+          "name": "Kenneth A. Gordon",
+          "id": "A5017063423",
+          "institution": "Massachusetts Institute of Technology"
+        },
+        {
+          "name": "E. M. Greitzer",
+          "id": "A5110103373",
+          "institution": "Hartford Financial Services (United States)"
+        }
+      ],
+      "year": 1999,
+      "citation_count": 146,
+      "abstract": "This paper presents a computational model for simulating axial compressor stall inception and development via disturbances with length scales on the order of several (typically about three) blade pitches. The model was designed for multistage compressors in which stall is initiated by these “short-wavelength” disturbances, also referred to as spikes. The inception process described is fundamentally nonlinear, in contrast to the essentially linear behavior seen in so-called “modal stall inception”. The model was able to capture the following experimentally observed phenomena: (1) development of rotating stall via short-wavelength disturbances, (2) formation and evolution of localized short-wavelength stall cells in the first-stage of a mismatched compressor, (3) the switch from long to short-wavelength stall inception resulting from the re-staggering of the inlet guide vane, (4) the occurrence of rotating stall inception on the negatively sloped portion of the compressor characteristic. Parametric investigations indicated that: (1) short-wavelength disturbances were supported by the rotor blade row, (2) the disturbance strength was attenuated within the stators, and (3) the reduction of inter-blade row gaps can suppress the growth of short-wavelength disturbances. It is argued that each local component group (rotor plus neighboring stators) has its own instability point (i.e., conditions at which disturbances are sustained) for short-wavelength disturbances, with the instability point for the compressor set by the most unstable component group.",
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Fluid Dynamics and Turbulent Flows",
+        "Combustion and flame dynamics"
+      ],
+      "source": {
+        "name": "Journal of Turbomachinery",
+        "id": "S4210171160",
+        "type": "journal",
+        "issn": [
+          "0889-504X",
+          "1528-8900"
+        ]
+      },
+      "open_access_url": "",
+      "is_oa": false,
+      "referenced_works": [
+        "W1558028350",
+        "W1578821218",
+        "W1650292484",
+        "W1967862827",
+        "W1973504195",
+        "W1980411718",
+        "W1981717790",
+        "W2004333647",
+        "W2005239934",
+        "W2017006531",
+        "W2029498818",
+        "W2056852300",
+        "W2072257204",
+        "W2076189598",
+        "W2079914990",
+        "W2117598810",
+        "W2124579925",
+        "W2163044937",
+        "W2174243525",
+        "W2175693562",
+        "W2290685123",
+        "W2315206154",
+        "W2326315092",
+        "W2944523124",
+        "W3178266934",
+        "W4245384383",
+        "W4249864435"
+      ],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "",
+        "methods": "",
+        "innovations": "",
+        "conclusions": "",
+        "relevance_score": 0,
+        "keywords": [],
+        "skipped": true,
+        "reason": "1999年论文，仅统计不逐篇分析"
+      }
+    },
+    {
+      "id": "W1525188152",
+      "doi": "",
+      "title": "Modelling high speed multistage compressor stability",
+      "authors": [
+        {
+          "name": "Laurent Paul Bonnaure",
+          "id": "A5081920307",
+          "institution": ""
+        }
+      ],
+      "year": 1991,
+      "citation_count": 40,
+      "abstract": "Thesis (M.S.)--Massachusetts Institute of Technology, Dept. of Aeronautics and Astronautics, 1991.",
+      "topics": [
+        "Refrigeration and Air Conditioning Technologies",
+        "Turbomachinery Performance and Optimization",
+        "Tribology and Lubrication Engineering"
+      ],
+      "source": {
+        "name": "DSpace@MIT (Massachusetts Institute of Technology)",
+        "id": "S4306400425",
+        "type": "repository",
+        "issn": []
+      },
+      "open_access_url": "http://hdl.handle.net/1721.1/13046",
+      "is_oa": true,
+      "referenced_works": [],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "",
+        "methods": "",
+        "innovations": "",
+        "conclusions": "",
+        "relevance_score": 0,
+        "keywords": [],
+        "skipped": true,
+        "reason": "1991年论文，仅统计不逐篇分析"
+      }
+    },
+    {
+      "id": "W2044522659",
+      "doi": "https://doi.org/10.1115/1.3230787",
+      "title": "Stalling Pressure Rise Capability of Axial Flow Compressor Stages",
+      "authors": [
+        {
+          "name": "C. C. Koch",
+          "id": "A5083726298",
+          "institution": "General Electric (United States)"
+        }
+      ],
+      "year": 1981,
+      "citation_count": 162,
+      "abstract": "A procedure for estimating the maximum pressure rise potential of axial flow compressor stages is presented. A simplified stage average pitchline approach is employed so that the procedure can be used during a preliminary design effort before detailed radial distributions of blading geometry and fluid parameters are established. Semi-empirical correlations of low speed experimental data are presented that relate the stalling static-pressure-rise coefficient of a compressor stage to cascade passage geometry, tip clearance, bladerow axial spacing and Reynolds number. Blading aspect ratio is accounted for through its effect on normalized clearances, Reynolds number and wall boundary layer blockage. An unexpectedly strong effect of airfoil stagger and of the resulting flow coefficient of the stage’s vector triangle is observed in the experimental data. This is shown to be caused by the differing ability of different types of stage vector triangles to re-energize incoming low-momentum fluid. Use of a suitable “effective” dynamic head in the pressure rise coefficient gives a good correlation of this effect. Stalling pressure rise data from a wide range of both low speed and high speed compressor stages are shown to be in good agreement with these correlations.",
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Refrigeration and Air Conditioning Technologies",
+        "Aerodynamics and Fluid Dynamics Research"
+      ],
+      "source": {
+        "name": "Journal of Engineering for Power",
+        "id": "S194951068",
+        "type": "journal",
+        "issn": [
+          "0022-0825",
+          "2161-945X"
+        ]
+      },
+      "open_access_url": "",
+      "is_oa": false,
+      "referenced_works": [],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "",
+        "methods": "",
+        "innovations": "",
+        "conclusions": "",
+        "relevance_score": 0,
+        "keywords": [],
+        "skipped": true,
+        "reason": "1981年论文，仅统计不逐篇分析"
+      }
+    },
+    {
+      "id": "W2077976684",
+      "doi": "https://doi.org/10.1115/1.3240618",
+      "title": "Rotating Stall and Surge",
+      "authors": [
+        {
+          "name": "A. H. Stenning",
+          "id": "A5081853709",
+          "institution": "Lehigh University"
+        }
+      ],
+      "year": 1980,
+      "citation_count": 109,
+      "abstract": "Safe off-design operation of compressors is limited to the region in which the flow is stable. Flow instabilities can be of two types, rotating stall and surge. The first of these subjects the blading to high oscillating stresses while the second may also have a disastrous effect on the whole system of which the compressor is a component. In this paper, the properties of these two types of instability are discussed and some simple criteria for determining system stability are presented.",
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Refrigeration and Air Conditioning Technologies",
+        "Tribology and Lubrication Engineering"
+      ],
+      "source": {
+        "name": "Journal of Fluids Engineering",
+        "id": "S14419372",
+        "type": "journal",
+        "issn": [
+          "0098-2202",
+          "1528-901X"
+        ]
+      },
+      "open_access_url": "",
+      "is_oa": false,
+      "referenced_works": [],
+      "discovery_origin": "reference",
+      "seed_doi": "10.2514/1.J064898",
+      "analysis": {
+        "summary": "",
+        "methods": "",
+        "innovations": "",
+        "conclusions": "",
+        "relevance_score": 0,
+        "keywords": [],
+        "skipped": true,
+        "reason": "1980年论文，仅统计不逐篇分析"
+      }
+    },
+    {
+      "id": "W4408297773",
+      "doi": "10.2514/1.b39636",
+      "title": "Multipoint Aerodynamic Optimization of Three-Dimensional Ultra-High-Bypass-Ratio Engine Intakes",
+      "year": 2025,
+      "abstract": "A multi-objective optimization framework for three-dimensional intakes of ultra-high-bypass-ratio engines has been developed. The principle underlying the approach is to conduct the design of experiments simultaneously at low-speed and cruise operating points using computational fluid dynamics. Three low-speed points are considered: high incidence, crosswind, and static start. An over-wing-nacelle configuration was investigated at cruise. An experimental campaign is presented to validate the low-speed numerical setup. The design study was performed on intakes with length-to-fan-diameter ratios ([Formula: see text]) of 0.65, 0.50, and 0.35, respectively. Stable parameter ranges were identified within which the intakes could operate without flow separation. Shortening the intake length improved the stability margins of the intake, especially for the contraction ratio. At cruise, the diffuser cone angle was found to be the most critical parameter influencing the intake pressure recovery. Surrogate models were fit to the data from the design of experiments. A trade-off analysis was performed to identify an optimum trade-off between cruise and low-speed conditions. Final three-dimensional intake candidates were seen to operate without separation at all low-speed conditions. At cruise, the short intake showed a 0.08% improvement in intake pressure recovery and a drag penalty of 87.05 drag counts compared to the long intake.",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_短进气道_短舱气动设计与优化"
+      ],
+      "claim_ids": [
+        "claim_W4408297773_1",
+        "claim_W4408297773_2",
+        "claim_W4408297773_3"
+      ],
+      "discovery_reason": "via citing_seed, connections: 3",
+      "scores": {
+        "total": 7.85,
+        "components": {
+          "keyword_overlap": 2,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": {
+        "claims_summary": {
+          "claims": [
+            {
+              "statement": "缩短进气道长度可提高稳定性，特别是收缩比方面，且短进气道在巡航时压力恢复提高0.08%但阻力增加87.05 drag counts",
+              "method": "多目标优化框架，结合实验验证、CFD、设计试验和代理模型",
+              "evidence_type": "experiment",
+              "geometry": "三种长度与风扇直径比（0.65, 0.50, 0.35）的进气道",
+              "condition": "低速（高迎角、侧风、静态启动）和巡航（机翼上方短舱）",
+              "outcome": "短进气道在所有低速工况下无分离，巡航压力恢复提高0.08%，阻力增加87.05 drag counts",
+              "limitation": "未明确声明"
+            },
+            {
+              "statement": "巡航时扩散锥角是影响进气道压力恢复的最关键参数",
+              "method": "参数敏感性分析（基于设计试验数据）",
+              "evidence_type": "analytical",
+              "geometry": "超高超涵道比发动机进气道",
+              "condition": "巡航",
+              "outcome": "扩散锥角为最关键的几何参数",
+              "limitation": "未明确声明"
+            },
+            {
+              "statement": "开发了超高超涵道比发动机进气道的多目标优化框架，能同时优化低速和巡航性能",
+              "method": "多目标优化框架，使用CFD和代理模型进行折衷分析",
+              "evidence_type": "numerical",
+              "geometry": "三维进气道（长度与风扇直径比0.35-0.65）",
+              "condition": "低速（高迎角、侧风、静态启动）和巡航",
+              "outcome": "找到了低速和巡航性能之间的最优折衷方案",
+              "limitation": "未明确声明"
+            }
+          ],
+          "relevance_to_question": 10,
+          "novelty": "incremental",
+          "question_affinity": []
+        },
+        "relevance_to_question": 10,
+        "novelty": "incremental",
+        "analyzed_at": "2026-05-18T11:49:12.581263+00:00"
+      }
+    },
+    {
+      "id": "W7152635645",
+      "doi": "10.3390/aerospace13040349",
+      "title": "Aerodynamic Intake Profile Optimization Design for Civil Aircraft Propulsion Systems",
+      "year": 2026,
+      "abstract": "To improve the aerodynamic design efficiency of nacelle intake systems for wing-mounted civil aero-engines under multiple operating conditions, an integrated multi-objective optimization method was developed to address the limited optimization efficiency and robustness encountered in conventional approaches. The proposed method employed parametric techniques to construct three-dimensional non-axisymmetric nacelle geometries and integrated flow-field simulations with performance evaluation modules, forming a hybrid optimization framework based on a Kriging surrogate model coupled with the NSGA-II genetic algorithm. Two-dimensional numerical analyses were employed to rapidly evaluate inlet profiles and constrain the three-dimensional design space. Following the reduction in the design space, the three-dimensional optimization simultaneously accounted for multiple performance objectives, including nacelle drag and block fuel consumption during cruise conditions, as well as inlet distortion and flow separation under off-design conditions. A set of Pareto-optimal solutions was obtained through surrogate-based prediction and validated using high-fidelity CFD simulations. The results indicate that the optimized nacelle configuration achieves a 0.933% reduction in drag coefficient and a 0.628% decrease in block fuel consumption under cruise conditions. Under crosswind conditions, the inlet total pressure recovery coefficient is increased by 2.76%, accompanied by a pronounced reduction in flow separation, while under maximum-lift coefficient conditions, the total pressure recovery remains above 99%. These results demonstrate that the proposed optimization approach enables coordinated aerodynamic performance improvements across multiple operating conditions while simultaneously enhancing overall aircraft fuel efficiency, providing an effective strategy for advanced nacelle aerodynamic shape design.",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_短进气道_短舱气动设计与优化"
+      ],
+      "claim_ids": [
+        "claim_W7152635645_1"
+      ],
+      "discovery_reason": "via citing_seed, connections: 4",
+      "scores": {
+        "total": 7.0,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": {
+        "claims_summary": {
+          "claims": [
+            {
+              "statement": "提出的多目标优化方法能够协调多个工况实现短舱气动性能提升，包括巡航阻力降低0.933%和燃油消耗降低0.628%，侧风下总压恢复提高2.76%。",
+              "method": "基于Kriging代理模型和NSGA-II遗传算法的混合优化，结合参数化三维非轴对称短舱建模和CFD验证",
+              "evidence_type": "numerical",
+              "geometry": "三维非轴对称短舱进气道",
+              "condition": "巡航、侧风、最大升力系数工况",
+              "outcome": "巡航阻力系数降低0.933%，块燃油消耗降低0.628%；侧风下总压恢复系数提高2.76%，流动分离显著减小；最大升力系数下总压恢复>99%。",
+              "limitation": "未明确声明"
+            }
+          ],
+          "relevance_to_question": 10,
+          "novelty": "incremental",
+          "question_affinity": [
+            "1"
+          ]
+        },
+        "relevance_to_question": 10,
+        "novelty": "incremental",
+        "analyzed_at": "2026-05-18T11:49:08.525888+00:00"
+      }
+    },
+    {
+      "id": "W7129079259",
+      "doi": "10.1016/j.jsv.2026.119701",
+      "title": "Part-span approximation of linear tone noise propagation in an aeroengine intake",
+      "year": 2026,
+      "abstract": "• Proposed a ‘part-span approximation’ for in-duct tone noise predictions. • Characterised errors introduced by the approximation. • Applied to noise radiation from a realistic intake geometry. • Demonstrated a potentially significant computational saving. A part-span methodology is proposed for the propagation of linear tone noise in aeroengine intake ducts. For fan rotor-associated tone noise sources in particular, but also rotor-stator interaction tones, much of the acoustic energy flux is concentrated towards the duct outer wall, offering the opportunity to reduce the computational expense of numerical predictions by neglecting low-span regions of the duct. Conventional computational fluid dynamics (CFD) methods can predict the acoustic field with reasonable accuracy but are too computationally expensive for iterative application during the design process. The methodology is investigated in four stages, starting with the impact on mode shape representation and in-duct propagation of individual Fourier-Bessel eigenmodes in a cylindrical duct through to far-field radiation. The approach is then applied to cases involving an axisymmetric, yet otherwise realistic, intake geometry, including a test case that considers steady flow distortion effects. Negligible errors for in-duct and far-field predictions are observed in many applied cases. Higher error levels are introduced for modes at low azimuthal harmonics and with ducts of high hub-tip ratios. In-duct, the error is closely linked to the amount of acoustic energy truncated in an approximated duct with an artificial hub wall and is associated with the redistribution of high-order radial mode components. Potential sources of error are identified and categorised: source truncation error, in-duct propagation error, and far-field radiation error. Computationally, the approximation can significantly reduce the size of the mesh required to resolve the acoustic field.",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_风扇_压气机噪声产生与传播"
+      ],
+      "claim_ids": [
+        "claim_W7129079259_1"
+      ],
+      "discovery_reason": "via citing_seed, connections: 9",
+      "scores": {
+        "total": 7.0,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": {
+        "claims_summary": {
+          "claims": [
+            {
+              "statement": "提出了一种部分跨度近似方法，用于航空发动机进气道内线性音调噪声传播的数值预测，可显著降低计算成本而保持可接受的精度。",
+              "method": "通过四个阶段（模态表示、管内传播、远场辐射、真实几何应用）进行数值实验和误差分析",
+              "evidence_type": "numerical",
+              "geometry": "圆柱形管道和轴对称真实进气道几何",
+              "condition": "风扇转子音调噪声及转子-静子相互作用音调噪声源，考虑稳态流畸变",
+              "outcome": "多数情况下管内和远场预测误差可忽略；低方位角谐波和高轮毂比管道误差较高；可显著减少网格尺寸",
+              "limitation": "未明确声明局限性，但文中指出低方位角谐波和高轮毂比管道会导致较高误差"
+            }
+          ],
+          "relevance_to_question": 9,
+          "novelty": "novel",
+          "question_affinity": [
+            "1",
+            "2"
+          ]
+        },
+        "relevance_to_question": 9,
+        "novelty": "novel",
+        "analyzed_at": "2026-05-18T11:49:10.188438+00:00"
+      }
+    },
+    {
+      "id": "W7128478200",
+      "doi": "10.1016/j.ast.2026.111890",
+      "title": "Comparative analysis of nonlinear data-driven modeling of inlet distortion for nacelle air-intake system",
+      "year": 2026,
+      "abstract": "",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_短进气道_短舱气动设计与优化"
+      ],
+      "claim_ids": [],
+      "discovery_reason": "via citing_seed, connections: 4",
+      "scores": {
+        "total": 7.0,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": null
+    },
+    {
+      "id": "W4414394993",
+      "doi": "10.1080/23311916.2025.2560978",
+      "title": "A comprehensive review of numerical and experimental techniques for enhancing axial flow compressor performance under various flow conditions",
+      "year": 2025,
+      "abstract": "The fan, compressors and turbines are the main rotating components of a modern aircraft turbofan engine. The stable and safe performance of the propulsion system always depends on the inlet and engine compatibility. Which also includes the distortion that occurs due to flow separation or uneven flow distribution. Such distortions impact the compressor’s performance and operational range. Earlier, only theoretical and experimental methods were utilized to analyze the flow stability and disturbance such as inlet distortion of an axial flow compressor. Later numerical methods were developed and utilized as the most effective tool. In this review article, both numerical and experimental analyses on the performance of axial flow compressors and respective components are highlighted. Additionally, the review article also discusses numerical models, experiments, and latest techniques, and simulations related to inlet distortion, rotor blades, and axial flow compressor inlets. In conclusion, this review article provides insights into probable solutions that can enhance compressor performance under different flow disturbances and instability. This article is suitable in identifying the cause for instability that occurs inside the axial flow compressor. This review article helps researchers who are interested in axial flow compressor turbomachinery by providing insights into the latest numerical and experimental methods that can enhance overall performance.",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_进口畸变对压气机性能的影响"
+      ],
+      "claim_ids": [
+        "claim_W4414394993_1"
+      ],
+      "discovery_reason": "via citing_seed, connections: 8",
+      "scores": {
+        "total": 6.85,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": {
+        "claims_summary": {
+          "claims": [
+            {
+              "statement": "进口畸变会导致轴流压气机性能下降和运行范围缩小，数值和实验方法是分析畸变影响的有效工具，综述提供了增强压气机性能的潜在解决方案。",
+              "method": "综述",
+              "evidence_type": "review",
+              "geometry": "轴流压气机",
+              "condition": "进口畸变及其他流动不稳定条件",
+              "outcome": "总结了数值和实验方法在分析进口畸变影响方面的应用，并提出了提升性能的解决方案。",
+              "limitation": "未明确声明局限性"
+            }
+          ],
+          "relevance_to_question": 10,
+          "novelty": "review",
+          "question_affinity": [
+            "Q1"
+          ]
+        },
+        "relevance_to_question": 10,
+        "novelty": "review",
+        "analyzed_at": "2026-05-18T11:49:06.821292+00:00"
+      }
+    },
+    {
+      "id": "W4410603956",
+      "doi": "10.1007/s42401-025-00366-w",
+      "title": "A comprehensive review of aerodynamic performance evaluation for aircraft wings and engines: insights into experimental, numerical, and theoretical approaches",
+      "year": 2025,
+      "abstract": "Abstract The aircraft wing and engine play an important role, in generating lift and thrust forces, which are essential for smooth flight. Aerodynamics of the wing and engine interaction do affect the aerodynamic efficiency and stability of an aircraft. Hence, this review article emphasizes the evaluation of aircraft wing and engine aerodynamic performance. This review article provides insights into the effects of distortions on the aerodynamic stability of the supersonic inlet, hypersonic inlet, S-duct stability, and nacelle. Additionally, this holistic review highlights the various experimental, numerical, and theoretical techniques used in the wing and nacelle analysis. The experimental literature explains different methods and techniques, such as boundary layer transition analysis, vortex instability tests, and flow visualization techniques, used in wind tunnel testing. The numerical methods involving RANS equations, advanced grid techniques, and solvers such as Cart3D-Adjoiny frameworks and DNS simulations enhance aerodynamic efficiency, minimize drag, and reduce fuel consumption. The theoretical literature includes the BFM, the PIMPLE algorithm, and control theories, which are essential for aerodynamic optimization and accurate prediction of aerodynamic characteristics. The integration of theoretical methods like deep learning, ML, and AI will enhance the calculation speed and convergence rate. All three approaches are also discussed with quantitative analysis. In conclusion, the integration of advanced experimental, numerical, and theoretical approaches leads to a robust framework for an improving future aircraft design by increasing lift, reducing drag, and improving aerodynamic efficiency. This research article provides valuable insights for the researcher in the aerodynamic domain of aircraft wings and engines by detailing the latest techniques used in aerodynamic flow analysis.",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_短进气道_短舱气动设计与优化"
+      ],
+      "claim_ids": [
+        "claim_W4410603956_1"
+      ],
+      "discovery_reason": "via citing_seed, connections: 11",
+      "scores": {
+        "total": 6.85,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": {
+        "claims_summary": {
+          "claims": [
+            {
+              "statement": "整合实验、数值和理论方法可显著改善飞机机翼和发动机的空气动力学性能，包括增加升力、减少阻力和提高效率。",
+              "method": "综述现有文献",
+              "evidence_type": "review",
+              "geometry": "机翼、发动机、进气道（超音速/高音速）、S形进气道、短舱",
+              "condition": "未指定特定工况",
+              "outcome": "集成方法提供了改善未来飞机设计的稳健框架",
+              "limitation": "未明确声明"
+            }
+          ],
+          "relevance_to_question": 9,
+          "novelty": "review",
+          "question_affinity": [
+            "Q1"
+          ]
+        },
+        "relevance_to_question": 9,
+        "novelty": "review",
+        "analyzed_at": "2026-05-18T11:49:09.305128+00:00"
+      }
+    },
+    {
+      "id": "W4406098775",
+      "doi": "10.1016/j.ast.2025.109937",
+      "title": "Experimental investigation on unsteady pre-stall behaviors of axial compressor with circumferential total pressure distortion",
+      "year": 2025,
+      "abstract": "",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_进口畸变对压气机性能的影响"
+      ],
+      "claim_ids": [],
+      "discovery_reason": "via citing_seed, connections: 6",
+      "scores": {
+        "total": 6.85,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": null
+    },
+    {
+      "id": "W4415966137",
+      "doi": "10.1115/1.4070340",
+      "title": "Interaction Effects of Fan With Short Aero-Intake: A Multi-Objective Optimization Study With Modeling of Flow Coupling",
+      "year": 2025,
+      "abstract": "Abstract The stronger coupling between the turbomachinery and the air inlet becomes more relevant in next-generation turbofan engines with low-pressure ratio fans and compact nacelles. This study presents a numerical investigation of the interaction between a transonic fan and a short aero-intake in terms of intake geometric design and fan modeling. The inlet design space is first explored in cruise and takeoff conditions, and the three-dimensional geometry is optimized in a multipoint and multi-objective formulation using a Bayesian solver to minimize the inlet distortion at takeoff and the total pressure losses in cruise. Flow coupling at high incidence is ensured through a body force model of the fan. The Pareto frontier highlights the conflicting nature of intake design between high incidence and high-speed performance. A selected individual from the Pareto is further examined by running unsteady full-annulus sliding-mesh simulations at a high angle of attack upon inlet separation. The detailed comparison of the flow field and the turbomachinery performance indicates an accurate reproduction of the inlet flow coupling through the body force model. Although lacking in fully replicating specific flow features near the tip of the blade, the simplified method allows reconstructing the blade response to inlet distortion and capturing the main flow structures. The study thus highlights the suitability of the adopted approach to simulate the mutual interaction between the fan and the inlet flow and provides an efficient method for the optimization of short-intake designs.",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_短进气道_短舱气动设计与优化"
+      ],
+      "claim_ids": [
+        "claim_W4415966137_1"
+      ],
+      "discovery_reason": "via citing_seed, connections: 8",
+      "scores": {
+        "total": 6.85,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": {
+        "claims_summary": {
+          "claims": [
+            {
+              "statement": "体激波模型能够准确再现短进气道与风扇之间的流场耦合，尽管无法完全复制叶尖附近特定流动特征，但能重构叶片对进气畸变的响应并捕捉主要流动结构。",
+              "method": "采用贝叶斯求解器进行多目标优化，并通过体激波模型模拟风扇，使用全环滑动网格进行非定常验证",
+              "evidence_type": "numerical",
+              "geometry": "短进气道（short aero-intake）与跨音速风扇",
+              "condition": "巡航和起飞工况，高攻角（high angle of attack）",
+              "outcome": "Pareto前沿揭示了高攻角与高速性能之间的冲突，简化方法适用于模拟风扇与进气道相互作用，为短进气道设计提供高效优化方法",
+              "limitation": "体激波模型无法完全复制叶尖附近的特定流动特征"
+            }
+          ],
+          "relevance_to_question": 10,
+          "novelty": "incremental",
+          "question_affinity": [
+            "1"
+          ]
+        },
+        "relevance_to_question": 10,
+        "novelty": "incremental",
+        "analyzed_at": "2026-05-18T11:49:13.175995+00:00"
+      }
+    },
+    {
+      "id": "W4407136132",
+      "doi": "10.1063/5.0254496",
+      "title": "Response and stall mechanism for axial compressor under rotating inlet distortion",
+      "year": 2025,
+      "abstract": "For multi-shaft aero-engines, the downstream compressor inlet will be exposed to rotating inlet distortion once rotating stall occurs in the upstream fan or low-pressure compressor. In this paper, an experimental study is carried out on six axial compressors under rotating inlet distortion, aiming to clarify the effects of rotating inlet distortion and reveal the stall mechanism. The result under rotating inlet distortion shows that the rotational speed of distortion strongly affects the stability of the compressor. Within a certain band of distortion speeds, i.e., in the dangerous distortion speed band, the stability margin of the compressor decreases extremely severely. Comparing the results from the six compressors, it is discovered that the left boundary of the dangerous distortion speed bond coincides with the propagation speed of rotating stall, whereas the right boundary is associated with the distortion angle. When introduced rotating inlet distortion, flow separation is prone to occur in the high-load region, which consequently induces stall disturbance. The reason for the varying stability margin with the distortion speed is that the distortion zone at different speeds affects the spatiotemporal evolution of the stall disturbance. Within the dangerous distortion speed bond, the intensified effect of the distortion zone accelerates the evolution of stall disturbance into rotating stall. At the end of this paper, a model is proposed to explain the impact of distortion speed and distortion angle on compressor stall.",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_压气机失速起始与稳定性"
+      ],
+      "claim_ids": [
+        "claim_W4407136132_1",
+        "claim_W4407136132_2",
+        "claim_W4407136132_3",
+        "claim_W4407136132_4"
+      ],
+      "discovery_reason": "via citing_seed, connections: 3",
+      "scores": {
+        "total": 6.85,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": {
+        "claims_summary": {
+          "claims": [
+            {
+              "statement": "旋转进气畸变中，畸变转速强烈影响压气机稳定性，存在危险畸变转速带，其左边界与旋转失速传播速度一致，右边界与畸变角相关。",
+              "method": "实验研究",
+              "evidence_type": "experiment",
+              "geometry": "轴流压气机",
+              "condition": "旋转进气畸变",
+              "outcome": "在危险畸变转速带内，压气机稳定裕度急剧下降。",
+              "limitation": "未明确声明"
+            },
+            {
+              "statement": "旋转进气畸变引入后，高负荷区域易发生流动分离，从而诱发失速扰动。",
+              "method": "实验研究",
+              "evidence_type": "experiment",
+              "geometry": "轴流压气机",
+              "condition": "旋转进气畸变",
+              "outcome": "高负荷区流动分离导致失速扰动产生。",
+              "limitation": "未明确声明"
+            },
+            {
+              "statement": "危险畸变转速带内，畸变区对失速扰动的加剧作用加速了失速扰动发展为旋转失速。",
+              "method": "实验研究",
+              "evidence_type": "experiment",
+              "geometry": "轴流压气机",
+              "condition": "旋转进气畸变",
+              "outcome": "畸变区加速失速扰动演变为旋转失速。",
+              "limitation": "未明确声明"
+            },
+            {
+              "statement": "提出模型解释畸变转速和畸变角对压气机失速的影响。",
+              "method": "实验与建模",
+              "evidence_type": "experiment",
+              "geometry": "轴流压气机",
+              "condition": "旋转进气畸变",
+              "outcome": "模型可以解释畸变转速和角度对失速的影响。",
+              "limitation": "未明确声明"
+            }
+          ],
+          "relevance_to_question": 8,
+          "novelty": "incremental",
+          "question_affinity": [
+            "stall inception",
+            "stability"
+          ]
+        },
+        "relevance_to_question": 8,
+        "novelty": "incremental",
+        "analyzed_at": "2026-05-18T11:49:18.522215+00:00"
+      }
+    },
+    {
+      "id": "W7123402458",
+      "doi": "10.1016/j.ast.2026.111706",
+      "title": "Unstable flow mechanisms guiding early warning in axial compressors: A mechanism-feature-model framework for enhanced robustness",
+      "year": 2026,
+      "abstract": "",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_压气机失速起始与稳定性"
+      ],
+      "claim_ids": [],
+      "discovery_reason": "via citing_seed, connections: 4",
+      "scores": {
+        "total": 6.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": null
+    },
+    {
+      "id": "W7129672929",
+      "doi": "10.3390/aerospace13020191",
+      "title": "Research Overview on Spike Stall Inception and Slotted Casing Treatment in Aeroengine Compressors",
+      "year": 2026,
+      "abstract": "Rotating stall and surge are complex, unsteady flow instability phenomena in aeroengine compressors that pose serious threats to the safety and reliability of both the compressor and the engine as a whole. As aeroengine performance continues to improve, the average stage total pressure ratio and stage loading have steadily increased, presenting significant challenges in designing compressors with sufficient stall margins. In this study, we review key advances in the understanding of axial compressor instability, organizing prior research into three representative historical periods. This chronological framework aims to clarify evolving theoretical insights into the relationship between flow instability and tip-region flow dynamics in modern axial compressors. We then summarize the development of casing treatments, including their discovery, major configurations, and applicability across different compressor types. Subsequently, we systematically examine research on slot-type casing treatments, covering early-stage performance investigations, structural optimization based on experimental and numerical methods, and the underlying mechanisms responsible for stability enhancement. Finally, we offer recommendations and outline future research directions to guide further advancements in this field.",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_压气机失速起始与稳定性"
+      ],
+      "claim_ids": [
+        "claim_W7129672929_1",
+        "claim_W7129672929_2",
+        "claim_W7129672929_3"
+      ],
+      "discovery_reason": "via citing_seed, connections: 2",
+      "scores": {
+        "total": 6.0,
+        "components": {
+          "keyword_overlap": 3,
+          "topic_match": 0,
+          "seed_connections": 2.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": {
+        "claims_summary": {
+          "claims": [
+            {
+              "statement": "旋转失速和喘振是航空发动机压气机中复杂的不稳定流动现象，严重威胁压气机和发动机的安全与可靠性",
+              "method": "文献综述",
+              "evidence_type": "review",
+              "geometry": "轴流压气机",
+              "condition": "多种工况",
+              "outcome": "确认了失速和喘振的危害性",
+              "limitation": "未明确声明"
+            },
+            {
+              "statement": "现代轴流压气机失速起始与叶尖区域流动动力学密切相关，理论认识随时间演变",
+              "method": "文献综述",
+              "evidence_type": "review",
+              "geometry": "轴流压气机",
+              "condition": "多种工况",
+              "outcome": "建立了失速起始与叶尖流动动力学的关系框架",
+              "limitation": "未明确声明"
+            },
+            {
+              "statement": "槽式机匣处理能够增强压气机稳定性，其机理已被广泛研究",
+              "method": "文献综述",
+              "evidence_type": "review",
+              "geometry": "槽式机匣处理的轴流压气机",
+              "condition": "多种工况",
+              "outcome": "总结了槽式机匣处理的稳定性增强机制",
+              "limitation": "未明确声明"
+            }
+          ],
+          "relevance_to_question": 10,
+          "novelty": "review",
+          "question_affinity": [
+            "1"
+          ]
+        },
+        "relevance_to_question": 10,
+        "novelty": "review",
+        "analyzed_at": "2026-05-18T11:49:24.508154+00:00"
+      }
+    },
+    {
+      "id": "W4414200806",
+      "doi": "10.1115/1.4069799",
+      "title": "Localized Disturbance Evolution Under Circumferential Distortion: A Perspective on the Critical Angle",
+      "year": 2025,
+      "abstract": "Abstract This article aims to explain the formation mechanism and variation patterns of critical distortion angles through disturbance evolution on a low-speed fan. Based on time-domain analysis and wavelet transform, the pattern of the circumferential pre-stall disturbance evolution is revealed. An identical irreversible zone is observed by first-order spatial modal analysis within one revolution prior to stall, regardless of distortion angles. The foam metal casing treatment (FMCT) is used to generate modal and spike stall precursors separately in the same fan by adjusting the axial location. It is found that the critical distortion angle exists with “spike” but vanishes with “modal.” Averaged wavelet spectra of pre-stall disturbance under different distortions prove that disturbance evolution rates depend on local loading, not distortion area. At last, a simple qualitative model on the critical distortion angle is proposed, establishing a direct correlation between the development of short length-scale disturbance and stability limits.",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_压气机失速起始与稳定性"
+      ],
+      "claim_ids": [
+        "claim_W4414200806_1",
+        "claim_W4414200806_2",
+        "claim_W4414200806_3",
+        "claim_W4414200806_4"
+      ],
+      "discovery_reason": "via citing_seed, connections: 7",
+      "scores": {
+        "total": 5.85,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": {
+        "claims_summary": {
+          "claims": [
+            {
+              "statement": "临界失速畸变角仅存在于尖峰型失速前兆中，而在模态型失速前兆中不存在。",
+              "method": "通过泡沫金属机匣处理（FMCT）在同一风扇中分别产生模态和尖峰失速前兆，并改变轴向位置来调节畸变角。",
+              "evidence_type": "experiment",
+              "geometry": "低转速风扇，带有周向畸变",
+              "condition": "不同畸变角度下的失速前兆类型（模态或尖峰）",
+              "outcome": "发现临界畸变角在尖峰失速前兆中存在，在模态失速前兆中消失。",
+              "limitation": "模型是定性的，未进行定量验证。"
+            },
+            {
+              "statement": "失速前扰动的演化速率取决于当地负载，而不是畸变区的面积。",
+              "method": "使用不同畸变角度下的平均小波谱分析预失速扰动。",
+              "evidence_type": "experiment",
+              "geometry": "低转速风扇，带有周向畸变",
+              "condition": "不同畸变角度的预失速阶段",
+              "outcome": "证明了扰动演化速率与当地负载相关，与畸变区面积无关。",
+              "limitation": "未声明"
+            },
+            {
+              "statement": "通过一阶空间模态分析，在失速前一个转圈内观察到相同的不可逆区域，与畸变角度无关。",
+              "method": "时间域分析和一阶空间模态分析。",
+              "evidence_type": "experiment",
+              "geometry": "低转速风扇，带有周向畸变",
+              "condition": "失速前一个转圈内",
+              "outcome": "发现了与畸变角度无关的不可逆区域。",
+              "limitation": "未声明"
+            },
+            {
+              "statement": "提出了一个关于临界畸变角的简单定性模型，建立短尺度扰动发展与稳定性极限之间的直接关联。",
+              "method": "基于实验观察和理论分析提出的定性模型。",
+              "evidence_type": "analytical",
+              "geometry": "低转速风扇，周向畸变",
+              "condition": "临界畸变角条件下",
+              "outcome": "模型直接关联了短尺度扰动发展（如尖峰）与稳定性极限。",
+              "limitation": "模型是定性的，需要进一步定量验证。"
+            }
+          ],
+          "relevance_to_question": 10,
+          "novelty": "novel",
+          "question_affinity": []
+        },
+        "relevance_to_question": 10,
+        "novelty": "novel",
+        "analyzed_at": "2026-05-18T11:49:19.461024+00:00"
+      }
+    },
+    {
+      "id": "W4416092657",
+      "doi": "10.12688/f1000research.170106.1",
+      "title": "Aerodynamic Performance Enhancement of Crm Nacelle Under Transonic Flow: A Comprehensive Cfd-based Optimization Approach",
+      "year": 2025,
+      "abstract": "<ns3:p> Background The CRM nacelle is a benchmark model for both CFD validation and shock dominated flow interaction analysis in propulsion airframe configurations. However, accurate prediction of drag and lift remains challenging due to complex flow interaction near the nacelle surface. Methods This research investigates the aerodynamic performance of a CRM nacelle using the ANSYS 2023 Fluent tool with different numerical techniques like the grid independence test, different turbulence models, and different Mach number variations. Results At Mach 0.85, the nacelle with a fan and a 1.64 million grid size produced a C <ns3:sub>d</ns3:sub> of 0.00245 with a 1.24% error. Similarly, out of six different models, the K-epsilon model produced the least validation error of 1.24%. Mach number variation from 0.8 to 1.3 Mach number shown a maximum C <ns3:sub>d</ns3:sub> at 0.95 Mach followed by a decrement at 1.2 Mach. In the aerodynamic optimization, a core cone was added to the nacelle and further simulated at 0.82 Mach. Spalart-Allmara model with a 2.55 million grid size produced a C <ns3:sub>l</ns3:sub> value of 0.01098 with an 8.54% validation error. The cone angles were varied from 15.7° by ±0.5° steps. Conclusions The optimized nacelle at a 13.7°cone angle showed an improved C <ns3:sub>l</ns3:sub> of 0.011035 compared to the baseline model. The novelty of this research lies in testing the CRM nacelle under transonic flow conditions from 0.8 to 1.3 Mach and optimizing the nacelle aerodynamic performance using different numerical techniques. This research paper further helps the researchers in nacelle aerodynamics by optimizing the nacelle geometry for aerodynamic lift enhancement. </ns3:p>",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_短进气道_短舱气动设计与优化"
+      ],
+      "claim_ids": [
+        "claim_W4416092657_1",
+        "claim_W4416092657_2"
+      ],
+      "discovery_reason": "via citing_seed, connections: 8",
+      "scores": {
+        "total": 6.85,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": {
+        "claims_summary": {
+          "claims": [
+            {
+              "statement": "在Mach 0.85时，使用k-epsilon湍流模型和1.64百万网格的CRM短舱模型，阻力系数Cd为0.00245，验证误差为1.24%。",
+              "method": "网格独立性测试、不同湍流模型对比、马赫数变化分析",
+              "evidence_type": "numerical",
+              "geometry": "CRM短舱带风扇",
+              "condition": "马赫数0.85，使用ANSYS Fluent k-epsilon模型，网格量1.64百万",
+              "outcome": "Cd=0.00245，误差1.24%",
+              "limitation": "未明确声明"
+            },
+            {
+              "statement": "优化后的CRM短舱在添加核心锥体且锥角为13.7°时，在Mach 0.82下升力系数Cl提升至0.011035，优于基线模型。",
+              "method": "几何优化（添加核心锥体并改变锥角），数值模拟",
+              "evidence_type": "numerical",
+              "geometry": "CRM短舱带核心锥体",
+              "condition": "马赫数0.82，Spalart-Allmaras湍流模型，网格量2.55百万",
+              "outcome": "Cl=0.011035，验证误差8.54%",
+              "limitation": "未明确声明"
+            }
+          ],
+          "relevance_to_question": 9,
+          "novelty": "novel",
+          "question_affinity": [
+            "1"
+          ]
+        },
+        "relevance_to_question": 9,
+        "novelty": "novel",
+        "analyzed_at": "2026-05-18T12:00:41.351232+00:00"
+      }
+    },
+    {
+      "id": "W4408378222",
+      "doi": "10.2514/1.c038164",
+      "title": "Aerodynamics of High-Bypass-Ratio Aeroengine Nacelles: Numerical and Experimental Investigation",
+      "year": 2025,
+      "abstract": "This work presents a numerical and experimental investigation of the nacelle aerodynamics for high-bypass- ratio aeroengines. A conventional nacelle that is representative of a current standard, and a compact design that is envisaged for future aeroengines, were optimized with an existing computational method. Both nacelles were tested in a large-scale transonic wind tunnel. For the first time, the aerodynamic benefits of compact nacelles are demonstrated through an experimental test campaign. Measurements and computational fluid dynamics (CFD) simulations confirmed the drag reduction of compact configurations across a wide range of operating points with different flight Mach numbers, mass-flow capture ratios, and angles of attack. For midcruise conditions with a Mach number of 0.85, this was a drag reduction of 8.5% and 8.8% for the measurements and CFD, respectively. These benefits are similar to an isolated optimization, that is, not installed in the wind tunnel, which confirmed the capabilities of the method to identify the drag benefit of compact designs. Relative to the measurements, the main aerodynamic characteristics on the nacelles were captured by CFD in terms of isentropic Mach number distributions and shock location. This work provides a quantitative evaluation for the use of CFD within an industrial setting for nacelle design and analysis.",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_短进气道_短舱气动设计与优化"
+      ],
+      "claim_ids": [
+        "claim_W4408378222_1"
+      ],
+      "discovery_reason": "via citing_seed, connections: 3",
+      "scores": {
+        "total": 6.85,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": {
+        "claims_summary": {
+          "claims": [
+            {
+              "statement": "紧凑型短舱相比传统短舱在巡航马赫数0.85时减阻8.5%（实验）和8.8%（CFD）",
+              "method": "风洞实验和CFD模拟",
+              "evidence_type": "experiment",
+              "geometry": "高涵道比发动机短舱（传统和紧凑设计）",
+              "condition": "巡航条件，马赫数0.85，不同飞行马赫数、质量流捕获比和迎角",
+              "outcome": "紧凑短舱减阻8.5%（实验）和8.8%（CFD）",
+              "limitation": "未明确声明局限性"
+            }
+          ],
+          "relevance_to_question": 10,
+          "novelty": "novel",
+          "question_affinity": [
+            "Q1",
+            "Q2"
+          ]
+        },
+        "relevance_to_question": 10,
+        "novelty": "novel",
+        "analyzed_at": "2026-05-18T12:00:42.775908+00:00"
+      }
+    },
+    {
+      "id": "W4409867386",
+      "doi": "10.1080/19942060.2025.2493071",
+      "title": "Sensitivity analysis and multi-objective robust design optimization of compact aero-engine nacelles",
+      "year": 2025,
+      "abstract": "Future civil aero-engines are expected to feature larger bypass ratios and fan diameters to reduce specific thrust and improve propulsive efficiency, thereby lowering specific fuel consumption. These new configurations introduce design challenges, as the traditional scaling will result in the increase of nacelle drag, weight and the integration effects of aircraft. For this reason, compact nacelles are preferred for integration with next-generation civil turbofan engines. Moreover, designing and optimizing compact aero-engine nacelles is particularly challenging due to the non-linear nature of transonic aerodynamics and the diverse operating conditions experienced across the flight envelope. This work first establishes a mapping relationship between geometric parameters and the nacelle drag coefficient through surrogate models across various operating conditions. Then, sensitivity analyses are performed by applying the Sobol sequence sampling method and variance-based sensitivity analysis within the design bounds. To investigate the impact of compactness on the uncertainty of the drag coefficient, compact nacelles with various length-to-highlight radius ratios are examined. The Sobol-based sensitivity analysis reveals that the ratio [Formula: see text] dominates the first-order effects, with its total-effect Sobol index remaining above 85% across all configurations. The optimized design shows significantly smaller absolute changes compared to the baseline, particularly in the nacelle cruise drag coefficient [Formula: see text] at mid-cruise condition, with the variation reduced from 0.0017 to 0.0004, indicating that the optimized nacelle design is more geometric robust and less sensitive to parameter variations. The novelty of this work lies in applying Sobol-based sensitivity analysis to quantify geometric parameter impacts on nacelle drag under uncertainty during cruise conditions. The qualitative and quantitative analysis results will provide valuable insights for determining the design space in the early stages of the design process and developing a robust design optimization framework for three-dimensional compact nacelles.",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_短进气道_短舱气动设计与优化"
+      ],
+      "claim_ids": [
+        "claim_W4409867386_1",
+        "claim_W4409867386_2"
+      ],
+      "discovery_reason": "via citing_seed, connections: 3",
+      "scores": {
+        "total": 6.85,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": {
+        "claims_summary": {
+          "claims": [
+            {
+              "statement": "在紧凑型短舱设计中，几何参数与阻力系数的映射关系通过代理模型建立，其中比值L/R_h（长度与最大半径之比）对阻力的Sobol一阶和总效应指数均超过85%，是主导参数",
+              "method": "Sobol序列采样与方差敏感性分析结合代理模型",
+              "evidence_type": "numerical",
+              "geometry": "紧凑型航空发动机短舱（nacelle）",
+              "condition": "巡航工况（mid-cruise等）",
+              "outcome": "比值L/R_h是影响阻力系数的最敏感几何参数，其总效应Sobol指数>85%",
+              "limitation": "未明确说明，但可能受限于代理模型精度和特定设计空间"
+            },
+            {
+              "statement": "经过多目标鲁棒优化后的紧凑型短舱设计，在巡航阻力系数上的绝对变化从0.0017降至0.0004，表明优化设计对几何参数变化更不敏感，具有更强的鲁棒性",
+              "method": "多目标鲁棒设计优化结合敏感性分析",
+              "evidence_type": "numerical",
+              "geometry": "紧凑型航空发动机短舱",
+              "condition": "巡航工况",
+              "outcome": "优化后阻力系数变化范围显著减小，鲁棒性提升",
+              "limitation": "优化结果可能依赖于确定的工况范围"
+            }
+          ],
+          "relevance_to_question": 9,
+          "novelty": "novel",
+          "question_affinity": [
+            "几何参数敏感性分析",
+            "短舱鲁棒优化"
+          ]
+        },
+        "relevance_to_question": 9,
+        "novelty": "novel",
+        "analyzed_at": "2026-05-18T12:00:38.834609+00:00"
+      }
+    },
+    {
+      "id": "W7127448055",
+      "doi": "10.2514/6.2026-2569",
+      "title": "Unsteady Swirl Distortion Characterization in a Coupled Fan-Intake System in Crosswind Conditions Using Stereoscopic Particle Image Velocimetry",
+      "year": 2026,
+      "abstract": "Swirl distortion is one of the key factors influencing the aerodynamic performance of coupled intake–fan systems. This study presents a detailed analysis of Stereoscopic Particle Image Velocimetry (S-PIV) data acquired on a circular plane within an aero-engine intake operating under crosswind conditions, including a ground plane and a co-rotating ground vortex ingested ahead of a rotating fan. Two flow conditions were examined: one exhibiting diffusion-driven separation at low fan speed and Mass Flow Capture Ratio (MFCR), and another with attached flow at higher fan speed and MFCR, both at constant crosswind velocity. This work demonstrates the effective implementation of PIV measurement techniques to a coupled fan–intake system in an industrial setting, achieving unprecedented flow-field resolution and data fidelity. Swirl distortion descriptors obtained from experimental data are used to produce Extreme Value Theory (EVT)-based forecasts of peak swirl intensity, which is the novelty of the work. Key contribution includes the identification of notably different swirl distortion characteristics between attached and separated intake flow conditions. Fan-face swirl distortion was found to be significantly more severe in the separated case, with time-averaged and peak swirl intensities up to three and four times higher, respectively, than in the attached case. The analysis at a radial position near the fan tip showed that peak swirl distortion can differ substantially from global, area-averaged metrics. These high distortion levels, particularly near the fan tip, indicate a potentially significant reduction in rotor incidence angle and, consequently, a loss in fan performance. The impact of this work is the establishment of an experimental and analytical framework that advances the understanding and quantification of swirl distortion in coupled fan-intake systems, offering a basis for improved industry standards, shorter testing durations, and more accurate prediction of extreme distortion levels.",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_短进气道_短舱气动设计与优化"
+      ],
+      "claim_ids": [
+        "claim_W7127448055_1",
+        "claim_W7127448055_2",
+        "claim_W7127448055_3"
+      ],
+      "discovery_reason": "via citing_seed, connections: 5",
+      "scores": {
+        "total": 6.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": {
+        "claims_summary": {
+          "claims": [
+            {
+              "statement": "在分离流动条件下，风扇面旋流畸变程度远高于附着流动条件，时间平均强度高出3倍，峰值强度高出4倍",
+              "method": "立体粒子图像测速 (S-PIV)",
+              "evidence_type": "experiment",
+              "geometry": "航空发动机进气道-风扇耦合系统，包含地面和共旋地面涡",
+              "condition": "侧风条件下，低风扇转速和低质量流捕获比（分离流动），高风扇转速和高质量流捕获比（附着流动），侧风速度恒定",
+              "outcome": "分离情况平均旋流强度为附着情况的3倍，峰值强度为4倍",
+              "limitation": ""
+            },
+            {
+              "statement": "靠近叶尖径向位置的峰值旋流畸变与全局面积平均指标存在显著差异",
+              "method": "立体粒子图像测速 (S-PIV)",
+              "evidence_type": "experiment",
+              "geometry": "航空发动机进气道-风扇耦合系统，包含地面和共旋地面涡",
+              "condition": "侧风条件下，分析靠近叶尖位置",
+              "outcome": "靠近叶尖的峰值旋流畸变与全局面积平均指标差异大",
+              "limitation": ""
+            },
+            {
+              "statement": "极值理论可用于从实验数据中预测峰值旋流强度",
+              "method": "极值理论基于实验数据",
+              "evidence_type": "experiment",
+              "geometry": "航空发动机进气道-风扇耦合系统",
+              "condition": "使用实验数据建立模型",
+              "outcome": "实现了峰值旋流强度的预测",
+              "limitation": ""
+            }
+          ],
+          "relevance_to_question": 10,
+          "novelty": "novel",
+          "question_affinity": []
+        },
+        "relevance_to_question": 10,
+        "novelty": "novel",
+        "analyzed_at": "2026-05-18T12:00:48.573243+00:00"
+      }
+    },
+    {
+      "id": "W7128059717",
+      "doi": "10.1016/j.ast.2026.111857",
+      "title": "Aerodynamic optimization strategy and experimental study on short inlet in crosswind conditions using decoupled intuitive class shape transformation curves",
+      "year": 2026,
+      "abstract": "",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_短进气道_短舱气动设计与优化"
+      ],
+      "claim_ids": [],
+      "discovery_reason": "via citing_seed, connections: 5",
+      "scores": {
+        "total": 6.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": null
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "last_updated": "2026-05-18T12:01:28.100579+00:00",
+  "total_groups": 2,
+  "groups": [
+    {
+      "id": "group_beihang_1",
+      "name": "Beihang University – Sun",
+      "institution": "Beihang University",
+      "institution_query": "Beihang University",
+      "description": "自动发现：19 位作者，9 篇论文",
+      "author_ids": [
+        "A5101805400",
+        "A5077950741",
+        "A5037554168",
+        "A5104463716",
+        "A5033811206",
+        "A5100650104",
+        "A5100447306",
+        "A5100784962",
+        "A5101937684",
+        "A5031003755",
+        "A5002422557",
+        "A5100461334",
+        "A5053335658",
+        "A5053239639",
+        "A5002327121",
+        "A5063666695",
+        "A5070133630",
+        "A5046713307",
+        "A5063686427"
+      ],
+      "total_papers": 9,
+      "recent_papers": [
+        {
+          "id": "W4407393370",
+          "title": "Improved Generalized Eigenvalue Method for Compressor Stall Prediction",
+          "year": 2025,
+          "citations": 1,
+          "relevance_score": 0
+        },
+        {
+          "id": "W4416541463",
+          "title": "Modeling of Impedance Boundary-Controlled Casing Treatment on Compressor Flow Stability Enhancement",
+          "year": 2025,
+          "citations": 0,
+          "relevance_score": 0
+        },
+        {
+          "id": "W4391554800",
+          "title": "Effect of fore/aft-loaded rotor on compressor stability under inlet circumferential distortion",
+          "year": 2024,
+          "citations": 7,
+          "relevance_score": 6
+        },
+        {
+          "id": "W4378389771",
+          "title": "Rapid Prediction of Compressor Rotating Stall Inception Using Arnoldi Eigenvalue Algorithm",
+          "year": 2023,
+          "citations": 15,
+          "relevance_score": 7
+        },
+        {
+          "id": "W4390411043",
+          "title": "Stall Inception Prediction of Transonic Compressor with Wire Mesh Casing Treatment",
+          "year": 2023,
+          "citations": 10,
+          "relevance_score": 9
+        },
+        {
+          "id": "W4385486959",
+          "title": "Role of unsteady tip leakage flow in acoustic resonance inception of a multistage compressor",
+          "year": 2023,
+          "citations": 8,
+          "relevance_score": 9
+        },
+        {
+          "id": "W3113106358",
+          "title": "Stall inception prediction of axial compressors with radial inlet distortions",
+          "year": 2020,
+          "citations": 43,
+          "relevance_score": 0
+        },
+        {
+          "id": "W2790645712",
+          "title": "Aerodynamic Instabilities of Swept Airfoil Design in Transonic Axial-Flow Compressors",
+          "year": 2018,
+          "citations": 37,
+          "relevance_score": 0
+        },
+        {
+          "id": "W1972748372",
+          "title": "A General Theory of Flow-Instability Inception in Turbomachinery",
+          "year": 2013,
+          "citations": 65,
+          "relevance_score": 0
+        }
+      ],
+      "paper_ids": [
+        "W4407393370",
+        "W4416541463",
+        "W4391554800",
+        "W4378389771",
+        "W4390411043",
+        "W4385486959",
+        "W3113106358",
+        "W2790645712",
+        "W1972748372"
+      ],
+      "yearly_counts": {
+        "2013": 1,
+        "2018": 1,
+        "2020": 1,
+        "2023": 3,
+        "2024": 1,
+        "2025": 2
+      },
+      "top_keywords": [
+        "Turbomachinery Performance and Optimization",
+        "Heat Transfer Mechanisms",
+        "Combustion and flame dynamics",
+        "Fluid Dynamics and Turbulent Flows",
+        "Computational Fluid Dynamics and Aerodynamics",
+        "Refrigeration and Air Conditioning Technologies",
+        "rotating stall",
+        "Plasma and Flow Control in Aerodynamics",
+        "High-Temperature Coating Behaviors",
+        "axial compressor"
+      ],
+      "auto_discovered": true
+    },
+    {
+      "id": "group_liverpool_1",
+      "name": "University of Liverpool",
+      "institution": "University of Liverpool",
+      "institution_query": "University of Liverpool",
+      "description": "自动发现：2 位作者，2 篇论文",
+      "author_ids": [
+        "A5005580745",
+        "A5017008663"
+      ],
+      "total_papers": 2,
+      "recent_papers": [
+        {
+          "id": "W3199751226",
+          "title": "Triglobal infinite-wing shock-buffet study",
+          "year": 2021,
+          "citations": 25,
+          "relevance_score": 7
+        },
+        {
+          "id": "W2999584807",
+          "title": "Global instability of wing shock-buffet onset",
+          "year": 2020,
+          "citations": 85,
+          "relevance_score": 0
+        }
+      ],
+      "paper_ids": [
+        "W3199751226",
+        "W2999584807"
+      ],
+      "yearly_counts": {
+        "2020": 1,
+        "2021": 1
+      },
+      "top_keywords": [
+        "Fluid Dynamics and Turbulent Flows",
+        "Computational Fluid Dynamics and Aerodynamics",
+        "shock buffet",
+        "triglobal stability analysis",
+        "infinite wing",
+        "swept wing",
+        "flow instability",
+        "Fluid Dynamics and Vibration Analysis",
+        "Plasma and Flow Control in Aerodynamics"
+      ],
+      "auto_discovered": true
+    }
+  ]
+}
