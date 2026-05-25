@@ -526,7 +526,24 @@
       "contradicting_papers": [],
       "confidence": "moderate",
       "created_at": "2026-05-18"
+    },
+    {
+      "id": "claim_W7161760936_1",
+      "question_id": "q_风扇_压气机噪声产生与传播",
+      "statement": "提出的两步源-传播模拟方法结合混合网格策略在保持声学分辨率的同时显著降低了计算成本",
+      "method": "两步源-传播模拟方法，混合结构化-非结构化网格策略",
+      "evidence_type": "numerical",
+      "geometry": "短进气道 (L/D=0.35) 和常规进气道 (L/D=0.5)",
+      "condition": "稳态畸变",
+      "outcome": "与传统全耦合模拟相比，计算成本大幅降低",
+      "limitation": "未明确声明",
+      "supporting_papers": [
+        "W7161760936"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-05-25"
     }
   ],
-  "last_updated": "2026-05-18T12:21:44.209543+00:00"
+  "last_updated": "2026-05-25T06:27:51.825725+00:00"
 }

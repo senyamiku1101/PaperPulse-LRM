@@ -673,6 +673,92 @@
       "promoted": true
     },
     {
+      "id": "W7161760936",
+      "doi": "10.2514/6.2026-3519",
+      "title": "Impact of Steady Flow Distortion on Shock-Associated Tone Noise in Short and Conventional Aeroengine Intake Designs",
+      "abstract": "The transition toward ultra-high bypass ratio (UHBR) turbofan engines introduces compact intake designs with reduced length-to-diameter ratios. It is anticipated that the level of inflow distortion through the intake and observed at the fan will increase, impacting fan performance and noise. This study investigates the impact of steady inflow distortion on the generation and propagation of shock-associated tone noise in short and conventional aeroengine intake configurations. Two representative geometries (L/D = 0.35 and L/D = 0.5) are considered, applying a two-step source-propagation simulation methodology to reduce the computational cost of the simulations. A hybrid structured–unstructured meshing strategy is used in the intake domain to optimise acoustic resolution and computational demand. This framework achieves significant computational savings compared with conventional fully coupled simulations. The variation in distorted fields between intake configurations is considered and the impact on noise source generation and propagation mechanisms is investigated for each case. A permeable integral surface is used to radiate the acoustic field directly to the far-field, where the impact of steady distortion on far-field noise is highlighted for the current cases.",
+      "year": 2026,
+      "topics": [
+        "Aerodynamics and Acoustics in Jet Flows",
+        "Computational Fluid Dynamics and Aerodynamics",
+        "Plasma and Flow Control in Aerodynamics"
+      ],
+      "source": {
+        "name": "",
+        "id": "",
+        "type": "",
+        "issn": []
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.1016/j.jsv.2011.03.022",
+        "10.1016/j.jsv.2012.06.009",
+        "10.1115/1.4042163",
+        "10.2514/6.2006-2479",
+        "10.2514/6.2014-3113",
+        "10.2514/6.2016-2818",
+        "10.2514/6.2014-3102",
+        "10.2514/6.2016-2841",
+        "10.2514/6.2016-3028",
+        "10.2514/6.2019-2606",
+        "10.2514/6.2022-3100",
+        "10.2514/1.j058799"
+      ],
+      "scores": {
+        "total": 6.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_风扇_压气机噪声产生与传播",
+      "promoted": true
+    },
+    {
+      "id": "W7162200299",
+      "doi": "10.1016/j.ijheatfluidflow.2026.110476",
+      "title": "Unsteady flow interactions and ground plane proximity in a coupled compact intake-fan in crosswind",
+      "abstract": "",
+      "year": 2026,
+      "topics": [
+        "Aerodynamics and Fluid Dynamics Research",
+        "Turbomachinery Performance and Optimization",
+        "Computational Fluid Dynamics and Aerodynamics"
+      ],
+      "source": {
+        "name": "International Journal of Heat and Fluid Flow",
+        "id": "S40322869",
+        "type": "journal",
+        "issn": [
+          "0142-727X",
+          "1879-2278"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.1115/1.4028235",
+        "10.1115/1.4034701",
+        "10.1115/1.4044080"
+      ],
+      "scores": {
+        "total": 6.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_短进气道_短舱气动设计与优化",
+      "promoted": true
+    },
+    {
       "id": "W4411966333",
       "doi": "10.1016/j.csite.2025.106616",
       "title": "Cooling tests of the core compartment of a high bypass ratio turbofan engine for civil aircraft",
@@ -968,7 +1054,8 @@
           "negative_penalty": 0.0
         }
       },
-      "best_question": "q_短进气道_短舱气动设计与优化"
+      "best_question": "q_短进气道_短舱气动设计与优化",
+      "promoted": true
     },
     {
       "id": "W4417014480",
@@ -1011,7 +1098,44 @@
           "negative_penalty": 0.0
         }
       },
-      "best_question": "q_短进气道_短舱气动设计与优化"
+      "best_question": "q_短进气道_短舱气动设计与优化",
+      "promoted": true
+    },
+    {
+      "id": "W7161828752",
+      "doi": "10.2514/6.2026-3410",
+      "title": "The Azimuthal Mode Decomposition of the Fan Broadband Noise with a New Inverse Method",
+      "abstract": "",
+      "year": 2026,
+      "topics": [
+        "Aerodynamics and Acoustics in Jet Flows",
+        "Acoustic Wave Phenomena Research",
+        "Turbomachinery Performance and Optimization"
+      ],
+      "source": {
+        "name": "",
+        "id": "",
+        "type": "",
+        "issn": []
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.1016/j.jsv.2018.02.029",
+        "10.2514/6.2001-2181"
+      ],
+      "scores": {
+        "total": 5.0,
+        "components": {
+          "keyword_overlap": 2,
+          "topic_match": 0,
+          "seed_connections": 2.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_模态分析与声学测量方法",
+      "promoted": true
     },
     {
       "id": "W4408666686",
@@ -1894,6 +2018,114 @@
         }
       },
       "best_question": "q_短进气道_短舱气动设计与优化"
+    },
+    {
+      "id": "W7161798083",
+      "doi": "10.2514/6.2026-3214",
+      "title": "Acoustic Mode Identification in Cylindrical and Annular Ducts With Axial Temperature Gradients and Mean Flow",
+      "abstract": "Identification of azimuthal and radial modes in ducts with axial temperature gradients and mean flow is fundamental to addressing noise control and combustion stability challenges in gas turbine and aero-engine applications. The acoustic mode offers distinct advantages over conventional finite element methods by providing a standardized orthogonal basis for observation matrix construction. To enhance mode identification capabilities, an invertible orthogonal semi-analytical solution is derived for the three-dimensional frequency-domain acoustic wave equation incorporating both axial temperature gradients and mean flow. The potential turning point phenomena are predicted in the mode behavior resulting from temperature gradient effects. Cut-on frequencies are accurately computed for all mode orders in both annular and circular ducts with various temperature and frequency conditions. The semi-analytical solution's acoustic field representation is validated using finite element method benchmarks, while the precision of the mode identification methodology is investigated by comparative error analysis. Ultimately, the modified mode identification methodology is successfully implemented in combustion chamber experiments, demonstrating both its practical efficacy and potential for broader application in thermoacoustic systems.",
+      "year": 2026,
+      "topics": [
+        "Aerodynamics and Acoustics in Jet Flows",
+        "Acoustic Wave Phenomena Research",
+        "Advanced Thermodynamic Systems and Engines"
+      ],
+      "source": {
+        "name": "",
+        "id": "",
+        "type": "",
+        "issn": []
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.1016/j.jsv.2018.02.029",
+        "10.1016/j.paerosci.2021.100722",
+        "10.2514/6.2007-3439"
+      ],
+      "scores": {
+        "total": 4.0,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 2.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_模态分析与声学测量方法"
+    },
+    {
+      "id": "W7161838813",
+      "doi": "10.2514/6.2026-3394",
+      "title": "An Experimental Study on the Mode Structure of Broadband Noise in the Annular and Circular Ducts With a Fan Annular Cascade Test",
+      "abstract": "As a typical noise source of aeroengines, turbulent interference broadband noise has been widely studied and investigated. In this paper, based on the fan annular cascade rig (NPU-FAC), the duct acoustic mode structure of the turbulent broadband noise in annular and circular ducts were studied. The rotating rods was installed upstream of the annular cascade to simulate the rotor wake through the rotation of the rods. A new azimuthal mode decomposition method is introduced to decompose the acoustic modes in annular and circular ducts, this method substantially enhancing the dynamic range. The research shows that due to the difference in the cut-off modes of the annular and circular ducts, at low frequencies, the noise level of the circular duct is lower than that of the annular duct. Moreover, significant “hump” noise is generated by the rotation rods, and within the “hump” frequency range, the mode differences between the annular and circular ducts are predominantly observed in the low-order modes. Specifically, at low frequencies within the “hump” frequency range, compared to annular duct, the amplitude of low order azimuthal modes in circular duct is significantly reduced. At higher frequencies within the “hump” frequency range, the distribution characteristics of azimuthal modes in circular duct are basically consistent with those in annular duct.",
+      "year": 2026,
+      "topics": [
+        "Aerodynamics and Acoustics in Jet Flows",
+        "Acoustic Wave Phenomena Research",
+        "Vehicle Noise and Vibration Control"
+      ],
+      "source": {
+        "name": "",
+        "id": "",
+        "type": "",
+        "issn": []
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.1016/j.jsv.2018.02.029"
+      ],
+      "scores": {
+        "total": 4.0,
+        "components": {
+          "keyword_overlap": 2,
+          "topic_match": 0,
+          "seed_connections": 1.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_模态分析与声学测量方法"
+    },
+    {
+      "id": "W7161760394",
+      "doi": "10.2514/6.2026-3350",
+      "title": "Parametric Study of Shock-Generated Noise From an Academic Open Fan Configuration",
+      "abstract": "The tonal noise emitted from the rotor of an academic open fan configuration at cruise conditions is investigated in this paper. Thickness noise, steady loading noise and shock noise are considered through steady Reynolds-Averaged Navier-Stokes simulations of the isolated rotor. The acoustic results obtained by a solid and a permeable Ffowcs Williams and Hawkings approach and by a direct analysis of the near-field are analyzed and show the predominance of shock noise in the studied configuration. Shocks indeed develop over the blade suction side all along the span, and generate waves that radiate efficiently within an angular sector around the rotor plane. In order to better characterize this source, a parametric study is conducted via the establishment of a surrogate model considering variations of flight conditions, operating conditions and blade geometry parameters. The results show that, when varied individually, blade span and blade dihedral angle are the parameters with the strongest influence on noise. When thrust is maintained via blade pitch angle or engine rotation speed control, the results vary and the predominant parameters become the flight Mach number and the blade dihedral angle.",
+      "year": 2026,
+      "topics": [
+        "Aerodynamics and Acoustics in Jet Flows",
+        "Combustion and flame dynamics",
+        "Computational Fluid Dynamics and Aerodynamics"
+      ],
+      "source": {
+        "name": "",
+        "id": "",
+        "type": "",
+        "issn": []
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.2514/6.2014-3102",
+        "10.2514/6.2016-2841",
+        "10.2514/6.2016-2879",
+        "10.2514/6.2024-3426",
+        "10.2514/1.j058799"
+      ],
+      "scores": {
+        "total": 4.0,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 2.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_风扇_压气机噪声产生与传播"
     },
     {
       "id": "W2163256215",
@@ -3792,6 +4024,233 @@
         }
       },
       "best_question": "q_边界层吸入风扇气动与声学"
+    },
+    {
+      "id": "W7162027070",
+      "doi": "10.1016/j.cja.2026.104261",
+      "title": "Impacts of blade loading on axial compressor flow instability and desensitization to tip clearance",
+      "abstract": "",
+      "year": 2026,
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Bladed Disk Vibration Dynamics",
+        "Cavitation Phenomena in Pumps"
+      ],
+      "source": {
+        "name": "Chinese Journal of Aeronautics",
+        "id": "S42274841",
+        "type": "journal",
+        "issn": [
+          "1000-9361",
+          "2588-9230"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.1016/j.ast.2022.107729",
+        "10.1016/j.ast.2022.108070",
+        "10.1016/j.cja.2018.11.005",
+        "10.1016/j.cja.2024.09.028",
+        "10.1115/1.4051782",
+        "10.1115/1.4069799",
+        "10.2514/1.J052186",
+        "10.2514/1.J062482"
+      ],
+      "scores": {
+        "total": 3.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 2.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_压气机失速起始与稳定性"
+    },
+    {
+      "id": "W7161593150",
+      "doi": "10.1016/j.ast.2026.112627",
+      "title": "Feedback-Driven Nonlinear Amplification of Leading-Edge Spillage and Its Role in Stall Triggering in a Low-Speed Compressor",
+      "abstract": "",
+      "year": 2026,
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Plasma and Flow Control in Aerodynamics",
+        "Bladed Disk Vibration Dynamics"
+      ],
+      "source": {
+        "name": "Aerospace Science and Technology",
+        "id": "S61564791",
+        "type": "journal",
+        "issn": [
+          "1270-9638",
+          "1626-3219"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.1016/j.ast.2022.108070",
+        "10.1115/1.2927406",
+        "10.1115/1.4051782"
+      ],
+      "scores": {
+        "total": 3.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 1,
+          "seed_connections": 1.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_机匣处理与流动控制"
+    },
+    {
+      "id": "W7161827916",
+      "doi": "10.1515/tjj-2025-0035",
+      "title": "Experimental study on flow field measurements inside the tip clearance of an axial compressor using PIV",
+      "abstract": "Abstract Flow field visualization within the clearance is crucial for understanding the tip leakage flow characteristics. This study introduces an optical window with a distortion-elimination surface and an anti-contamination periscopic laser probe, enabling PIV measurements in a single-stage axial compressor. Results reveal that radial inflow near the blade pressure side drives tip leakage formation, generating a low-speed pressure-side region and a high-speed leakage zone within the gap. As rotational speed increases, the leakage flow exhibits greater deviation, maintaining a velocity ratio of ∼0.3 relative to the tip speed, while the high-speed leakage region expands upstream. Vortex structures formed by the mixing of tip leakage with the main flow, and regions of high-vorticity are observed upstream of the rotor. A high-vorticity region exists at the vortex center, where velocity instability is strong, and the vorticity value increases further along with the increase of the speed, exacerbating flow instability. The leakage vortex is identified as the primary factor contributing to flow instability in the tip clearance region. This measurement approach, along with the visualization results of the internal local flow field within the blade tip clearance, is expected to provide valuable insights into the mechanisms of leakage formation and development.",
+      "year": 2026,
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Bladed Disk Vibration Dynamics",
+        "Cavitation Phenomena in Pumps"
+      ],
+      "source": {
+        "name": "International Journal of Turbo and Jet Engines",
+        "id": "S4210194273",
+        "type": "journal",
+        "issn": [
+          "0334-0082",
+          "2191-0332"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.1016/j.ast.2022.108070"
+      ],
+      "scores": {
+        "total": 3.0,
+        "components": {
+          "keyword_overlap": 2,
+          "topic_match": 0,
+          "seed_connections": 0.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_边界层吸入风扇气动与声学"
+    },
+    {
+      "id": "W7161792043",
+      "doi": "10.2514/6.2026-3455",
+      "title": "Acoustic Performances of a Heterogeneous OGV Design Merged With Bifurcations",
+      "abstract": "This paper deals with numerical aeroacoustics relative to an industrial test bench of a 1:4 scaled UHBR engine with representative fan/OGV stage and nacelle including bifurcations. A design of a heterogeneous OGV obtained from a suitable merging of the stator vanes with the pylons is investigated, in terms of aerodynamic and acoustic performances, by comparison to the initial rig geometry. The prediction methodology relies on URANS coupled with FWH analogy and CAA. Computations are performed at cutback condition with no incidence (inflow distortion effects on reference case are discussed in a complementary paper). This low-noise redesigned engine is shown to ensure almost no penalties on pressure ratio and isentropic efficiency, and promising in-duct sound power reduction with a significant level attenuation of the dominant tones radiated from the intake are expected from these first predictions.",
+      "year": 2026,
+      "topics": [
+        "Aerodynamics and Acoustics in Jet Flows",
+        "Acoustic Wave Phenomena Research",
+        "Vehicle Noise and Vibration Control"
+      ],
+      "source": {
+        "name": "",
+        "id": "",
+        "type": "",
+        "issn": []
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.1115/1.4042163"
+      ],
+      "scores": {
+        "total": 3.0,
+        "components": {
+          "keyword_overlap": 2,
+          "topic_match": 0,
+          "seed_connections": 0.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_边界层吸入风扇气动与声学"
+    },
+    {
+      "id": "W7161757893",
+      "doi": "10.2514/6.2026-3400",
+      "title": "Hybrid Methodologies for the Tone Noise Prediction of a UHBR Turbofan Model With Incidence Effects",
+      "abstract": "Modern UHBR (Ultra High Bypass Ratio) aeroengines are characterized by reduced fan speeds, heterogeneous OGVs, downstream bifurcations (usually two arms located at 6 and 12 o'clock) and very short asymmetric intakes, so that the mean flow entering into the nacelle is no more uniform along the azimuthal direction (particularly at operating conditions with non-zero angle of attack). Such short inlets and inflow distortions can highly modify the dominant tone noise contributions known from conventional turbofans. This paper presents aeroacoustic investigations applied to a scale model UHBR engine in the framework of the French national project DISPRO. Three hybrid numerical strategies are considered in the present study: source generation is always based on 360° (U)RANS calculations and are then either coupled to a Goldstein formulation derived from the Ffowcs-Williams and Hawkings analogy or to a semi-numerical multimodal method or to CAA (Computational AeroAcoustics) based on non-linear disturbance Euler equations, in order to assess the sound propagation/radiation from the full engine stage, with and without incidence. Simulations are performed at cutback operating condition and are focused on the intake region and forward radiation. The relevance of these hybrid methodologies is discussed with respect to their respective capability.",
+      "year": 2026,
+      "topics": [
+        "Aerodynamics and Acoustics in Jet Flows",
+        "Model Reduction and Neural Networks",
+        "Computational Fluid Dynamics and Aerodynamics"
+      ],
+      "source": {
+        "name": "",
+        "id": "",
+        "type": "",
+        "issn": []
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.1177/1475472X18789001",
+        "10.2514/6.2014-3102",
+        "10.2514/6.2019-2606",
+        "10.1177/1475472x18789001"
+      ],
+      "scores": {
+        "total": 3.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 2.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_风扇_压气机噪声产生与传播"
+    },
+    {
+      "id": "W7161798142",
+      "doi": "10.2514/6.2026-3397",
+      "title": "Numerical Investigation of Generation and Propagation Effects of Axisymmetric Rotor-Stator Interaction Modes",
+      "abstract": "The experimental determination of mode sound power emitted by turbomachinery components within rig environments is essential in the acoustic design process of aero engines. However, due to the axial spacing required for conventional acoustic instrumentation concepts like Radial Mode Analysis, an application in the axial rotor-stator gaps of modern aero engine components is not possible. Part of an ongoing collaborative effort of DLR and MTU Aero Engines is to investigate experimentally and numerically the applicability and possible limitations of estimating excited acoustic modes based on unsteady vane surface pressure, to allow for experimental instrumentation concepts in close proximity to the stages’ acoustic sources. An experimental study was performed on DLR's fan test rig CRAFT supported by numerical simulations of the experimental setup, which are validated using data measured on the vane surface as well as in the inlet and outlet. The axisymmetric rotor-stator interaction (RSI) modes at 2BPF is of particular interest, because the measured mode sound powers in the inlet show significant scattering into higher radial mode orders depending on the operating conditions. The mode scattering can occur at the fan or at points of cut-off-/cut-on-transition along the spinner. The analysis of the numerical results addresses the mode generation close to the acoustic sources on the stator vanes and propagation effects at the spinner.",
+      "year": 2026,
+      "topics": [
+        "Magnetic Bearings and Levitation Dynamics",
+        "Aeroelasticity and Vibration Control",
+        "Wind Energy Research and Development"
+      ],
+      "source": {
+        "name": "",
+        "id": "",
+        "type": "",
+        "issn": []
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.2514/1.J062659",
+        "10.2514/6.2005-2833",
+        "10.2514/6.2021-2314"
+      ],
+      "scores": {
+        "total": 3.0,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 1.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_模态分析与声学测量方法"
     },
     {
       "id": "W2970758468",
@@ -5731,6 +6190,44 @@
         }
       },
       "best_question": "q_边界层吸入风扇气动与声学"
+    },
+    {
+      "id": "W4412980140",
+      "doi": "10.1016/j.jsv.2025.119356",
+      "title": "Microphone array design for the modal analysis of in-duct broadband noise",
+      "abstract": "International audience",
+      "year": 2025,
+      "topics": [
+        "Speech and Audio Processing",
+        "Structural Health Monitoring Techniques",
+        "Aerodynamics and Acoustics in Jet Flows"
+      ],
+      "source": {
+        "name": "Journal of Sound and Vibration",
+        "id": "S99182027",
+        "type": "journal",
+        "issn": [
+          "0022-460X",
+          "1095-8568"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.1016/j.jsv.2018.02.029",
+        "10.4271/620532"
+      ],
+      "scores": {
+        "total": 2.85,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 1.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_风扇_压气机噪声产生与传播"
     },
     {
       "id": "W4400110395",
@@ -8073,6 +8570,330 @@
         }
       },
       "best_question": "q_短进气道_短舱气动设计与优化"
+    },
+    {
+      "id": "W7140600171",
+      "doi": "10.3390/aerospace13040312",
+      "title": "Conceptual Design of Electrically Powered Urban Air Mobility Vehicles for Psychoacoustic Studies",
+      "abstract": "In order to provide an innovative form of urban air mobility, a new and versatile generation of small, highly automated aircraft is currently being developed. This is made feasible by the development of new technologies such as electrified powertrains, Vertical Take-Off and Landing capabilities and distributed propulsion systems. The operation of these novel aircraft types will generate a new source of air traffic noise. In particular, the perception of noise and the annoyance caused by these aircraft and their distributed propulsion systems are likely to deviate from those of conventional aircraft and will also depend on psychoacoustic effects. Thus, the noise emission and its subjective perception will be key factors for the success of urban air mobility vehicles and their acceptance by society. In order to investigate acoustic effects that enable low-noise aircraft design, a multidisciplinary approach is applied to develop new aircraft concepts for urban air mobility. This approach includes the conceptual design of two vehicles, one vehicle with tilt-rotors and one with tiltable, ducted fans; the sizing of an electric powertrain; the design and manufacturing of a wingtip rotor; and the design and manufacturing of the low-speed ducted fans. This paper presents the design of the two vehicle architectures, including their electric powertrain, as well as the aerodynamic and acoustic performance of the rotor and fan.",
+      "year": 2026,
+      "topics": [
+        "Aerodynamics and Acoustics in Jet Flows",
+        "Advanced Aircraft Design and Technologies",
+        "Vehicle Noise and Vibration Control"
+      ],
+      "source": {
+        "name": "Aerospace",
+        "id": "S4210169245",
+        "type": "journal",
+        "issn": [
+          "2226-4310"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.2514/6.2021-2314",
+        "10.4271/620532"
+      ],
+      "scores": {
+        "total": 2.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 1.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_风扇_压气机噪声产生与传播"
+    },
+    {
+      "id": "W7161837020",
+      "doi": "10.2514/6.2026-3558",
+      "title": "Cross-Comparison of Engine Noise Directivity Estimates With AFINDS, CLEAN-SC and COP",
+      "abstract": "CLEAN-SC and Orthogonal COP are new approaches for separating turbofan engine noise, i.e., retrieving radiation patterns of separate noise sources from measured far-field data. CLEAN-SC applies to remote microphone arrays only, while Orthogonal COP examines the coherence between far-field microphones and reference sensors close to a noise source of interest. This paper considers the application of both methods to measurements on NASA’s DART turbofan engine in an anechoic environment with remote microphone arrays. Reference sensors, used within Orthogonal COP, were mounted in the core exhaust. CLEAN-SC directivity decompositions were compared with results of AFINDS, which is a state-of-the-art method for this purpose. AFINDS starts from parameterized directivity models, while CLEAN-SC only uses measured data. For core noise directivity a three-way comparison was made between AFINDS, CLEAN-SC, and COP. In general, good agreement was found.",
+      "year": 2026,
+      "topics": [
+        "Vehicle Noise and Vibration Control",
+        "Aerodynamics and Acoustics in Jet Flows",
+        "Acoustic Wave Phenomena Research"
+      ],
+      "source": {
+        "name": "",
+        "id": "",
+        "type": "",
+        "issn": []
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.1016/j.jsv.2018.02.029"
+      ],
+      "scores": {
+        "total": 2.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 1.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_模态分析与声学测量方法"
+    },
+    {
+      "id": "W7118846359",
+      "doi": "10.1016/j.jsv.2025.119635",
+      "title": "Direct impedance eduction of acoustic liners in multimodal ducts with shear flows",
+      "abstract": "• An impedance eduction method for multimodal sound fields and sheared mean flow. • An improved post-processing procedure for educing impedance from wavenumbers. • An assessment of different liner configurations for impedance eduction. • A new microphone array to eliminate spurious mode effects. • The influence of different incident modes on the educed impedance. Impedance eduction of acoustic liners with flow is usually performed under the assumption of a uniform mean flow and in the presence of an incident plane wave. However, recent studies have demonstrated that shear flow significantly influences the propagation of sound waves and their interaction with the liner. Consequently, it is crucial to characterize acoustic treatments in flow and acoustic conditions that closely resemble their target application, such as aircraft nacelles. This paper investigates and validates experimentally a direct method of impedance eduction in multimodal sound fields with shear flows on the MAINE Flow facility, which was validated only through simulations. Besides the double-liner configuration proposed to enhance the eduction robustness, additional developments are implemented, including a dominant mode selection algorithm to address the complexity introduced by multimodal fields and a 2-line microphone array design to avoid spurious mode effects. Different high-order incident modes (in the direction normal to the liner) are also considered. Finally, the recommended setup, with two types of liner samples, are used to investigate the effects of flow and incident acoustic field on liner impedance. It is also observed that using antisymmetric high-order modes as incident field significantly enhances the robustness of the eduction process.",
+      "year": 2026,
+      "topics": [
+        "Aerodynamics and Acoustics in Jet Flows",
+        "Computational Fluid Dynamics and Aerodynamics",
+        "Acoustic Wave Phenomena Research"
+      ],
+      "source": {
+        "name": "Journal of Sound and Vibration",
+        "id": "S99182027",
+        "type": "journal",
+        "issn": [
+          "0022-460X",
+          "1095-8568"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.1016/0022-460X(80)90424-1",
+        "10.1016/0022-460x(80)90424-1"
+      ],
+      "scores": {
+        "total": 2.0,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 0.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_短进气道_短舱气动设计与优化"
+    },
+    {
+      "id": "W7162200169",
+      "doi": "10.1016/j.oceaneng.2026.126173",
+      "title": "A wavenumber-adaptive meshfree method for acoustic wave propagation with reduced dispersion error",
+      "abstract": "",
+      "year": 2026,
+      "topics": [
+        "Numerical methods in engineering",
+        "Seismic Imaging and Inversion Techniques",
+        "Underwater Acoustics Research"
+      ],
+      "source": {
+        "name": "Ocean Engineering",
+        "id": "S76910236",
+        "type": "journal",
+        "issn": [
+          "0029-8018",
+          "1873-5258"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.1017/jfm.2025.10602"
+      ],
+      "scores": {
+        "total": 2.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 1.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_模态分析与声学测量方法"
+    },
+    {
+      "id": "W7161624868",
+      "doi": "10.3390/aerospace13050473",
+      "title": "A Hybrid Lightweight Model with Enhanced Interpretability for Surge Detection in Aero-Engine Compressors",
+      "abstract": "Compressor surge detection, as a critical issue of aero-engines, often faces limitations with physics-based methods due to their reliance on expert-driven feature engineering and empirical thresholding rules. While deep learning offers superior feature extraction, it is hindered by low interpretability and high computational demands for real-time deployment. This paper aims to resolve these issues by proposing a novel framework that integrates a Lightweight Deep Support Vector Data Description (LWDSVDD) network with an Enhanced layer-wise relevance propagation (Enhanced-LRP) structure and dynamic threshold strategy. This new Enhanced-LIP algorithm identifies top-ranking temporal and spectral features by evaluating relevance score along with sensitivity for the surge phenomenon, ensuring precise and minimal extraction of critical features. Subsequently, these features are processed by the LWDSVDD which essentially embeds depthwise separable convolutions into traditional Deep Supported Vector Description, decomposing standard convolutions to depthwise and pointwise operations to achieve lightweight design. The joint effect of enhanced-LRP and LWDSVDD design enables a significant reduction in computational cost with minimal impact on detection accuracy. The proposed model was validated on several types of full-scale multi-stage compressors by deploying it in a portable edge-computing system, successfully demonstrating not only robustness to external interferences but also real-time surge warning capability with substantial lead time for reliable active anti-surge control.",
+      "year": 2026,
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Aerodynamics and Fluid Dynamics Research",
+        "Meteorological Phenomena and Simulations"
+      ],
+      "source": {
+        "name": "Aerospace",
+        "id": "S4210169245",
+        "type": "journal",
+        "issn": [
+          "2226-4310"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.1115/1.2929105"
+      ],
+      "scores": {
+        "total": 2.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 1.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_压气机失速起始与稳定性"
+    },
+    {
+      "id": "W7124744410",
+      "doi": "10.1016/j.ast.2026.111708",
+      "title": "Mechanistic insights into rotational curvature correction for turbulence modeling in high angles of attack separated flows",
+      "abstract": "",
+      "year": 2026,
+      "topics": [
+        "Biomimetic flight and propulsion mechanisms",
+        "Fluid Dynamics and Turbulent Flows",
+        "Fluid Dynamics and Vibration Analysis"
+      ],
+      "source": {
+        "name": "Aerospace Science and Technology",
+        "id": "S61564791",
+        "type": "journal",
+        "issn": [
+          "1270-9638",
+          "1626-3219"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.2514/1.J058462"
+      ],
+      "scores": {
+        "total": 2.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 1.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_风扇_压气机噪声产生与传播"
+    },
+    {
+      "id": "W7161816871",
+      "doi": "10.2514/6.2026-3271",
+      "title": "Design and Test of Novel Aero Engine Bypass Duct Liners for the NLR Flow Duct Facility",
+      "abstract": "This paper details the design, manufacture, and test of novel broadband acoustic liner panels under representative bypass duct grazing flow conditions. The Leonardo NLMC liner optimisation procedure was used to define the optimum configurations for a traditional state-of-the-art SDOF perforate liner reference liner and three lightweight novel liners; an enhanced SDOF perforate, a hybrid, and a complex cavity (CCC) design. The hybrid and CCC had novel core geometries. The experimental results show very good agreement with the predicted performance, confirming the validity of the NLMC impedance prediction and lined propagation modelling code. Each of the innovative liner configurations demonstrated attenuation improvements over the reference perforate across a broad frequency range, exhibiting significant in-duct PNL benefits over the baseline at the design point of M0.5, and also at the off-design point of M0.3. The tests confirm the acoustic effectiveness of the novel liner concepts for bypass ducts, following on from the successful tests of novel inlet liner configurations at AneCom, reported in 2024. The study demonstrates that the Leonardo innovative lightweight liner configurations can significantly outperform traditional designs while remaining suitable for aero engine integration. Finally, tests on the hybrid configuration were performed both without and with drainage slots. The results show that the drainage slots have only a second order impact on the downstream attenuation spectra.",
+      "year": 2026,
+      "topics": [
+        "Aerodynamics and Acoustics in Jet Flows",
+        "Plasma and Flow Control in Aerodynamics",
+        "Computational Fluid Dynamics and Aerodynamics"
+      ],
+      "source": {
+        "name": "",
+        "id": "",
+        "type": "",
+        "issn": []
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.2514/6.2005-3050"
+      ],
+      "scores": {
+        "total": 2.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 1,
+          "seed_connections": 0.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_机匣处理与流动控制"
+    },
+    {
+      "id": "W7161822284",
+      "doi": "10.2514/6.2026-3611",
+      "title": "On the Use of a Low-Order Model for Rig and Full-ScaleTurbofan Broadband Noise Predictions",
+      "abstract": "",
+      "year": 2026,
+      "topics": [
+        "Aerodynamics and Acoustics in Jet Flows",
+        "Acoustic Wave Phenomena Research",
+        "Vehicle Noise and Vibration Control"
+      ],
+      "source": {
+        "name": "",
+        "id": "",
+        "type": "",
+        "issn": []
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.2514/6.2014-3102"
+      ],
+      "scores": {
+        "total": 2.0,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 0.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_风扇_压气机噪声产生与传播"
+    },
+    {
+      "id": "W7162032375",
+      "doi": "10.1016/j.cja.2026.104259",
+      "title": "Total-pressure distortion control in a serpentine diffuser via streamwise vorticity reconstruction",
+      "abstract": "",
+      "year": 2026,
+      "topics": [
+        "Plasma and Flow Control in Aerodynamics",
+        "Fluid Dynamics and Turbulent Flows",
+        "Combustion and flame dynamics"
+      ],
+      "source": {
+        "name": "Chinese Journal of Aeronautics",
+        "id": "S42274841",
+        "type": "journal",
+        "issn": [
+          "1000-9361",
+          "2588-9230"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.1016/j.ast.2017.10.029"
+      ],
+      "scores": {
+        "total": 2.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 1,
+          "seed_connections": 0.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_机匣处理与流动控制"
     },
     {
       "id": "W2955768263",
@@ -10497,43 +11318,6 @@
         }
       },
       "best_question": "q_机匣处理与流动控制"
-    },
-    {
-      "id": "W4412980140",
-      "doi": "10.1016/j.jsv.2025.119356",
-      "title": "Microphone array design for the modal analysis of in-duct broadband noise",
-      "abstract": "International audience",
-      "year": 2025,
-      "topics": [
-        "Speech and Audio Processing",
-        "Structural Health Monitoring Techniques",
-        "Aerodynamics and Acoustics in Jet Flows"
-      ],
-      "source": {
-        "name": "Journal of Sound and Vibration",
-        "id": "S99182027",
-        "type": "journal",
-        "issn": [
-          "0022-460X",
-          "1095-8568"
-        ]
-      },
-      "discovered_via": "citing_seed",
-      "seed_connections": [
-        "10.1016/j.jsv.2018.02.029"
-      ],
-      "scores": {
-        "total": 1.85,
-        "components": {
-          "keyword_overlap": 1,
-          "topic_match": 0,
-          "seed_connections": 0.0,
-          "recency": 0.85,
-          "venue_match": 0.0,
-          "negative_penalty": 0.0
-        }
-      },
-      "best_question": "q_风扇_压气机噪声产生与传播"
     },
     {
       "id": "W4410480897",
@@ -15507,6 +16291,119 @@
       "best_question": "q_边界层吸入风扇气动与声学"
     },
     {
+      "id": "W4411427918",
+      "doi": "10.2514/1.j065119",
+      "title": "Screech in Military-Style Rectangular Nozzles",
+      "abstract": "In this work, the screech resonance loop in a military-style, converging–diverging nozzle is explored using a range of experimental and modeling techniques. Schlieren measurements of both major and minor axes were performed at a range of nozzle pressure ratios (NPRs), with the images decomposed via spectral-proper orthogonal decomposition. The decomposed data allow for the identification of modal staging and also provide information about the symmetry of the waves involved in the resonance loop. Further analysis was performed using particle image velocimetry (PIV) data, with the velocity fields associated with the different screech modes obtained by modal decomposition. The PIV data was also used to provide mean flows for linear stability analysis, which is used to predict the wavenumbers of the different waves involved in the resonance loop. These predictions are used in conjunction with a weakest-link model to predict the screech frequency of the flapping modes at a range of NPRs and are found to be in good agreement with the experimentally observed tones.",
+      "year": 2025,
+      "topics": [
+        "Aerodynamics and Acoustics in Jet Flows",
+        "Fluid Dynamics and Vibration Analysis",
+        "Fluid Dynamics and Turbulent Flows"
+      ],
+      "source": {
+        "name": "AIAA Journal",
+        "id": "S53336109",
+        "type": "journal",
+        "issn": [
+          "0001-1452",
+          "1081-0102",
+          "1533-385X"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.2514/1.J058462"
+      ],
+      "scores": {
+        "total": 1.85,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 1.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_风扇_压气机噪声产生与传播"
+    },
+    {
+      "id": "W4414853257",
+      "doi": "10.1063/5.0287432",
+      "title": "Extending the trapping theorem to provide local stability guarantees for quadratically nonlinear models",
+      "abstract": "The Navier–Stokes equations are partial differential equations to describe the nonlinear convective motion of fluids and they are computationally expensive to simulate because of their high nonlinearity and variables being fully coupled. Reduced-order models (ROMs) are simpler models for evolving the flows by capturing only the dominant behaviors of a system and can be used to design controllers for high-dimensional systems. However it is challenging to guarantee the stability of these models either globally or locally. Ensuring the stability of ROMs can improve the interpretability of the behavior of the dynamics and help develop effective system control strategies. For quadratically nonlinear systems that represent many fluid flows, the Schlegel and Noack trapping theorem [Schlegel and Noack, “On long-term boundedness of Galerkin models,” J. Fluid Mech. 765, 325–352 (2015)] can be used to check if ROMs are globally stable (long-term bounded). This theorem was subsequently incorporated into system identification techniques that determine models directly from data [Kaptanoglu et al., “Promoting global stability in data-driven models of quadratic nonlinear dynamics,” Phys. Rev. Fluids 6, 094401 (2021)]. While the Schlegel and Noack trapping theorem provides global stability criteria for systems with strictly energy-preserving nonlinearities, many physical systems, including those with inflow/outflow boundary conditions, exhibit weakly relaxed energy-preserving structures. This work introduces two key advances: (1) a theorem establishing analytical stability bounds for linear-quadratic systems under relaxed energy-preserving constraints, explicitly quantifying the local stability radius, and (2) the extended trapping SINDy algorithm, which embeds these theoretical guarantees into data-driven system identification. By integrating Lyapunov's direct method with the trapping theorem framework, our approach enables the first provably locally stable models for quadratic dynamics with weakly broken energy-preserving nonlinearities. Several examples are presented to demonstrate the effectiveness and accuracy of the proposed algorithm.",
+      "year": 2025,
+      "topics": [
+        "Model Reduction and Neural Networks",
+        "Numerical methods for differential equations",
+        "Fluid Dynamics and Turbulent Flows"
+      ],
+      "source": {
+        "name": "Physics of Fluids",
+        "id": "S22862804",
+        "type": "journal",
+        "issn": [
+          "1070-6631",
+          "1089-7666",
+          "1527-2435"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.2514/1.J058462"
+      ],
+      "scores": {
+        "total": 1.85,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 1.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_风扇_压气机噪声产生与传播"
+    },
+    {
+      "id": "W7155036302",
+      "doi": "10.1017/jfm.2025.10169",
+      "title": "Resolvent-based shape optimisation for a two-dimensional cylinder at low Reynolds numbers",
+      "abstract": "Flow over bluff bodies encounters instability at supercritical Reynolds numbers, exhibiting the periodic vortex shedding that leads to structural vibrations and acoustic noise. In this paper, a new aerodynamic shape optimisation strategy based on resolvent analysis is proposed to passively control the vortex shedding over two-dimensional cylinders. Firstly, we show that when the flow satisfies the rank-1 approximation, minimizing the maximal resolvent gain enhances flow stability. Secondly, we formulate the geometry-constrained resolvent-based optimisation problem that can be solved by the nonlinear conjugate gradient algorithm. Compared with conventional stability-based optimisation, the proposed approach is more effective as it avoids the cumbersome eigendecomposition of the high-dimensional Jacobian matrix. The efficacy of the proposed resolvent-based optimisation is validated through improving the stability of the one-dimensional Ginzburg–Landau equation. Thirdly, this approach is applied to suppress the vortex shedding of bluff bodies, initialised by a circular cylinder. Although the optimisation is performed at a subcritical state $Re = 40$ , reduced vortex shedding and drag forces can be achieved at supercritical Reynolds numbers, while the critical Reynolds number is extended from $47$ to $60$ . Dynamic mode decomposition is then performed to reveal that the optimised system becomes more stable and satisfies the rank-1 approximation. Finally, we demonstrate that the combined effects of the flattened surface and the Coanda effect delay flow separation, keeping the separation point nearly unchanged at supercritical Reynolds numbers (e.g. between 80 and 140) for the optimised geometry. This results in a substantial reduction in the strength of vortex shedding, which in turn leads to decreased drag forces. The optimised shape still achieves drag reduction in turbulent flows at a relatively high Reynolds number.",
+      "year": 2025,
+      "topics": [
+        "Fluid Dynamics and Vibration Analysis",
+        "Vibration Control and Rheological Fluids",
+        "Fluid Dynamics and Turbulent Flows"
+      ],
+      "source": {
+        "name": "Journal of Fluid Mechanics",
+        "id": "S152000018",
+        "type": "journal",
+        "issn": [
+          "0022-1120",
+          "1469-7645"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.2514/1.J058462"
+      ],
+      "scores": {
+        "total": 1.85,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 1.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_风扇_压气机噪声产生与传播"
+    },
+    {
       "id": "W4393380767",
       "doi": "10.1007/s11630-024-1961-9",
       "title": "A Methodology for Assessing Axial Compressor Stability with Inlet Temperature Ramp Distortion",
@@ -16381,42 +17278,6 @@
       "best_question": "q_压气机失速起始与稳定性"
     },
     {
-      "id": "W7140600171",
-      "doi": "10.3390/aerospace13040312",
-      "title": "Conceptual Design of Electrically Powered Urban Air Mobility Vehicles for Psychoacoustic Studies",
-      "abstract": "In order to provide an innovative form of urban air mobility, a new and versatile generation of small, highly automated aircraft is currently being developed. This is made feasible by the development of new technologies such as electrified powertrains, Vertical Take-Off and Landing capabilities and distributed propulsion systems. The operation of these novel aircraft types will generate a new source of air traffic noise. In particular, the perception of noise and the annoyance caused by these aircraft and their distributed propulsion systems are likely to deviate from those of conventional aircraft and will also depend on psychoacoustic effects. Thus, the noise emission and its subjective perception will be key factors for the success of urban air mobility vehicles and their acceptance by society. In order to investigate acoustic effects that enable low-noise aircraft design, a multidisciplinary approach is applied to develop new aircraft concepts for urban air mobility. This approach includes the conceptual design of two vehicles, one vehicle with tilt-rotors and one with tiltable, ducted fans; the sizing of an electric powertrain; the design and manufacturing of a wingtip rotor; and the design and manufacturing of the low-speed ducted fans. This paper presents the design of the two vehicle architectures, including their electric powertrain, as well as the aerodynamic and acoustic performance of the rotor and fan.",
-      "year": 2026,
-      "topics": [
-        "Aerodynamics and Acoustics in Jet Flows",
-        "Advanced Aircraft Design and Technologies",
-        "Vehicle Noise and Vibration Control"
-      ],
-      "source": {
-        "name": "Aerospace",
-        "id": "S4210169245",
-        "type": "journal",
-        "issn": [
-          "2226-4310"
-        ]
-      },
-      "discovered_via": "citing_seed",
-      "seed_connections": [
-        "10.2514/6.2021-2314"
-      ],
-      "scores": {
-        "total": 1.0,
-        "components": {
-          "keyword_overlap": 0,
-          "topic_match": 0,
-          "seed_connections": 0.0,
-          "recency": 1.0,
-          "venue_match": 0.0,
-          "negative_penalty": 0.0
-        }
-      },
-      "best_question": "q_压气机失速起始与稳定性"
-    },
-    {
       "id": "W7123682986",
       "doi": "10.1017/jfm.2025.11056",
       "title": "Propulsive characteristics of twin-starting jets with simultaneous initiations",
@@ -16439,6 +17300,40 @@
       "discovered_via": "citing_seed",
       "seed_connections": [
         "10.1016/j.ast.2018.04.031"
+      ],
+      "scores": {
+        "total": 1.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 0.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_压气机失速起始与稳定性"
+    },
+    {
+      "id": "W7161816357",
+      "doi": "10.2514/6.2026-3398",
+      "title": "Sound Power Estimation of Rotor-Stator Interaction Modes Based on Vane Surface Pressure Measurements",
+      "abstract": "",
+      "year": 2026,
+      "topics": [
+        "Aerodynamics and Acoustics in Jet Flows",
+        "Vehicle Noise and Vibration Control",
+        "Wind Energy Research and Development"
+      ],
+      "source": {
+        "name": "",
+        "id": "",
+        "type": "",
+        "issn": []
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.2514/6.2021-2314"
       ],
       "scores": {
         "total": 1.0,
@@ -20290,6 +21185,44 @@
       "best_question": "q_压气机失速起始与稳定性"
     },
     {
+      "id": "W4416919202",
+      "doi": "10.1016/j.ast.2025.111292",
+      "title": "Broadband sound transmission loss of multi-chamber micro-perforated panel absorbers in grazing flow",
+      "abstract": "",
+      "year": 2025,
+      "topics": [
+        "Acoustic Wave Phenomena Research",
+        "Aerodynamics and Acoustics in Jet Flows",
+        "Cellular and Composite Structures"
+      ],
+      "source": {
+        "name": "Aerospace Science and Technology",
+        "id": "S61564791",
+        "type": "journal",
+        "issn": [
+          "1270-9638",
+          "1626-3219"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.1016/0022-460X(80)90424-1",
+        "10.1016/0022-460x(80)90424-1"
+      ],
+      "scores": {
+        "total": 0.85,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 0.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_压气机失速起始与稳定性"
+    },
+    {
       "id": "W4404160297",
       "doi": "10.1360/SST-2024-0164",
       "title": "Theoretical and experimental study on noise reduction characteristics of perforated liners",
@@ -21243,5 +22176,5 @@
       "best_question": ""
     }
   ],
-  "last_updated": "2026-05-18T12:21:22.802334+00:00"
+  "last_updated": "2026-05-25T06:27:22.784992+00:00"
 }

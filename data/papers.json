@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-18T12:21:44.210315+00:00",
-  "total_count": 50,
+  "last_updated": "2026-05-25T06:27:51.826498+00:00",
+  "total_count": 55,
   "papers": [
     {
       "id": "W4407393370",
@@ -3649,6 +3649,179 @@
         "novelty": "incremental",
         "analyzed_at": "2026-05-18T12:21:39.286252+00:00"
       }
+    },
+    {
+      "id": "W7161760936",
+      "doi": "10.2514/6.2026-3519",
+      "title": "Impact of Steady Flow Distortion on Shock-Associated Tone Noise in Short and Conventional Aeroengine Intake Designs",
+      "year": 2026,
+      "abstract": "The transition toward ultra-high bypass ratio (UHBR) turbofan engines introduces compact intake designs with reduced length-to-diameter ratios. It is anticipated that the level of inflow distortion through the intake and observed at the fan will increase, impacting fan performance and noise. This study investigates the impact of steady inflow distortion on the generation and propagation of shock-associated tone noise in short and conventional aeroengine intake configurations. Two representative geometries (L/D = 0.35 and L/D = 0.5) are considered, applying a two-step source-propagation simulation methodology to reduce the computational cost of the simulations. A hybrid structured–unstructured meshing strategy is used in the intake domain to optimise acoustic resolution and computational demand. This framework achieves significant computational savings compared with conventional fully coupled simulations. The variation in distorted fields between intake configurations is considered and the impact on noise source generation and propagation mechanisms is investigated for each case. A permeable integral surface is used to radiate the acoustic field directly to the far-field, where the impact of steady distortion on far-field noise is highlighted for the current cases.",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_风扇_压气机噪声产生与传播"
+      ],
+      "claim_ids": [
+        "claim_W7161760936_1"
+      ],
+      "discovery_reason": "via citing_seed, connections: 12",
+      "scores": {
+        "total": 6.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": {
+        "claims_summary": {
+          "claims": [
+            {
+              "statement": "提出的两步源-传播模拟方法结合混合网格策略在保持声学分辨率的同时显著降低了计算成本",
+              "method": "两步源-传播模拟方法，混合结构化-非结构化网格策略",
+              "evidence_type": "numerical",
+              "geometry": "短进气道 (L/D=0.35) 和常规进气道 (L/D=0.5)",
+              "condition": "稳态畸变",
+              "outcome": "与传统全耦合模拟相比，计算成本大幅降低",
+              "limitation": "未明确声明"
+            }
+          ],
+          "relevance_to_question": 8,
+          "novelty": "incremental",
+          "question_affinity": []
+        },
+        "relevance_to_question": 8,
+        "novelty": "incremental",
+        "analyzed_at": "2026-05-25T06:27:48.182279+00:00"
+      }
+    },
+    {
+      "id": "W7162200299",
+      "doi": "10.1016/j.ijheatfluidflow.2026.110476",
+      "title": "Unsteady flow interactions and ground plane proximity in a coupled compact intake-fan in crosswind",
+      "year": 2026,
+      "abstract": "",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_短进气道_短舱气动设计与优化"
+      ],
+      "claim_ids": [],
+      "discovery_reason": "via citing_seed, connections: 3",
+      "scores": {
+        "total": 6.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": null
+    },
+    {
+      "id": "W4415517363",
+      "doi": "10.1115/1.4070233",
+      "title": "Impact of Fan Aerodynamics on Inlet Distortion at Crosswind",
+      "year": 2025,
+      "abstract": "Abstract This study offers a holistic perspective on fan and intake distortion interaction in crosswind conditions, addressing the factors influencing fan stability during ground operations. Although prior research has extensively examined individual aspects such as intake length, fan operating points, and crosswind speed, a comprehensive analysis encompassing all these parameters remains unexplored. Using two intakes with different length-to-diameter (L/D) ratios (0.5 and 0.25) and a 3D unsteady computational fluid dynamics (CFD) model, this paper investigates how the fan operating point (in terms of mass flow, pressure ratio, and proximity to the stall line) influences intake separation and how the resulting distortion affects the fan operation. The results show that for both intakes, the primary parameter of fan operation on intake flow is the mean mass flow. The intake flow remains largely unaffected by the fan pressure ratio or its proximity to the stall line, as long as the mass flow is kept constant. As the fan speed (mass flow) increases to a critical value, a shock forms at the intake lip, triggering flow separation within the intake. The shorter intake moves the onset of separation to a higher mass flow. However, the increase in critical mass flow is not driven by fan suction, as often suggested in the literature, but is caused by the repositioning of the spinner closer to the intake highlight, which redistributes flow radially near the intake lip. This observation was validated using an aspirated intake, which showed a similar conclusion to the powered configuration provided the hub line remained unchanged. These findings support the use of aspirated intakes for wind tunnel tests of intake designs under crosswind conditions. However, the fan’s response to the same level of distortion depends on the fan design and operating point. The data from aspirated intake measurements can be used as inlet conditions for fan (numerical and experimental) testing, retaining the effect of the operating point.",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_短进气道_短舱气动设计与优化"
+      ],
+      "claim_ids": [],
+      "discovery_reason": "via citing_seed, connections: 7",
+      "scores": {
+        "total": 5.85,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": {
+        "claims_summary": {
+          "claims": [],
+          "relevance_to_question": 0,
+          "novelty": "unknown",
+          "question_affinity": [],
+          "error": true
+        },
+        "relevance_to_question": 0,
+        "novelty": "unknown",
+        "analyzed_at": "2026-05-25T06:27:51.825340+00:00"
+      }
+    },
+    {
+      "id": "W4417014480",
+      "doi": "10.1016/j.ast.2025.111376",
+      "title": "Epistemic uncertainty due to turbulence closure on intakes under strong crosswinds",
+      "year": 2025,
+      "abstract": "",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_短进气道_短舱气动设计与优化"
+      ],
+      "claim_ids": [],
+      "discovery_reason": "via citing_seed, connections: 7",
+      "scores": {
+        "total": 5.85,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": null
+    },
+    {
+      "id": "W7161828752",
+      "doi": "10.2514/6.2026-3410",
+      "title": "The Azimuthal Mode Decomposition of the Fan Broadband Noise with a New Inverse Method",
+      "year": 2026,
+      "abstract": "",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_模态分析与声学测量方法"
+      ],
+      "claim_ids": [],
+      "discovery_reason": "via citing_seed, connections: 2",
+      "scores": {
+        "total": 5.0,
+        "components": {
+          "keyword_overlap": 2,
+          "topic_match": 0,
+          "seed_connections": 2.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": null
     }
   ]
 }

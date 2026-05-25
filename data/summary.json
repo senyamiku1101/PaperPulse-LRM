@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-18T12:28:20.244519+00:00",
-  "total_papers": 50,
-  "analyzed_papers": 37,
+  "last_updated": "2026-05-25T06:34:37.054181+00:00",
+  "total_papers": 55,
+  "analyzed_papers": 39,
   "date_range": {
     "earliest": 1980,
     "latest": 2026
   },
-  "avg_citations": 39.3,
+  "avg_citations": 35.7,
   "most_cited": {
     "id": "W1987902628",
     "title": "A column pre-ordering strategy for the unsymmetric-pattern multifrontal method",
@@ -97,7 +97,7 @@
   ],
   "peak_year": {
     "year": 2025,
-    "count": 17
+    "count": 19
   },
   "total_groups": 2,
   "papers_by_year": {
@@ -116,8 +116,8 @@
     "2021": 3,
     "2023": 5,
     "2024": 3,
-    "2025": 17,
-    "2026": 7
+    "2025": 19,
+    "2026": 10
   },
   "relevance_distribution": {
     "high": 5,
