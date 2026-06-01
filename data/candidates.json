@@ -168,6 +168,49 @@
       "promoted": true
     },
     {
+      "id": "W7162331307",
+      "doi": "10.2514/1.j066532",
+      "title": "Flow Control for a Nacelle Inlet in Crosswind",
+      "abstract": "Control strategies targeting azimuthal flow separation over the inner windward surface of an engine nacelle inlet in the presence of a crossflow are explored in a wind tunnel investigation at inlet Mach numbers up to [Formula: see text] and crossflow [Formula: see text]. Three fluidic control approaches using arrays of surface jet actuators are considered, which include steady jets and fluidically oscillating jets with and without internal feedback flow. The effects of each of the jet types are evaluated using the same array configuration over a range of [Formula: see text], [Formula: see text], and the control mass flow rate parameter [Formula: see text]. Although each actuation approach engenders significant improvements in distortion [Formula: see text] compared to the base flow, unsteady actuation using fluidically oscillating jets generally outperforms steady jet actuation at the same actuation mass flow rate. Furthermore, it is found that fluidically oscillating jet actuation is more effective at low [Formula: see text] in the presence of internal feedback and at high [Formula: see text] in the absence of internal feedback. Specifically, fluidic actuation in the absence of internal feedback reduces the distortion measure [Formula: see text] by 50–55% across the present range of [Formula: see text], at [Formula: see text] lower than 0.3%. The present investigations also showed that changes in the topology of flow separation with varying [Formula: see text] and [Formula: see text] underscored the need for reconfiguration of the active jet actuators within the jet array to conform to the flow separation pattern to achieve optimal effectiveness.",
+      "year": 2026,
+      "topics": [
+        "Plasma and Flow Control in Aerodynamics",
+        "Aerodynamics and Acoustics in Jet Flows",
+        "Fluid Dynamics and Turbulent Flows"
+      ],
+      "source": {
+        "name": "AIAA Journal",
+        "id": "S53336109",
+        "type": "journal",
+        "issn": [
+          "0001-1452",
+          "1081-0102",
+          "1533-385X"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.1115/1.4028235",
+        "10.2514/1.18644",
+        "10.2514/3.22785",
+        "10.2514/1.b34327",
+        "10.2514/1.b34326"
+      ],
+      "scores": {
+        "total": 7.0,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_短进气道_短舱气动设计与优化",
+      "promoted": true
+    },
+    {
       "id": "W4414394993",
       "doi": "10.1080/23311916.2025.2560978",
       "title": "A comprehensive review of numerical and experimental techniques for enhancing axial flow compressor performance under various flow conditions",
@@ -4253,6 +4296,44 @@
       "best_question": "q_模态分析与声学测量方法"
     },
     {
+      "id": "W7162247209",
+      "doi": "10.1016/j.ast.2026.112685",
+      "title": "Impact of wire mesh casing treatment on compressor rotating instability and stall patterns",
+      "abstract": "",
+      "year": 2026,
+      "topics": [
+        "Turbomachinery Performance and Optimization",
+        "Bladed Disk Vibration Dynamics",
+        "Wind Energy Research and Development"
+      ],
+      "source": {
+        "name": "Aerospace Science and Technology",
+        "id": "S61564791",
+        "type": "journal",
+        "issn": [
+          "1270-9638",
+          "1626-3219"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.1016/j.ast.2022.108070",
+        "10.2514/6.1996-1741"
+      ],
+      "scores": {
+        "total": 3.0,
+        "components": {
+          "keyword_overlap": 2,
+          "topic_match": 0,
+          "seed_connections": 0.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_机匣处理与流动控制"
+    },
+    {
       "id": "W2970758468",
       "doi": "10.1007/s11630-019-1186-5",
       "title": "Application of Stall Warning Approach with Stall Precursor-Suppressed Casing Treatment on a Two-Stage Compressor",
@@ -6228,6 +6309,42 @@
         }
       },
       "best_question": "q_风扇_压气机噪声产生与传播"
+    },
+    {
+      "id": "W4416839983",
+      "doi": "10.1038/s41598-025-29997-x",
+      "title": "Application of deep reinforcement learning for aerodynamic control around an angled airfoil via synthetic jet",
+      "abstract": "This study introduces a Deep Reinforcement Learning (DRL) framework for aerodynamic control of weakly compressible flow around an angled airfoil, aiming to optimize lift and drag through synthetic jet actuation. By combining pressure and velocity information from strategically placed sensors, the framework enhances the agent's learning efficiency and control precision. Results demonstrate that integrating both variables improves total reward, reduces vortex shedding, stabilizes the wake, and minimizes lift fluctuations while lowering drag. The control policy, trained through 300 episodes using a Deep Q-Network (DQN) with five hidden layers of 128 neurons, achieves stable convergence and effective wake stabilization. Among the tested architectures, i.e. Traditional DQN, Double DQN, and Dueling DQN, the latter yields the most consistent learning behavior and highest performance by distinguishing state-value and advantage functions. Overall, the proposed DRL-based approach provides an efficient and robust strategy for active flow control in compressible aerodynamic applications, highlighting its potential for future engineering and aerospace systems.",
+      "year": 2025,
+      "topics": [
+        "Plasma and Flow Control in Aerodynamics",
+        "Model Reduction and Neural Networks",
+        "Biomimetic flight and propulsion mechanisms"
+      ],
+      "source": {
+        "name": "Scientific Reports",
+        "id": "S196734849",
+        "type": "journal",
+        "issn": [
+          "2045-2322"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.2514/1.J058462"
+      ],
+      "scores": {
+        "total": 2.85,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 1,
+          "seed_connections": 0.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_机匣处理与流动控制"
     },
     {
       "id": "W4400110395",
@@ -8894,6 +9011,118 @@
         }
       },
       "best_question": "q_机匣处理与流动控制"
+    },
+    {
+      "id": "W7125482749",
+      "doi": "10.1063/5.0302708",
+      "title": "Fluid drag reduction assisted by machine learning: A review",
+      "abstract": "Drag reduction in liquid flows is pivotal for energy conservation and sustainable development, as it directly mitigates energy consumption across liquid-driven systems—including marine transportation, oil pipeline networks, and industrial liquid transportation. Against rising energy efficiency demands, machine learning (ML) has emerged as a transformative tool to advance drag reduction efforts. By leveraging ML algorithms to analyze large-scale fluid flow datasets, precise predictive models of fluid dynamics can be developed, enabling accurate forecasting of flow behaviors and drag reduction efficacy under diverse operating conditions. Such capabilities offer novel insights and methodologies to accelerate innovation in fluid drag reduction technologies. This paper presents a systematic review of recent advances and practical applications of ML in fluid drag reduction, with a specific focus on liquid drag reduction. It critically examines key application domains, including the optimization of flow control strategies for drag reduction, the enhancement of ship hull design to minimize hydrodynamic resistance, and the tuning of bubble-induced drag reduction parameters. Additionally, the review provides a comprehensive analysis of prevailing challenges and limitations and outlines promising future research directions, emphasizing the development of hybrid ML-physics models, and the scaling of ML-driven solutions for industrial deployment—with the aim of guiding the advancement of energy-efficient fluid systems.",
+      "year": 2026,
+      "topics": [
+        "Rheology and Fluid Dynamics Studies",
+        "Fluid Dynamics and Vibration Analysis",
+        "Fluid Dynamics and Mixing"
+      ],
+      "source": {
+        "name": "Physics of Fluids",
+        "id": "S22862804",
+        "type": "journal",
+        "issn": [
+          "1070-6631",
+          "1089-7666",
+          "1527-2435"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.2514/1.J058462"
+      ],
+      "scores": {
+        "total": 2.0,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 0.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_机匣处理与流动控制"
+    },
+    {
+      "id": "W7130835696",
+      "doi": "10.1016/j.euromechflu.2026.204491",
+      "title": "Hybrid AI-reduced-order model for real-time wind flow prediction around offshore wind farms",
+      "abstract": "",
+      "year": 2026,
+      "topics": [
+        "Wind Energy Research and Development",
+        "Model Reduction and Neural Networks",
+        "Aerospace and Aviation Technology"
+      ],
+      "source": {
+        "name": "European Journal of Mechanics - B/Fluids",
+        "id": "S75679255",
+        "type": "journal",
+        "issn": [
+          "0997-7546",
+          "1873-7390"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.2514/1.J058462"
+      ],
+      "scores": {
+        "total": 2.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 1.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_风扇_压气机噪声产生与传播"
+    },
+    {
+      "id": "W7133497386",
+      "doi": "10.1016/j.oceaneng.2026.124772",
+      "title": "Sparse reconstruction of the vehicle wall pressure field under natural cavitation based on iterative sensor layout optimization",
+      "abstract": "",
+      "year": 2026,
+      "topics": [
+        "Automotive and Human Injury Biomechanics",
+        "Soft Robotics and Applications",
+        "Flow Measurement and Analysis"
+      ],
+      "source": {
+        "name": "Ocean Engineering",
+        "id": "S76910236",
+        "type": "journal",
+        "issn": [
+          "0029-8018",
+          "1873-5258"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.2514/1.J058462"
+      ],
+      "scores": {
+        "total": 2.0,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 1.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_风扇_压气机噪声产生与传播"
     },
     {
       "id": "W2955768263",
@@ -16404,6 +16633,80 @@
       "best_question": "q_风扇_压气机噪声产生与传播"
     },
     {
+      "id": "W4406808291",
+      "doi": "10.1017/jfm.2024.1180",
+      "title": "Large-eddy simulations of the noise control of supersonic rectangular jets with bevelled nozzles",
+      "abstract": "The bevelled nozzle is a promising noise control approach and has been tested to suppress the noise levels in supersonic circular jets, but not in rectangular jets so far. In this study, implicit large-eddy simulations are performed to analyse the noise control of supersonic rectangular jets with single- and double-bevelled nozzles. Three nozzle pressure ratios ( $NPR = 2.3$ , 3.0 and 5.0) are considered to form two over-expanded cold jets and one under-expanded cold jet, exhausted from a baseline convergent–divergent rectangular nozzle with an aspect ratio of 2.0. Results show that, with the increase of $NPR$ , the oscillation of the jet plume is switched from a symmetrical mode to a flapping mode (preferential in the minor-axis plane), then to a helical mode, together with a reduction of the screech frequency. The amplitude of the screech tone is the strongest in the flapping jet, and the turbulent mixing noise is the most prominent in the helically oscillating jet. The single-bevelled nozzle induces asymmetric shock-cell structures and deflects the jet plumes, and the double-bevelled nozzle primarily enables the enhancement of the shear-layer mixing and shortens the lengths of the jet potential cores. With the bevelled nozzles, the gross thrusts of the baseline nozzle are increased by $0.05 \\sim 7.38$ %. Details on the characteristics of far-field noise in the jets with/without the bevel cuts and their noise control mechanisms are discussed using the Ffowcs Williams–Hawkings acoustic analogy, dynamic mode decomposition and spatio-temporal Fourier transformation. Results suggest that the noise control has a close relationship with the destruction of well-organized coherent structures and the suppression of upstream-propagating guided-jet modes, which interrupt the feedback mechanism accounting for the generation of screech tones in the supersonic rectangular jets.",
+      "year": 2025,
+      "topics": [
+        "Aerodynamics and Acoustics in Jet Flows",
+        "Fluid Dynamics and Turbulent Flows",
+        "Acoustic Wave Phenomena Research"
+      ],
+      "source": {
+        "name": "Journal of Fluid Mechanics",
+        "id": "S152000018",
+        "type": "journal",
+        "issn": [
+          "0022-1120",
+          "1469-7645"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.2514/1.J056060"
+      ],
+      "scores": {
+        "total": 1.85,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 0.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_模态分析与声学测量方法"
+    },
+    {
+      "id": "W4407238887",
+      "doi": "10.1007/s42401-025-00345-1",
+      "title": "Sound field reconstruction of aero-engine fans using hierarchical Bayesian algorithms",
+      "abstract": "",
+      "year": 2025,
+      "topics": [
+        "Aerodynamics and Acoustics in Jet Flows",
+        "Vehicle Noise and Vibration Control",
+        "Acoustic Wave Phenomena Research"
+      ],
+      "source": {
+        "name": "Aerospace Systems",
+        "id": "S4210181437",
+        "type": "journal",
+        "issn": [
+          "2523-3947",
+          "2523-3955"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.4271/620532"
+      ],
+      "scores": {
+        "total": 1.85,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 1.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_风扇_压气机噪声产生与传播"
+    },
+    {
       "id": "W4393380767",
       "doi": "10.1007/s11630-024-1961-9",
       "title": "A Methodology for Assessing Axial Compressor Stability with Inlet Temperature Ramp Distortion",
@@ -21223,6 +21526,43 @@
       "best_question": "q_压气机失速起始与稳定性"
     },
     {
+      "id": "W4415497604",
+      "doi": "10.1017/jfm.2025.10747",
+      "title": "Low-Reynolds-number aerofoil boundary layer transition in large-scale free stream turbulence",
+      "abstract": "The effects of high-intensity, large-scale free stream turbulence on the aerodynamic loading and boundary layer flow field development on a NACA 0018 aerofoil model were studied experimentally using direct force measurements and particle image velocimetry at a chord Reynolds number of $7\\times 10^4$ . An active turbulence grid was used to generate free stream turbulence intensities of up to $16\\,\\%$ at integral length scales of the order of the aerofoil chord length. Relative to the clean flow condition with a free stream turbulence intensity of $0.1\\,\\%$ , elevated levels of free stream turbulence intensity decrease the lift slope at low angles of attack, and increase the stall angle and maximum lift coefficient. At moderate angles of attack, high-intensity free stream turbulence causes large variations in the location of transition, with laminar flow occasionally persisting over $90\\,\\%$ of the chord length. At pre-stall angles of attack, high-intensity free stream turbulence causes intermittent massive separation. Variations in the extent of turbulence in the suction surface boundary layer are linked to fluctuations in effective angle of attack, suggesting that the observed variability in transition location is related to large-scale incoming flow disturbances impinging on the aerofoil model. A comparative analysis of the present results and those in previous studies for predominantly smaller integral length scales shows the importance of both the intensity and length scale of free stream turbulence on the flow development over the aerofoil.",
+      "year": 2025,
+      "topics": [
+        "Fluid Dynamics and Turbulent Flows",
+        "Computational Fluid Dynamics and Aerodynamics",
+        "Fluid Dynamics and Vibration Analysis"
+      ],
+      "source": {
+        "name": "Journal of Fluid Mechanics",
+        "id": "S152000018",
+        "type": "journal",
+        "issn": [
+          "0022-1120",
+          "1469-7645"
+        ]
+      },
+      "discovered_via": "citing_seed",
+      "seed_connections": [
+        "10.2514/1.J056060"
+      ],
+      "scores": {
+        "total": 0.85,
+        "components": {
+          "keyword_overlap": 0,
+          "topic_match": 0,
+          "seed_connections": 0.0,
+          "recency": 0.85,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "best_question": "q_压气机失速起始与稳定性"
+    },
+    {
       "id": "W4404160297",
       "doi": "10.1360/SST-2024-0164",
       "title": "Theoretical and experimental study on noise reduction characteristics of perforated liners",
@@ -22176,5 +22516,5 @@
       "best_question": ""
     }
   ],
-  "last_updated": "2026-05-25T06:27:22.784992+00:00"
+  "last_updated": "2026-06-01T06:54:53.178032+00:00"
 }

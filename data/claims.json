@@ -543,7 +543,143 @@
       "contradicting_papers": [],
       "confidence": "moderate",
       "created_at": "2026-05-25"
+    },
+    {
+      "id": "claim_W7162331307_1",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "流体振荡射流在相同质量流量下通常优于稳态射流，能更有效地降低进气道畸变",
+      "method": "风洞实验",
+      "evidence_type": "experiment",
+      "geometry": "发动机短舱进气道（nacelle inlet）",
+      "condition": "入口马赫数达0.85，侧风马赫数达0.3，控制质量流量参数变化",
+      "outcome": "流体振荡射流在相同质量流量下比稳态射流能更显著改善畸变指标",
+      "limitation": "未明确说明，但需针对不同工况重新配置射流阵列",
+      "supporting_papers": [
+        "W7162331307"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-06-01"
+    },
+    {
+      "id": "claim_W7162331307_2",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "无内部反馈的流体振荡射流能在低质量流量比（低于0.3%）下将畸变指标降低50-55%",
+      "method": "风洞实验",
+      "evidence_type": "experiment",
+      "geometry": "发动机短舱进气道（nacelle inlet）",
+      "condition": "入口马赫数达0.85，侧风马赫数达0.3，控制质量流量比低于0.3%",
+      "outcome": "无内部反馈的流体振荡射流可降低畸变指标50-55%",
+      "limitation": "实验范围有限，且效果依赖于流动分离拓扑",
+      "supporting_papers": [
+        "W7162331307"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-06-01"
+    },
+    {
+      "id": "claim_W7162331307_3",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "流动分离拓扑随马赫数和质量流量变化，需重新配置射流阵列以保持最优控制效果",
+      "method": "风洞实验",
+      "evidence_type": "experiment",
+      "geometry": "发动机短舱进气道（nacelle inlet）",
+      "condition": "不同入口马赫数和侧风马赫数",
+      "outcome": "需要根据流动分离模式调整射流阵列配置以实现最优效果",
+      "limitation": "未明确说明",
+      "supporting_papers": [
+        "W7162331307"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-06-01"
+    },
+    {
+      "id": "claim_W4415517363_1",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "风扇的平均质量流量是影响进气道流动的主要参数，而风扇压比或接近失速线的程度对进气道流动影响不大，只要质量流量保持恒定。",
+      "method": "3D非定常CFD数值模拟",
+      "evidence_type": "numerical",
+      "geometry": "两种长径比(L/D=0.5和0.25)的进气道",
+      "condition": "侧风条件下，不同风扇工作点（质量流量、压比、接近失速线的程度）",
+      "outcome": "对于两种进气道，进气道流动主要由平均质量流量决定，压比和接近失速线的影响可以忽略。",
+      "limitation": "结果基于特定风扇设计，可能不适用于所有风扇类型；需进一步验证不同设计下的通用性。",
+      "supporting_papers": [
+        "W4415517363"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-06-01"
+    },
+    {
+      "id": "claim_W4415517363_2",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "当风扇转速（质量流量）增加到临界值时，进气道唇口形成激波，触发进气道内流动分离。",
+      "method": "3D非定常CFD数值模拟",
+      "evidence_type": "numerical",
+      "geometry": "两种长径比(L/D=0.5和0.25)的进气道",
+      "condition": "侧风条件下，风扇质量流量从低到高变化",
+      "outcome": "存在临界质量流量，超过后唇口激波出现并引发分离。",
+      "limitation": "临界值依赖于进气道几何和侧风条件，未定量给出。",
+      "supporting_papers": [
+        "W4415517363"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-06-01"
+    },
+    {
+      "id": "claim_W4415517363_3",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "较短的进气道将分离起始推迟到更高的质量流量，但原因不是风扇抽吸，而是因为短进气道使整流罩更靠近进气道highlight，从而径向重新分布唇口附近的流动。",
+      "method": "3D非定常CFD数值模拟及抽吸进气道对比验证",
+      "evidence_type": "numerical",
+      "geometry": "长径比0.25的短进气道与0.5的长进气道对比",
+      "condition": "侧风条件下，相同质量流量",
+      "outcome": "短进气道延迟分离，机制为整流罩位置改变径向流动分布，而非风扇抽吸。",
+      "limitation": "验证仅通过抽吸进气道对比，未考虑进气道形状差异。",
+      "supporting_papers": [
+        "W4415517363"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-06-01"
+    },
+    {
+      "id": "claim_W4415517363_4",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "使用抽吸进气道（无旋转风扇）可以模拟有风扇配置下的进气道流动，前提是保持轮毂线不变。",
+      "method": "数值比较（3D非定常CFD中抽吸进气道与真实风扇对比）",
+      "evidence_type": "numerical",
+      "geometry": "两种长径比的进气道，抽吸进气道保持原轮毂线",
+      "condition": "侧风条件下，相同质量流量",
+      "outcome": "抽吸进气道在轮毂线不变时得到与风扇配置相似的流动结构。",
+      "limitation": "抽吸进气道无法模拟风扇对畸变的响应，仅适用于进气道流场研究。",
+      "supporting_papers": [
+        "W4415517363"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-06-01"
+    },
+    {
+      "id": "claim_W4415517363_5",
+      "question_id": "q_短进气道_短舱气动设计与优化",
+      "statement": "风扇对相同畸变水平的响应取决于风扇设计和工作点，因此抽吸进气道数据可用作风扇测试的进口条件，但需保留工作点效应。",
+      "method": "综合分析（数值模拟与实验建议）",
+      "evidence_type": "review",
+      "geometry": "两种长径比的进气道及抽吸进气道",
+      "condition": "侧风条件下，不同风扇工作点",
+      "outcome": "抽吸进气道数据可作为数值或实验测试的进口边界条件，能反映工作点影响。",
+      "limitation": "未提供具体风扇设计参数对响应的影响规律。",
+      "supporting_papers": [
+        "W4415517363"
+      ],
+      "contradicting_papers": [],
+      "confidence": "moderate",
+      "created_at": "2026-06-01"
     }
   ],
-  "last_updated": "2026-05-25T06:27:51.825725+00:00"
+  "last_updated": "2026-06-01T06:55:10.504155+00:00"
 }

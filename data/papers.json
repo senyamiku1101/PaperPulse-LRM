@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-25T06:27:51.826498+00:00",
-  "total_count": 55,
+  "last_updated": "2026-06-01T06:55:10.505043+00:00",
+  "total_count": 56,
   "papers": [
     {
       "id": "W4407393370",
@@ -3741,7 +3741,13 @@
       "question_ids": [
         "q_短进气道_短舱气动设计与优化"
       ],
-      "claim_ids": [],
+      "claim_ids": [
+        "claim_W4415517363_1",
+        "claim_W4415517363_2",
+        "claim_W4415517363_3",
+        "claim_W4415517363_4",
+        "claim_W4415517363_5"
+      ],
       "discovery_reason": "via citing_seed, connections: 7",
       "scores": {
         "total": 5.85,
@@ -3756,15 +3762,62 @@
       },
       "analysis": {
         "claims_summary": {
-          "claims": [],
-          "relevance_to_question": 0,
-          "novelty": "unknown",
-          "question_affinity": [],
-          "error": true
+          "claims": [
+            {
+              "statement": "风扇的平均质量流量是影响进气道流动的主要参数，而风扇压比或接近失速线的程度对进气道流动影响不大，只要质量流量保持恒定。",
+              "method": "3D非定常CFD数值模拟",
+              "evidence_type": "numerical",
+              "geometry": "两种长径比(L/D=0.5和0.25)的进气道",
+              "condition": "侧风条件下，不同风扇工作点（质量流量、压比、接近失速线的程度）",
+              "outcome": "对于两种进气道，进气道流动主要由平均质量流量决定，压比和接近失速线的影响可以忽略。",
+              "limitation": "结果基于特定风扇设计，可能不适用于所有风扇类型；需进一步验证不同设计下的通用性。"
+            },
+            {
+              "statement": "当风扇转速（质量流量）增加到临界值时，进气道唇口形成激波，触发进气道内流动分离。",
+              "method": "3D非定常CFD数值模拟",
+              "evidence_type": "numerical",
+              "geometry": "两种长径比(L/D=0.5和0.25)的进气道",
+              "condition": "侧风条件下，风扇质量流量从低到高变化",
+              "outcome": "存在临界质量流量，超过后唇口激波出现并引发分离。",
+              "limitation": "临界值依赖于进气道几何和侧风条件，未定量给出。"
+            },
+            {
+              "statement": "较短的进气道将分离起始推迟到更高的质量流量，但原因不是风扇抽吸，而是因为短进气道使整流罩更靠近进气道highlight，从而径向重新分布唇口附近的流动。",
+              "method": "3D非定常CFD数值模拟及抽吸进气道对比验证",
+              "evidence_type": "numerical",
+              "geometry": "长径比0.25的短进气道与0.5的长进气道对比",
+              "condition": "侧风条件下，相同质量流量",
+              "outcome": "短进气道延迟分离，机制为整流罩位置改变径向流动分布，而非风扇抽吸。",
+              "limitation": "验证仅通过抽吸进气道对比，未考虑进气道形状差异。"
+            },
+            {
+              "statement": "使用抽吸进气道（无旋转风扇）可以模拟有风扇配置下的进气道流动，前提是保持轮毂线不变。",
+              "method": "数值比较（3D非定常CFD中抽吸进气道与真实风扇对比）",
+              "evidence_type": "numerical",
+              "geometry": "两种长径比的进气道，抽吸进气道保持原轮毂线",
+              "condition": "侧风条件下，相同质量流量",
+              "outcome": "抽吸进气道在轮毂线不变时得到与风扇配置相似的流动结构。",
+              "limitation": "抽吸进气道无法模拟风扇对畸变的响应，仅适用于进气道流场研究。"
+            },
+            {
+              "statement": "风扇对相同畸变水平的响应取决于风扇设计和工作点，因此抽吸进气道数据可用作风扇测试的进口条件，但需保留工作点效应。",
+              "method": "综合分析（数值模拟与实验建议）",
+              "evidence_type": "review",
+              "geometry": "两种长径比的进气道及抽吸进气道",
+              "condition": "侧风条件下，不同风扇工作点",
+              "outcome": "抽吸进气道数据可作为数值或实验测试的进口边界条件，能反映工作点影响。",
+              "limitation": "未提供具体风扇设计参数对响应的影响规律。"
+            }
+          ],
+          "relevance_to_question": 10,
+          "novelty": "novel",
+          "question_affinity": [
+            "短进气道/短舱气动设计与优化"
+          ]
         },
-        "relevance_to_question": 0,
-        "novelty": "unknown",
-        "analyzed_at": "2026-05-25T06:27:51.825340+00:00"
+        "relevance_to_question": 10,
+        "novelty": "novel",
+        "analyzed_at": "2026-06-01T06:55:10.503786+00:00"
       }
     },
     {
@@ -3822,6 +3875,78 @@
         }
       },
       "analysis": null
+    },
+    {
+      "id": "W7162331307",
+      "doi": "10.2514/1.j066532",
+      "title": "Flow Control for a Nacelle Inlet in Crosswind",
+      "year": 2026,
+      "abstract": "Control strategies targeting azimuthal flow separation over the inner windward surface of an engine nacelle inlet in the presence of a crossflow are explored in a wind tunnel investigation at inlet Mach numbers up to [Formula: see text] and crossflow [Formula: see text]. Three fluidic control approaches using arrays of surface jet actuators are considered, which include steady jets and fluidically oscillating jets with and without internal feedback flow. The effects of each of the jet types are evaluated using the same array configuration over a range of [Formula: see text], [Formula: see text], and the control mass flow rate parameter [Formula: see text]. Although each actuation approach engenders significant improvements in distortion [Formula: see text] compared to the base flow, unsteady actuation using fluidically oscillating jets generally outperforms steady jet actuation at the same actuation mass flow rate. Furthermore, it is found that fluidically oscillating jet actuation is more effective at low [Formula: see text] in the presence of internal feedback and at high [Formula: see text] in the absence of internal feedback. Specifically, fluidic actuation in the absence of internal feedback reduces the distortion measure [Formula: see text] by 50–55% across the present range of [Formula: see text], at [Formula: see text] lower than 0.3%. The present investigations also showed that changes in the topology of flow separation with varying [Formula: see text] and [Formula: see text] underscored the need for reconfiguration of the active jet actuators within the jet array to conform to the flow separation pattern to achieve optimal effectiveness.",
+      "authors": [],
+      "topics": [],
+      "source": {},
+      "role": "promoted",
+      "question_ids": [
+        "q_短进气道_短舱气动设计与优化"
+      ],
+      "claim_ids": [
+        "claim_W7162331307_1",
+        "claim_W7162331307_2",
+        "claim_W7162331307_3"
+      ],
+      "discovery_reason": "via citing_seed, connections: 5",
+      "scores": {
+        "total": 7.0,
+        "components": {
+          "keyword_overlap": 1,
+          "topic_match": 0,
+          "seed_connections": 5.0,
+          "recency": 1.0,
+          "venue_match": 0.0,
+          "negative_penalty": 0.0
+        }
+      },
+      "analysis": {
+        "claims_summary": {
+          "claims": [
+            {
+              "statement": "流体振荡射流在相同质量流量下通常优于稳态射流，能更有效地降低进气道畸变",
+              "method": "风洞实验",
+              "evidence_type": "experiment",
+              "geometry": "发动机短舱进气道（nacelle inlet）",
+              "condition": "入口马赫数达0.85，侧风马赫数达0.3，控制质量流量参数变化",
+              "outcome": "流体振荡射流在相同质量流量下比稳态射流能更显著改善畸变指标",
+              "limitation": "未明确说明，但需针对不同工况重新配置射流阵列"
+            },
+            {
+              "statement": "无内部反馈的流体振荡射流能在低质量流量比（低于0.3%）下将畸变指标降低50-55%",
+              "method": "风洞实验",
+              "evidence_type": "experiment",
+              "geometry": "发动机短舱进气道（nacelle inlet）",
+              "condition": "入口马赫数达0.85，侧风马赫数达0.3，控制质量流量比低于0.3%",
+              "outcome": "无内部反馈的流体振荡射流可降低畸变指标50-55%",
+              "limitation": "实验范围有限，且效果依赖于流动分离拓扑"
+            },
+            {
+              "statement": "流动分离拓扑随马赫数和质量流量变化，需重新配置射流阵列以保持最优控制效果",
+              "method": "风洞实验",
+              "evidence_type": "experiment",
+              "geometry": "发动机短舱进气道（nacelle inlet）",
+              "condition": "不同入口马赫数和侧风马赫数",
+              "outcome": "需要根据流动分离模式调整射流阵列配置以实现最优效果",
+              "limitation": "未明确说明"
+            }
+          ],
+          "relevance_to_question": 10,
+          "novelty": "novel",
+          "question_affinity": [
+            "1"
+          ]
+        },
+        "relevance_to_question": 10,
+        "novelty": "novel",
+        "analyzed_at": "2026-06-01T06:55:08.671152+00:00"
+      }
     }
   ]
 }
